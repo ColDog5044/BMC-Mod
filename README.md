@@ -1,5 +1,11 @@
 > # ColDog5044’s BMC Mod
 
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ColDogStudios/BMC-Mod?display_name=release)
+![GitHub all releases](https://img.shields.io/github/downloads/ColDogStudios/BMC-Mod/total)
+![GitHub issues](https://img.shields.io/github/issues/ColDogStudios/BMC-Mod)
+![GitHub last commit](https://img.shields.io/github/last-commit/ColDogStudios/BMC-Mod)
+
 ---
 
 # Terms of Use
