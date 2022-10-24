@@ -11,7 +11,6 @@
 # Terms of Use
 
  - **DO NOT** make any changes to my mod files and publicly distribute it, you may only modify the files for personal use.
-   - *All it takes is 1 person to ruin this*
 
 ## How to Install
 
