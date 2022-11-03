@@ -23,6 +23,10 @@
 7. Replace data.jet with modded data.jet
 8. Open BMC
 
+## Questions Regarding an APK
+
+An APK is not currently official or promised. If I find time to compile one together, it will be released.
+
 ## Important Note
 
  - If you showcase this mod please credit me - ColDog5044
