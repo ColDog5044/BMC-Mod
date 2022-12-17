@@ -1,0 +1,57 @@
+{	
+    "Type":             "SupplyDropPlane",    
+    "TargetRange":      320,
+	"CooldownTime":     1000,
+    "FireDelayTime":    0.0,
+	"RequiresTargetToFire": false,
+
+    "Tasks"	:
+    [
+		{
+			"Type": "RandomFire",
+			"Range": 100,
+			"OnlyTargetPathLocations": false,
+			"FireFullRange": false,
+			"WaitTimeRange": [ 2, 4 ],
+			
+			"Tasks":
+			[
+				{
+					"Type":             "Collectable",
+					"GraphicName":      "banana_box",
+					"Duration":	10,
+					"MoneyRange": [ 500, 1500 ],
+					"MoneyMultiplier": 1.0,
+					"CollectionRadius": 50,
+					
+					"Movement":
+					{
+						"Type": "Forward",
+						"Speed": 250,
+						"KeepOnScreen": true,
+						"SpeedDecay": 0.95
+					},
+					
+					"Tasks":
+					[
+						{
+							"Type": "TextEffect",
+							"Text": "",
+							"Font": "oetztype_24_black_stroke",
+							"Colour": [ 1.0, 1.0, 1.0 ],
+							
+							"Movement":
+							{
+								"Type": "Forward",
+								"Direction": [0, -1],
+								"Speed": 20,
+								"CutOffDistance": 30
+							}
+						}
+					]
+				}
+			]
+		}
+    ]
+}
+

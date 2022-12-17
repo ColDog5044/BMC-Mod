@@ -1,0 +1,49 @@
+{	
+    "Type":             "SupplyCratePlane",
+    "TargetRange":      320,
+	"CooldownTime":     1000,
+    "FireDelayTime":    0.0,
+	"RequiresTargetToFire": false,
+
+    "Tasks"	:
+    [
+		{
+			"Type": "RandomFire",
+			"Range": 1,
+			"OnlyTargetPathLocations": false,
+			"FireFullRange": false,
+			"WaitTimeRange": [ 2, 2 ],
+			
+			"Tasks":
+			[
+				{
+					"Type":             "Collectable",
+					"SpriteFile":      "supplycratedrop.json",
+					"Duration":	10,
+                    "FractionOfStartingCash": 0.35,
+					"CollectionRadius": 50,
+					"GivesCashWhenExpired": true,
+
+					"Tasks":
+					[
+						{
+							"Type": "TextEffect",
+							"Text": "",
+							"Font": "oetztype_24_black_stroke",
+							"Colour": [ 1.0, 1.0, 1.0 ],
+							
+							"Movement":
+							{
+								"Type": "Forward",
+								"Direction": [0, -1],
+								"Speed": 20,
+								"CutOffDistance": 30
+							}
+						}
+					]
+				}
+			]
+		}
+    ]
+}
+

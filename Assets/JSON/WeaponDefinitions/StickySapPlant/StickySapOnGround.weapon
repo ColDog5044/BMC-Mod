@@ -1,0 +1,32 @@
+{
+  "Type": "StickySapOnGround",
+  "TargetRange": 110,
+  "CooldownTime": 0.1,
+  "FireDelayTime": 0.0,
+  "FollowTarget": false,
+  "SelfTargetMode": "AnyInRange",
+  "LaunchOffset": [
+    20,
+    0
+  ],
+  "ShouldAnimateOnFire": false,
+  "Tasks": [
+    {
+      "Type": "AreaOfEffect",
+      "Range": 110,
+      "MaxTargets": -1,
+      "Tasks": [
+        {
+          "Type": "RemoveStatusEffect",
+          "Status": "Slow"
+        },
+        {
+          "Type": "StatusEffect",
+          "Status": "Slow",
+          "Duration": 0.25,
+          "SpeedScale": 0.25
+        }
+      ]
+    }
+  ]
+}

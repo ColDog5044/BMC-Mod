@@ -1,0 +1,251 @@
+{
+   "Alignment" : null,
+   "Point" : null,
+   "actors" : [
+      {
+         "Alignment" : [ 2, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 0.0, 0.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "bloonsday_pyramid_pro",
+         "type" : 1,
+         "uid" : 1
+      },
+      {
+         "Alignment" : [ 2, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 1,
+         "Position" : [ 0.0, 0.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "bloonsday_pyramid_pro",
+         "type" : 1,
+         "uid" : 2
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 0.0, -10.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "bloonsday_pro_ball_motion_compoundsprite.json",
+         "type" : 2,
+         "uid" : 3
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 0.0, -10.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "bloonsday_pro_shield_motion_compoundsprite.json",
+         "type" : 2,
+         "uid" : 4
+      },
+      {
+         "Alignment" : [ 0, 3 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 0.0, -42.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "bloonsday_pro_pulsing_core_01",
+         "type" : 1,
+         "uid" : 5
+      },
+      {
+         "Alignment" : [ 0, 4 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 0.0, -42.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "bloonsday_pro_pulsing_beam_01",
+         "type" : 1,
+         "uid" : 6
+      }
+   ],
+   "customvariables" : null,
+   "events" : null,
+   "labels" : null,
+   "stageOptions" : {
+      "SpriteInfo" : [
+         {
+            "SpriteInfo" : "bloonsday_pyramid_pro",
+            "Texture" : "InGame"
+         },
+         {
+            "SpriteInfo" : "bloonsday_pro_ball_motion_compoundsprite.json",
+            "Texture" : "InGame"
+         },
+         {
+            "SpriteInfo" : "bloonsday_pro_shield_motion_compoundsprite.json",
+            "Texture" : "InGame"
+         },
+         {
+            "SpriteInfo" : "bloonsday_pro_pulsing_core_01",
+            "Texture" : "InGame"
+         },
+         {
+            "SpriteInfo" : "bloonsday_pro_pulsing_beam_01",
+            "Texture" : "InGame"
+         }
+      ],
+      "StageLength" : 20.0,
+      "Version" : 1
+   },
+   "timelines" : [
+      {
+         "spriteuid" : 3,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 4,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 1,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 2,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 5,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 3 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 0.0, -42.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 3 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 0.0, -42.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 0.5034013390541077
+            },
+            {
+               "Alignment" : [ 0, 3 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 0.0, -42.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 1.605442166328430
+            },
+            {
+               "Alignment" : [ 0, 3 ],
+               "Alpha" : 0.0,
+               "Angle" : 0.0,
+               "Colour" : 16777215,
+               "Flip" : 0,
+               "Position" : [ 0.0, -42.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.095238208770752
+            }
+         ]
+      },
+      {
+         "spriteuid" : 6,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 4 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 0.0, -42.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 4 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 0.0, -42.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 0.5034013390541077
+            },
+            {
+               "Alignment" : [ 0, 4 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 0.0, -42.0 ],
+               "Scale" : [ 1.0, 134.6999969482422 ],
+               "Shown" : true,
+               "Time" : 0.6122449040412903
+            },
+            {
+               "Alignment" : [ 0, 4 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 0.0, -42.0 ],
+               "Scale" : [ 1.0, 134.6999969482422 ],
+               "Shown" : true,
+               "Time" : 1.605442166328430
+            },
+            {
+               "Alignment" : [ 0, 4 ],
+               "Alpha" : 0.0,
+               "Angle" : 0.0,
+               "Colour" : 16777215,
+               "Flip" : 0,
+               "Position" : [ 0.0, -42.0 ],
+               "Scale" : [ 1.0, 134.6999969482422 ],
+               "Shown" : true,
+               "Time" : 2.095238208770752
+            },
+            {
+               "Alignment" : [ 0, 4 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 0.0, -42.0 ],
+               "Scale" : [ 1.0, 134.6999969482422 ],
+               "Shown" : true,
+               "Time" : 2.095238208770752
+            }
+         ]
+      }
+   ]
+}

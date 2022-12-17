@@ -1,0 +1,26 @@
+{
+	"Items" : [
+	   { "Icon" : "dart_monkey_icon", "FactoryName" : "DartMonkey", "ObjectType" : 0, "KeyboardShortcut" : "q" },
+	   { "Icon" : "sniper_icon", "FactoryName" : "SniperMonkey", "ObjectType" : 0, "KeyboardShortcut" : "e" },
+	   { "Icon" : "ninja_icon", "FactoryName" : "NinjaMonkey", "ObjectType" : 0, "KeyboardShortcut" : "t" },
+	   { "Icon" : "ice_icon", "FactoryName" : "IceTower", "ObjectType" : 0, "KeyboardShortcut" : "a" },
+	   { "Icon" : "buccaneer_icon", "FactoryName" : "MonkeyBuccaneer", "ObjectType" : 0, "KeyboardShortcut" : "d" },
+	   { "Icon" : "supermonkey_icon", "FactoryName" : "SuperMonkey", "ObjectType" : 0, "KeyboardShortcut" : "g" },
+	   { "Icon" : "village_icon", "FactoryName" : "MonkeyVillage", "ObjectType" : 0, "KeyboardShortcut" : "c" },
+	   { "Icon" : "mortar_icon", "FactoryName" : "MortarTower", "ObjectType" : 0, "KeyboardShortcut" : "b" },
+	   { "Icon" : "spike_factory_icon", "FactoryName" : "SpikeFactory", "ObjectType" : 0, "KeyboardShortcut" : "m" },
+       { "Icon" : "engineer_icon", "FactoryName" : "MonkeyEngineer", "ObjectType" : 0, "KeyboardShortcut" : "l" },
+       { "Icon" : "tack_shooter_icon", "FactoryName" : "TackTower", "ObjectType" : 0, "KeyboardShortcut" : "w" },
+       { "Icon" : "boomerang_icon", "FactoryName" : "BoomerangThrower", "ObjectType" : 0, "KeyboardShortcut" : "r" },
+       { "Icon" : "bomb_icon", "FactoryName" : "BombTower", "ObjectType" : 0, "KeyboardShortcut" : "y" },
+       { "Icon" : "glue_gunner_icon", "FactoryName" : "GlueGunner", "ObjectType" : 0, "KeyboardShortcut" : "s" },
+       { "Icon" : "monkey_ace_icon", "FactoryName" : "MonkeyAce", "ObjectType" : 0, "KeyboardShortcut" : "f" },
+       { "Icon" : "apprentice_icon", "FactoryName" : "MonkeyApprentice", "ObjectType" : 0, "KeyboardShortcut" : "h" },
+       { "Icon" : "banana_farm_icon", "FactoryName" : "BananaFarm", "ObjectType" : 0, "KeyboardShortcut" : "v" },
+       { "Icon" : "dartling_gun_icon", "FactoryName" : "DartlingGun", "ObjectType" : 0, "KeyboardShortcut" : "n" },
+       { "Icon" : "helicopter_icon", "FactoryName" : "HeliPilot", "ObjectType" : 0, "KeyboardShortcut" : "j" },
+       { "Icon" : "bloonchipper_icon", "FactoryName" : "Bloonchipper", "ObjectType" : 0, "KeyboardShortcut" : ";"},
+       { "Icon" : "monkeysub_icon", "FactoryName" : "MonkeySub", "ObjectType" : 0, "KeyboardShortcut" : "k" },
+       { "Icon" : "farmer_icon", "FactoryName" : "BananaFarmer", "ObjectType" : 0, "KeyboardShortcut" : "u" }
+	]
+}

@@ -1,0 +1,1243 @@
+{
+    "Buildings": [
+        {
+            "_ID": "OversizeProjectileWorkshop", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "Juggernaut"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 18, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 18, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 13000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 40, 
+            "requiresBuilding": [], 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 500
+        }, 
+        {
+            "_ID": "AntiMaterialsGunLab", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "CrippleMoab"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 18, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 18, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 20000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 40, 
+            "requiresBuilding": [
+                "AntiMOABResearchLab"
+            ], 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 500
+        }, 
+        {
+            "_ID": "ArchivesOfAncientKnowledge", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "GlaiveLord", 
+                "Bloonjitsu"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 18, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 18, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 30000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 40, 
+            "requiresBuilding": [], 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 500
+        }, 
+        {
+            "_ID": "ExperimentalMaterialsLab", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "GlueLiquefier", 
+                "ViralFrost"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 18, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 18, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 25000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 40, 
+            "requiresBuilding": [], 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 500
+        }, 
+        {
+            "_ID": "ThermitePlant", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "RingOfFire"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 18, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 18, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 12000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 40, 
+            "requiresBuilding": [], 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 500
+        }, 
+        {
+            "_ID": "NavalBase", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "AircraftCarrier"
+            ], 
+            "footprint": "2x2", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 18, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "7x7", 
+            "mob_minTownLevelAdjusted": 18, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 17000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 40, 
+            "requiresBuilding": [], 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 500
+        }, 
+        {
+            "_ID": "AC130ConstructionHangar", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "Spectre"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 22, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 22, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 20000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 50, 
+            "requiresBuilding": [], 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 750
+        }, 
+        {
+            "_ID": "AltarOfSun", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "SunGod"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 18, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 18, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 18000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 40, 
+            "requiresBuilding": [], 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 500
+        }, 
+        {
+            "_ID": "TempleComplex", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "TempleOfMonkeyGod"
+            ], 
+            "footprint": "3x3", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 26, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "11x11", 
+            "mob_minTownLevelAdjusted": 26, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 11000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 200, 
+            "requiresBuilding": [], 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [
+                "ConsecratedGround"
+            ], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 20000
+        }, 
+        {
+            "_ID": "WindSpire", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [], 
+            "enablesUpgrades": [
+                "MasterOfWind"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 18, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 18, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 15000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 40, 
+            "requiresBuilding": [], 
+            "requiresMission": [], 
+            "requiresTerrain": [
+                "MountainTerrain"
+            ], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 500
+        }, 
+        {
+            "_ID": "BananaResearchHQ", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "BananaResearchFacility"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 20, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 20, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 60000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 50, 
+            "requiresBuilding": [], 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 700
+        }, 
+        {
+            "_ID": "SuperBombResearchCentre", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "TheBigOne", 
+                "GroundZero", 
+                "FirstStrikeCapability"
+            ], 
+            "footprint": "2x2", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 20, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "7x7", 
+            "mob_minTownLevelAdjusted": 20, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 55000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 50, 
+            "requiresBuilding": [], 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 750
+        }, 
+        {
+            "_ID": "HighIntensityExplosivesWorkshop", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "BloonImpact", 
+                "SpikedMines"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 20, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 20, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 25000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 40, 
+            "requiresBuilding": [], 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 500
+        }, 
+        {
+            "_ID": "CrystalFusionArray", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "RayOfDoom"
+            ], 
+            "footprint": "1x2", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 25, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x7", 
+            "mob_minTownLevelAdjusted": 25, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 90000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 75, 
+            "requiresBuilding": [], 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [
+                "PhaseCrystal"
+            ], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 800
+        }, 
+        {
+            "_ID": "EnergyConcentrationCells", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "HighEnergyBeacon"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 20, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 20, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 40000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 40, 
+            "requiresBuilding": [], 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 500
+        }, 
+        {
+            "_ID": "SuperMonkeyFanClubhouse", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "SuperMonkeyFanClub"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 20, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 20, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 15000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 40, 
+            "requiresBuilding": [], 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 500
+        }, 
+        {
+            "_ID": "RadioCommsSupport", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "SupplyDrop"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 20, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 20, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 18000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 40, 
+            "requiresBuilding": [], 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 500
+        }, 
+        {
+            "_ID": "GuerillaTacticsTrainingCamp", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [], 
+            "enablesUpgrades": [
+                "SabotageSupplyLines"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 20, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 20, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 24000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 40, 
+            "requiresBuilding": [], 
+            "requiresMission": [], 
+            "requiresTerrain": [
+                "JungleTerrain"
+            ], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 500
+        }, 
+        {
+            "_ID": "ZeroPointEnergyGenerator", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "AbsoluteZero"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 20, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 20, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 23000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 40, 
+            "requiresBuilding": [], 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 500
+        }, 
+        {
+            "_ID": "Blademill", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "BladeMaelstrom"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 20, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 20, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 14000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 40, 
+            "requiresBuilding": [], 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 500
+        }, 
+        {
+            "_ID": "SuperiorAdhesiveFactory", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "GlueStriker"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 20, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 20, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 16000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 40, 
+            "requiresBuilding": [], 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [
+                "StickySapPlant"
+            ], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 500
+        }, 
+        {
+            "_ID": "PirateSchool", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [], 
+            "enablesUpgrades": [
+                "MonkeyPirates"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 20, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 20, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 16000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 50, 
+            "requiresBuilding": [
+                "AntiMOABResearchLab"
+            ], 
+            "requiresMission": [], 
+            "requiresTerrain": [
+                "WaterEdge"
+            ], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 750
+        }, 
+        {
+            "_ID": "BiomechEnhancements", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "RoboMonkey", 
+                "TurboCharge"
+            ], 
+            "footprint": "2x2", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 18, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "7x7", 
+            "mob_minTownLevelAdjusted": 18, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 30000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 40, 
+            "requiresBuilding": [], 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 500
+        }, 
+        {
+            "_ID": "AntimatterWeaponFacility", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "TechTerror"
+            ], 
+            "footprint": "2x2", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 24, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "7x7", 
+            "mob_minTownLevelAdjusted": 24, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 105000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 120, 
+            "requiresBuilding": [], 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 2000
+        }, 
+        {
+            "_ID": "FieryPit", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [], 
+            "enablesUpgrades": [
+                "MasterOfFire"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 18, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 18, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 17000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 40, 
+            "requiresBuilding": [], 
+            "requiresMission": [], 
+            "requiresTerrain": [
+                "VolcanoTerrain"
+            ], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 500
+        }, 
+        {
+            "_ID": "HeavyArtilleryFactory", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "ArtilleryBattery"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 21, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 21, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 16000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 50, 
+            "requiresBuilding": [], 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 700
+        }, 
+        {
+            "_ID": "SpikeDispersalUnit", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "SpikeStorm"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 21, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 21, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 26000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 50, 
+            "requiresBuilding": [], 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 750
+        }, 
+        {
+            "_ID": "AdvancedRocketLab", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "BloonAreaDenialSystem", 
+                "MOABAssassin"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 18, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 18, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 30000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 40, 
+            "requiresBuilding": [], 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 500
+        }, 
+        {
+            "_ID": "AdvancedMonkeyIntelligenceComms", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "MIBCallToArms"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 24, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 24, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 40000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 75, 
+            "requiresBuilding": [], 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 800
+        }, 
+        {
+            "_ID": "BloonContainmentUnit", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "BloonTrap"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 21, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 21, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 35000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 60, 
+            "requiresBuilding": [], 
+            "requiresMission": [
+                "EngineerRescue"
+            ], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 700
+        }, 
+        {
+            "_ID": "HighPerformanceUnit", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "Overclock"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 21, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 21, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 40000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 60, 
+            "requiresBuilding": [], 
+            "requiresMission": [
+                "EngineerRescue"
+            ], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 700
+        }, 
+        {
+            "_ID": "GiantFunnelFoundry", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "SuperWideFunnel"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 21, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 21, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 35000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 60, 
+            "requiresBuilding": [], 
+            "requiresMission": [
+                "BloonchipperBlueprint"
+            ], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 700
+        }, 
+        {
+            "_ID": "ExtremeSuctionEngine", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "SupaVac"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 21, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 21, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 30000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 60, 
+            "requiresBuilding": [], 
+            "requiresMission": [
+                "BloonchipperBlueprint"
+            ], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 700
+        }, 
+        {
+            "_ID": "DartshipHangar", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "ApacheDartship"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 21, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 21, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 40000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 60, 
+            "requiresBuilding": [], 
+            "requiresMission": [
+                "HeliCrash"
+            ], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 700
+        }, 
+        {
+            "_ID": "ChinookSupplyDepot", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "SupportChinook"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 21, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 21, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 30000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 60, 
+            "requiresBuilding": [], 
+            "requiresMission": [
+                "HeliCrash"
+            ], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 700
+        }, 
+        {
+            "_ID": "SubmarineCoreReactor", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [
+                "BloontoniumReactor"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 21, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 21, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 30000, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 60, 
+            "requiresBuilding": [], 
+            "requiresMission": [
+                "SubmarineAlliance"
+            ], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 1440, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 700
+        }, 
+        {
+            "_ID": "AntiMOABResearchLab", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 10, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 10, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 2500, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 5, 
+            "requiresBuilding": [], 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 360, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 500
+        }, 
+        {
+            "_ID": "CentreOfCamoCountermeasures", 
+            "bloonstoneCost": 0, 
+            "buildingCategory": "Special", 
+            "buildingDisplayCategory": "Special", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "enablesUpgrades": [], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 5, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 5, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 1500, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 5, 
+            "requiresBuilding": [], 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "requiresTerrainProperty": [], 
+            "timeToBuild": 180, 
+            "upgrades": [], 
+            "xpGivenForBuilding": 250
+        }
+    ]
+}

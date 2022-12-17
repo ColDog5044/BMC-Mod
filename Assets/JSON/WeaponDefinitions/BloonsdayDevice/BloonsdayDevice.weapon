@@ -1,0 +1,54 @@
+{	
+    "Type": "BloonsdayDevice",    
+    "TargetRange": 70,
+	"CooldownTime": 80,
+    "FireDelayTime": 1.0,
+	"ManuallyFired": true,
+	"RequiresTargetToFire":	false,
+    
+    "Tasks" :
+    [
+        {
+            "Type" : "TimerFire",
+			"TimeDelay" : 2.2,
+			
+			"Tasks" :
+			[
+				{
+					"Type" : "Projectile",
+					"SpriteFile": "bloonsday_laser_beam.json",
+					"HasFixedAngle": true,
+					"DrawLayer": "FullScreen",
+
+					"NumPersists" : -1,
+					"TerminateOnZeroPersists" : false,
+					
+					"CollisionType": "Continual",
+					"Radius": 60,
+					
+					"HasLimitedDuration": true,
+					"LimitedDuration": 15,
+					
+					"Movement" : 
+					{
+						"Type": "MoveToTouch",
+						"Speed": 200
+					},
+					
+					"Tasks":
+					[
+						{
+							"Type": "Damage",
+							"DamageType": "Plasma",
+							"Amount": 1
+						}
+					]
+				}
+			]
+        },
+		{
+			"Type" : "Effect",
+			"SpriteFile": "bloonsday_targeting.json"
+		}
+	]
+}

@@ -1,0 +1,62 @@
+{
+	"Name" : "LOC_SPEC_Dartling",
+	"Icon" : "dartling_ammo_dump_building",
+	"Building" : "dartling_ammo_dump",
+	"Prices" : [ 1000, 1000, 1500, 1500 ],
+	"Effects" :
+	{
+		"I" :
+		{
+			"Text" : "LOC_SPEC_Dartling_I",
+			"TowerModifiers" :
+			[{
+				"TargetingFilter" : { "Include" : { "TowerType": [ "DartlingGun" ] } },
+				"Modifier" : { "Cost": [ 0.95, 0 ] }
+			}]
+		},
+		
+		"II" :		
+		{
+			"Text" : "LOC_SPEC_Dartling_II",
+			"TowerModifiers" :
+			[{
+				"TargetingFilter" : { "Include" : { "TowerType": [ "DartlingGun" ] } },
+				"Modifier" :
+				{
+					"FireDelay" : [ 0.9090909, 0 ],
+					"Cooldown"  : [ 0.9090909, 0 ]
+				}
+			}]
+		},
+	
+		"III" :
+		{
+			"Text" : "LOC_SPEC_Dartling_III",
+            "TowerModifiers" :
+			[{
+                 "TargetingFilter" : { "Include" : { "TowerType": [ "DartlingGun" ] } },
+                 "Modifier" : { "TargetMode" : "ManualActive" }
+            }]
+		},
+        
+		"IV" :
+		{
+			"Text" : "LOC_SPEC_Dartling_IV",
+            "TowerModifiers" :
+			[{
+                "TargetingFilter" : { "Include" : { "TowerType": [ "DartlingGun" ] } },
+                "Modifier" : { "PoppingPower" : [ 1, 1 ] }
+            }]
+		},
+		
+		"X" :
+		{
+			"Text" : "LOC_SPEC_Dartling_X",
+			"TowerModifiers" :
+			[{
+				"TargetingFilter" : { "Include" : { "TowerType": [ "MortarTower" ] } },
+				"Modifier" : { "Cost" : [ 1.05, 0 ] }
+			}]
+		}
+	}
+}

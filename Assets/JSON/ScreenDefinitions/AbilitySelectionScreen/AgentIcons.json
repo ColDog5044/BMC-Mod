@@ -1,0 +1,26 @@
+{
+	"Items" : [
+		{ "Type" : "MeerkatSpy", "Icon" : "meerkat_icon" },
+		{ "Type" : "MeerkatSpyPro", "Icon" : "meerkat_pro_icon" },
+		{ "Type" : "PortableLake", "Icon" : "portable_icon" },
+		{ "Type" : "PortableLakePro", "Icon" : "portable_lake_pro_icon" },
+		{ "Type" : "Pontoon", "Icon" : "pontoon_icon" },
+		{ "Type" : "PontoonPro", "Icon" : "pontoon_pro_icon" },
+		{ "Type" : "BloonsdayDevice", "Icon" : "bloonsday_icon" },
+		{ "Type" : "BloonsdayDevicePro", "Icon" : "bloonsday_pro_icon" },
+		{ "Type" : "SuperMonkeyStorm", "Icon" : "supermonkey_storm_icon", "AutoPlace": true },
+		{ "Type" : "SuperMonkeyStormPro", "Icon" : "supermonkey_storm_pro_icon", "AutoPlace": true },
+        { "Type" : "TribalTurtle", "Icon" : "turtle_icon" },
+        { "Type" : "TribalTurtlePro", "Icon" : "turtle_pro_icon" },
+        { "Type" : "AngrySquirrel", "Icon" : "squirrel_icon" },
+        { "Type" : "AngrySquirrelPro", "Icon" : "squirrel_pro_icon" },
+        { "Type" : "BeeKeeper", "Icon" : "beekeeper_icon" },
+        { "Type" : "BeeKeeperPro", "Icon" : "beekeeper_pro_icon" },
+        { "Type" : "BloonberryBush", "Icon" : "bloonberry_icon" },
+        { "Type" : "BloonberryBushPro", "Icon" : "bloonberry_pro_icon" },
+        { "Type" : "Radadactyl", "Icon" : "radadactyl_icon" },
+        { "Type" : "RadadactylPro", "Icon" : "radadactyl_pro_icon" },
+        { "Type" : "BananaFarmer", "Icon" : "farmer_icon" },
+        { "Type" : "BananaFarmerPro", "Icon" : "farmer_pro_icon" }
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"Premiums" : [
+		{
+			"Type" : "PlayerNextRank",
+			"Icon" : "premium_100k_xp",
+			"ProductType" : "PlayerRank",
+			"BackupDisplayName" : "LOC_PREM_PlayerNextRank",
+			"BackupDescription" : "LOC_PREM_DESC_PlayerNextRank",
+		  	"BackupPrice" : "0.99"
+		},
+		{
+			"Type" : "HandfulOTokens",
+		 	"ProductType" : "Token",
+			"Icon" : "premium_5_tokens",
+		  	"PopupIcon" : "premium_5_tokens_shared",
+			"BackupDisplayName" : "LOC_PREM_HandfulOTokens",
+			"BackupDescription" : "LOC_PREM_DESC_HandfulOTokens",
+			"TotalEnclosed" : 5,
+			"Enclosed" : "5",
+		  	"BackupPrice" : "0.99"
+
+		}
+	]
+}

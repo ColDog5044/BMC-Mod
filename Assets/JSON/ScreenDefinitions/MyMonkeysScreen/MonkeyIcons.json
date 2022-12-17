@@ -1,0 +1,26 @@
+{
+	"Items" : [
+	   { "Icon" : "DartMonkey_buttonIcon", "FactoryName" : "DartMonkey" },
+	   { "Icon" : "SniperMonkey_buttonIcon", "FactoryName" : "SniperMonkey"},
+	   { "Icon" : "NinjaMonkey_buttonIcon", "FactoryName" : "NinjaMonkey"},
+	   { "Icon" : "IceTower_buttonIcon", "FactoryName" : "IceTower"},
+	   { "Icon" : "MonkeyBuccaneer_buttonIcon", "FactoryName" : "MonkeyBuccaneer"},
+	   { "Icon" : "SuperMonkey_buttonIcon", "FactoryName" : "SuperMonkey"},
+	   { "Icon" : "MonkeyVillage_buttonIcon", "FactoryName" : "MonkeyVillage"},
+	   { "Icon" : "MortarTower_buttonIcon", "FactoryName" : "MortarTower"},
+	   { "Icon" : "SpikeFactory_buttonIcon", "FactoryName" : "SpikeFactory"},
+       { "Icon" : "MonkeyEngineer_buttonIcon", "FactoryName" : "MonkeyEngineer"},
+       { "Icon" : "TackTower_buttonIcon", "FactoryName" : "TackTower"},
+       { "Icon" : "BoomerangThrower_buttonIcon", "FactoryName" : "BoomerangThrower"},
+       { "Icon" : "BombTower_buttonIcon", "FactoryName" : "BombTower"},
+       { "Icon" : "GlueGunner_buttonIcon", "FactoryName" : "GlueGunner"},
+       { "Icon" : "MonkeyAce_buttonIcon", "FactoryName" : "MonkeyAce"},
+       { "Icon" : "MonkeyApprentice_buttonIcon", "FactoryName" : "MonkeyApprentice"},
+       { "Icon" : "BananaFarm_buttonIcon", "FactoryName" : "BananaFarm"},
+       { "Icon" : "DartlingGun_buttonIcon", "FactoryName" : "DartlingGun"},
+       { "Icon" : "HeliPilot_buttonIcon", "FactoryName" : "HeliPilot"},
+       { "Icon" : "RoadSpike_buttonIcon", "FactoryName" : "RoadSpikes"},
+       { "Icon" : "ExplodingPineapple_buttonIcon", "FactoryName" : "ExplodingPineapple"}
+
+	]
+}

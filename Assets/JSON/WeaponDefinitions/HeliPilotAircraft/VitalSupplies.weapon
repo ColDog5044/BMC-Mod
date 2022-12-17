@@ -1,0 +1,99 @@
+{	
+    "Type":                 "VitalSupplies",    
+    "TargetRange":          0,   
+    "CooldownTime":     	60,
+    "FireDelayTime":    	0.0,
+	"ManuallyFired": 		true,
+	"RequiresTargetToFire":	false,
+    
+    "DisabledTasks" : [ 1 ],
+    
+    "Tasks" :
+    [
+        {
+            "Type":             "Collectable",
+            "GraphicName":      "banana_box",
+            "Duration":	10,
+            "MoneyRange": [ 1500, 2000 ],
+            "MoneyMultiplier": 1.0,
+            "CollectionRadius": 50,
+            
+            "Movement":
+            {
+                "Type": "Forward",
+                "Speed": 250,
+                "KeepOnScreen": true,
+                "SpeedDecay": 0.96
+            },
+            
+            "Tasks":
+            [
+                {
+                    "Type": "TextEffect",
+                    "Text": "",
+                    "Font": "oetztype_24_black_stroke",
+                    "Colour": [ 1, 1, 1 ],
+                    
+                    "Movement":
+                    {
+                        "Type": "Forward",
+                        "Direction": [0, -1],
+                        "Speed": 20,
+                        "CutOffDistance": 30
+                    }
+                },
+                {
+                    "Type": "ChangeSubtaskEnabled",
+                    "ToEnable": [ 1 ],
+                    "ToDisable": [ 0 ]
+                }
+            ]
+        },
+        
+        {
+            "Type":             "Collectable",
+            "GraphicName":      "banana_box",
+            "Duration":	10,
+            "LivesRange": [ 50, 75 ],
+            "LivesMultiplier": 1.0,
+            "CollectionRadius": 50,
+            
+            "Movement":
+            {
+                "Type": "Forward",
+                "Speed": 250,
+                "KeepOnScreen": true,
+                "SpeedDecay": 0.96
+            },
+            
+            "Tasks":
+            [
+                {
+                    "Type": "TextEffect",
+                    "Text": "",
+                    "Font": "oetztype_24_black_stroke",
+                    "Colour": [ 1, 1, 1 ],
+                    
+                    "Movement":
+                    {
+                        "Type": "Forward",
+                        "Direction": [0, -1],
+                        "Speed": 20,
+                        "CutOffDistance": 30
+                    }
+                },
+                {
+                    "Type": "ChangeSubtaskEnabled",
+                    "ToEnable": [ 0 ],
+                    "ToDisable": [ 1 ]
+                }
+            ]
+        },
+        
+        {
+            "Type": "Effect",
+            "SpriteFile": "SupplyDropAbility.json",
+            "DrawLayer": "FullScreen"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "TypeName"				: "BananaFarm",
+    "Icon"					: "banana_farm_avatar_small",
+    "UI_Icon"               : "banana_farm_icon",
+    "BaseCost"				: 1000,
+    "RankToUnlock"			: 16,
+    "DefaultWeapons"	    : [ "BananaFarm.weapon" ],
+    "TargetingMode"			: "None",
+    "TargetsManually"		: false,
+    "TargetIsWeaponOrigin"	: false,
+    "CanSpotForTowers" : false,
+
+    "Upgrades" :
+    [
+    	[ "More Bananas", "Banana Plantation", "Banana Republic", "Banana Research Facility" ],
+    	[ "Long Life Bananas", "Valuable Bananas", "Monkey Bank", "Banana Investments Advisory" ]
+    ],  
+    "UpgradePrices" : 
+    [
+        [ 300, 1400, 3200, 14000 ],
+        [ 500, 4000, 4200, 5500 ]
+    ],
+	"UpgradeGateway" :
+	[
+		[ { "Rank" : 0, "XP" : 250 }, { "Rank" : 0, "XP" : 2250 }, { "Rank" : 0, "XP" : 10250 }, { "Rank" : 37, "XP" : 56325 } ],
+		[ { "Rank" : 0, "XP" : 875 }, { "Rank" : 0, "XP" : 3750 }, { "Rank" : 0, "XP" : 18350 }, { "Rank" : 37, "XP" : 94875 } ]
+	],
+    "UpgradeAvatars" :
+    [
+    	[ 
+        "banana_farm_avatar_more_bananas_small", 
+        "banana_farm_avatar_plantation_small", 
+        "banana_farm_avatar_republic_small", 
+        "banana_farm_avatar_brf_small" 
+        ],
+    	[ 
+        "banana_farm_avatar_long_life_small", 
+        "banana_farm_avatar_valuable_bananas_small", 
+        "banana_farm_avatar_bank_small", 
+        "banana_farm_avatar_investments_small" 
+        ]
+    ], 
+       
+    "UpgradeIcons" :
+    [
+    	[ 
+        "banana_farm_more_bananas_icon", 
+        "banana_farm_plantation_icon", 
+        "banana_farm_republic_icon", 
+        "banana_farm_brf_icon" 
+        ],
+    	[ 
+        "banana_farm_long_life_icon", 
+        "banana_farm_valuable_icon", 
+        "banana_farm_bank_icon", 
+        "banana_farm_investments_icon" 
+        ]
+    ],
+    
+    "AircraftList"			: [ ],
+    
+    "DefaultSprite"		: "BananaFarm.json",
+    "CanTargetCamo"			: false,
+    "RotatesToTarget"		: false,
+    
+    "CanBePlacedInWater"	: true,
+    "CanBePlacedOnLand"		: true,
+    "CanBePlacedOnPath"		: false,
+    
+    "UseRadiusPlacement"	: true,
+    "PlacementRadius"		: 0.0,
+    "PlacementW"			: 0.0,
+    "PlacementH"			: 0.0,
+    "SpriteUpgradeDefinition" : "BananaFarm.json"
+}

@@ -1,0 +1,138 @@
+{
+    "DefaultWeapons": [
+        "MonkeySub.weapon"
+    ],
+    "FiringSequence": [
+        [
+            0,
+            1
+        ],
+        [
+            2
+        ],
+		[
+			4
+		],
+		[
+			6
+		]
+    ],
+    "CanBePlacedInWater": true,
+    "RotatesToTarget": true,
+    "TargetIsWeaponOrigin": false,
+    "NewTower": true,
+	"HideWhenLocked" : true,
+	"UnlocksInGame" : false,
+    "CanTargetCamo": true,
+    "UpgradeIcons": [
+        [
+            "submarine_barbed_darts_icon",
+            "submarine_improved_range_icon",
+            "submarine_submerge_support_icon",
+            "submarine_bloontonium_reactor_icon"
+        ],
+        [
+            "submarine_twin_guns_icon",
+            "submarine_airburst_darts_icon",
+            "submarine_ballistic_missile_icon",
+            "submarine_first_strike_icon"
+        ]
+    ],
+    "TypeName": "MonkeySub",
+    "TargetsManually": false,
+    "SpriteUpgradeDefinition": "MonkeySub.json",
+    "Icon": "monkeysub_avatar_small",
+    "RankToUnlock": 1,
+	"PopsToUnlock": 2000000,
+    "FiresWeaponsInSequence": false,
+    "BaseCost": 350,
+    "CanBePlacedOnPath": false,
+    "AircraftList": [],
+    "PlacementH": 0,
+    "UpgradePrices": [
+        [
+            300,
+            500,
+            500,
+            2500
+        ],
+        [
+            450,
+            750,
+            1500,
+            20000
+        ]
+    ],
+    "UpgradeGateway": [
+        [
+            {
+                "XP": 450,
+                "Rank": 0
+            },
+            {
+                "XP": 4000,
+                "Rank": 0
+            },
+            {
+                "XP": 8000,
+                "Rank": 0
+            },
+            {
+                "XP": 60000,
+                "Rank": 49
+            }
+        ],
+        [
+            {
+                "XP": 1500,
+                "Rank": 0
+            },
+            {
+                "XP": 5000,
+                "Rank": 0
+            },
+            {
+                "XP": 25000,
+                "Rank": 0
+            },
+            {
+                "XP": 120000,
+                "Rank": 49
+            }
+        ]
+    ],
+    "TargetingMode": "First",
+    "CanBePlacedOnLand": true,
+    "UpgradeAvatars": [
+        [
+            "monkeysub_avatar_barbed_darts_small",
+            "monkeysub_avatar_improved_range_small",
+            "monkeysub_avatar_submerge_support_small",
+            "monkeysub_avatar_bloontonium_reactor_small"
+        ],
+        [
+            "monkeysub_avatar_twin_guns_small",
+            "monkeysub_avatar_airburst_darts_small",
+            "monkeysub_avatar_ballistic_missile_small",
+            "monkeysub_avatar_first_strike_small"
+        ]
+    ],
+    "Upgrades": [
+        [
+            "Barbed Darts",
+            "Advanced Intel",
+            "Submerge and Support",
+            "Bloontonium Reactor"
+        ],
+        [
+            "Twin Guns",
+            "Airburst Darts",
+            "Ballistic Missile",
+            "First Strike Capability"
+        ]
+    ],
+    "PlacementRadius": 0.0,
+    "PlacementW": 0,
+    "UseRadiusPlacement": true,
+	"DrawWeaponsOnTop" : true
+}

@@ -1,0 +1,122 @@
+{
+	"Size" : [ 250, 180 ],
+	"DifficultyColours" :
+	[
+		[154, 212, 0],
+		[65, 174, 248],
+		[249, 241, 14],
+		[248, 65, 65],
+		[254, 175, 50]
+	],
+	"DifficultyDescriptions" :
+	[
+		"LOC_DIF_DESC_Beginner",
+	 	"LOC_DIF_DESC_Intermediate",
+	 	"LOC_DIF_DESC_Advanced",
+	 	"LOC_DIF_DESC_Expert",
+	 	"LOC_DIF_DESC_Extreme"
+	],
+	"Tracks" :
+	[
+	 [ 0, "level_Vortex_Def",     "level_Vortex_Def",       0, 0, false ],
+	 [ 0, "level_Bloonarius_Def",     "level_Bloonarius_Def",       0, 0, false ],
+     [ 0, "level_Blastapopoulos_Def",     "level_Blastapopoulos_Def",       0, 0, false ],
+     [ 0, "level_Dreadbloon_Def",     "level_Dreadbloon_Def",       0, 0, false ],
+
+	 [ 0, "level_EventMission_Def",     "level_EventMission_Def",       0, 0, false ],
+     [ 0, "level_ForgottenGarden_Def",  "level_ForgottenGarden_Def",    0, 0, false ],
+
+     [ 0, "level_Grass1Def",            "level_Grass1Def",              0,  0, false ],
+     [ 0, "level_Grass2Def",            "level_Grass2Def",              0,	0, false ],
+     [ 0, "level_Grass3Def",            "level_Grass3Def",              0,	0, false ],
+     [ 0, "level_Grass4Def",            "level_Grass4Def",              0,	0, false ],
+     [ 0, "level_Grass5Def",            "level_Grass5Def",              0,	0, false ],
+     [ 0, "level_Grass6Def",            "level_Grass6Def",              0,	0, false ],
+     [ 0, "level_Grass7Def",            "level_Grass7Def",              0,	0, false ],
+     [ 0, "level_Grass8Def",            "level_Grass8Def",              0,	0, false ],
+     [ 0, "level_Grass9Def",            "level_Grass9Def",              0,	0, false ],
+     
+     [ 0, "level_Forest1Def",           "level_Forest1Def",             0,	0, false ],
+     [ 0, "level_Forest2Def",           "level_Forest2Def",             0,	0, false ],
+     [ 0, "level_Forest3Def",           "level_Forest3Def",             0,	0, false ],
+     [ 0, "level_Forest4Def",           "level_Forest4Def",             0,	0, false ],
+     [ 0, "level_Forest5Def",           "level_Forest5Def",             0,	0, false ],
+     [ 0, "level_Forest6Def",           "level_Forest6Def",             0,	0, false ],
+     [ 0, "level_Forest7Def",           "level_Forest7Def",             0,	0, false ],
+
+     [ 0, "level_HeavyForest1Def",      "level_HeavyForest1Def",        0,	0, false ],
+     [ 0, "level_HeavyForest2Def",      "level_HeavyForest2Def",        0,	0, false ],
+     [ 0, "level_HeavyForest3Def",      "level_HeavyForest3Def",        0,	0, false ],
+     [ 0, "level_HeavyForest4Def",      "level_HeavyForest4Def",        0,	0, false ],
+     [ 0, "level_HeavyForest5Def",      "level_HeavyForest5Def",        0,	0, false ],
+     [ 0, "level_HeavyForest6Def",      "level_HeavyForest6Def",        0,	0, false ],
+     [ 0, "level_HeavyForest7Def",      "level_HeavyForest7Def",        0,	0, false ],
+     
+     [ 0, "level_Hills1Def",            "level_Hills1Def",              0,	0, false ],
+     [ 0, "level_Hills2Def",            "level_Hills2Def",              0,	0, false ],
+     [ 0, "level_Hills3Def",            "level_Hills3Def",              0,	0, false ],
+     [ 0, "level_Hills4Def",            "level_Hills4Def",              0,	0, false ],
+     [ 0, "level_Hills5Def",            "level_Hills5Def",              0,	0, false ],
+     
+     [ 0, "level_Mountain1Def",         "level_Mountain1Def",           0,	0, false ],
+     [ 0, "level_Mountain2Def",         "level_Mountain2Def",           0,	0, false ],
+     [ 0, "level_Mountain3Def",         "level_Mountain3Def",           0,	0, false ],
+     [ 0, "level_Mountain4Def",         "level_Mountain4Def",           0,	0, false ],
+     [ 0, "level_Mountain5Def",         "level_Mountain5Def",           0,	0, false ],
+     [ 0, "level_Mountain6Def",         "level_Mountain6Def",           0,	0, false ],
+     [ 0, "level_Mountain7Def",         "level_Mountain7Def",           0,	0, false ],
+
+     
+     [ 0, "level_Volcano1Def",          "level_Volcano1Def",            0,	0, false ],
+     [ 0, "level_Volcano2Def",          "level_Volcano2Def",            0,	0, false ],
+     [ 0, "level_Volcano3Def",          "level_Volcano3Def",            0,	0, false ],
+     [ 0, "level_Volcano4Def",          "level_Volcano4Def",            0,	0, false ],
+     
+     [ 0, "level_Snow1Def",             "level_Snow1Def",               0,	0, false ],
+     [ 0, "level_Snow2Def",             "level_Snow2Def",               0,	0, false ],
+     [ 0, "level_Snow3Def",             "level_Snow3Def",               0,	0, false ],
+     [ 0, "level_Snow4Def",             "level_Snow4Def",               0,	0, false ],
+     [ 0, "level_Snow5Def",             "level_Snow5Def",               0,	0, false ],
+     
+     [ 0, "level_Lake1Def",             "level_Lake1Def",               0,	0, false ],
+     [ 0, "level_Lake2Def",             "level_Lake2Def",               0,	0, false ],
+     [ 0, "level_Lake3Def",             "level_Lake3Def",               0,	0, false ],
+     [ 0, "level_Lake4Def",             "level_Lake4Def",               0,	0, false ],
+     [ 0, "level_Lake5Def",             "level_Lake5Def",               0,	0, false ],
+     
+     [ 0, "level_Desert1Def",           "level_Desert1Def",             0,	0, false ],
+     [ 0, "level_Desert2Def",           "level_Desert2Def",             0,	0, false ],
+     [ 0, "level_Desert3Def",           "level_Desert3Def",             0,	0, false ],
+     [ 0, "level_Desert4Def",           "level_Desert4Def",             0,	0, false ],
+     [ 0, "level_Desert5Def",           "level_Desert5Def",             0,	0, false ],
+     [ 0, "level_Desert6Def",           "level_Desert6Def",             0,	0, false ],
+     [ 0, "level_Desert7Def",           "level_Desert7Def",             0,	0, false ],
+
+
+     [ 0, "level_River1Def",            "level_River1Def",              0,	0, false ],
+     [ 0, "level_River2Def",            "level_River2Def",              0,	0, false ],
+     [ 0, "level_River3Def",            "level_River3Def",              0,	0, false ],
+     [ 0, "level_River4Def",            "level_River4Def",              0,	0, false ],
+     [ 0, "level_River5Def",            "level_River5Def",              0,	0, false ],
+     
+     [ 0, "level_Jungle1Def",           "level_Jungle1Def",             0,	0, false ],
+     [ 0, "level_Jungle2Def",           "level_Jungle2Def",             0,	0, false ],
+     [ 0, "level_Jungle3Def",           "level_Jungle3Def",             0,	0, false ],
+     [ 0, "level_Jungle4Def",           "level_Jungle4Def",             0,	0, false ],
+     [ 0, "level_Jungle5Def",           "level_Jungle5Def",             0,	0, false ],
+     
+     [ 0, "level_ShipwreckDef",         "level_ShipwreckDef",           0,	0, false ],
+     [ 0, "level_MoabGraveyardDef",     "level_MoabGraveyardDef",       0,	0, false ],
+     [ 0, "level_StickySapDef",         "level_StickySapDef",           0,	0, false ],
+     [ 0, "level_WattleTreesDef",       "level_WattleTreesDef",         0,	0, false ],
+     [ 0, "level_TranquilGladeDef",     "level_TranquilGladeDef",       0,	0, false ],
+     [ 0, "level_GlacierDef",           "level_GlacierDef",             0,	0, false ],
+     [ 0, "level_PhaseCrystal1Def",     "level_PhaseCrystal1Def",       0,	0, false ],
+     [ 0, "level_Ruins1Def",            "level_Ruins1Def",              0,	0, false ],
+     [ 0, "level_CaveDef",              "level_CaveDef",                0,	0, false ],
+     [ 0, "level_HeliCrash_Def",        "level_HeliCrash_Def",          0, 0, false ],
+     [ 0, "level_Blueprints_Def",       "level_Blueprints_Def",         0, 0, false ],
+     [ 0, "level_EngineerRescue_Def",   "level_EngineerRescue_Def",     0,  0, false ],
+     [ 0, "level_SubmarineAlliance_Def","level_SubmarineAlliance_Def",  0, 0, false ]
+	]
+}

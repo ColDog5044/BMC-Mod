@@ -1,0 +1,30 @@
+{	
+    "Type":             "Downdraft",    
+    "TargetRange":      80,
+	"CooldownTime":     0,
+    "FireDelayTime":    0.2,
+   
+    "TargetingFilter":
+    {
+        "Exclude" :
+        { "StatusEffect": [ "MoveToPath" ] }
+    },
+    
+    "Tasks" :
+    [
+		{
+			"Type" : "AreaOfEffect",
+			"Range" : 80,
+			"MaxTargets" : 1,
+            "CanHitLead" : false,
+			
+			"Tasks" :
+			[
+				{
+					"Type": "StatusEffect",
+					"Status": "MoveToPath" 
+				}
+			]
+		}
+	]
+}

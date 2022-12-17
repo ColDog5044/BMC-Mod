@@ -1,0 +1,41 @@
+{	
+    "Type":             	"AbsoluteZero",    
+    "TargetRange":      	1000,
+	"CooldownTime":     	45.0,
+    "FireDelayTime":    	0.0,
+	"ManuallyFired": 		true,
+	"RequiresTargetToFire":	false,
+    "CanSelfTargetCamo": true,
+	"CanTargetUnderground" : true,
+    
+    "Tasks" :
+    [
+		{
+			"Type": "AreaOfEffect",
+			"Range": 1000,
+			"MaxTargets": -1,
+			
+			"Tasks" :
+			[
+				{
+					"Type": "StatusEffect",
+					"Status": "AbsoluteZero",
+					"Duration" : 4.0,
+					"NumPersists" : 2
+				},
+				{
+					"Type": "StatusEffect",
+					"Status": "AbsoluteZeroPermafrost",
+					"SpeedScale": 0.5,
+					"NumPersists": 2
+				}
+			]
+		},
+		{
+			"Type": "Effect",
+			"SpriteFile": "AbsoluteZeroAbility.json",
+			"Position": [ 240, 160 ],
+			"DrawLayer": "FullScreen"
+		}
+	]
+}

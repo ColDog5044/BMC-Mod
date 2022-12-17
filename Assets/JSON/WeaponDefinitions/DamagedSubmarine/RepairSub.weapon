@@ -1,0 +1,25 @@
+{	
+    "Type":             	"RepairSub",
+    "TargetRange":      	1000,
+    "CooldownTime":     	0.0,
+    "FireDelayTime":    	0.0,
+   	"ManuallyFired": 		true,
+    "AllowSpecialBetweenRounds": true,
+	"RequiresTargetToFire":	false,
+    "DrawWhenOutOfAmmo" : false,
+	"TotalAmmo" : 1,
+	"RemainingAmmo" : 1,
+    "CostToFire": 8000,
+    "Tasks" :
+    [
+		{
+			"Type": "CreateTower",
+			"TowerType" : "MonkeySub",
+            "TowerColour" : [ 255, 255, 255, 255 ],
+            "HasParentTower" : false,
+            "UpgradesOnPath1": 2,
+            "UpgradesOnPath2": 4,
+            "DestroyParent" : true
+		}
+	]
+}

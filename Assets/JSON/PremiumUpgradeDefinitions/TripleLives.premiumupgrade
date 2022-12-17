@@ -1,0 +1,7 @@
+{
+	"TripleLives" :
+	{
+		"TowerUpgrade" : { "Adjust" : { "Range" : 15 } },
+		"SpriteUpgrade" : { "ControllerName" : "MonkeyHat", "Slot" : 0, "SpriteName" : "monkey_bandana_green" }
+	}
+}

@@ -1,0 +1,16 @@
+{
+    "SFX": [
+		[ "POPS", 0.05, [
+			"pop1.wav",
+			"pop2.wav",
+			"pop3.wav",
+			"pop4.wav"
+		]],
+        [ "TOWER_PLACE", 0.1, [
+            "tower_place.wav"
+        ]],
+        [ "CLICK", 0.1, [
+            "ClickSound.wav"
+        ]]
+    ]
+}

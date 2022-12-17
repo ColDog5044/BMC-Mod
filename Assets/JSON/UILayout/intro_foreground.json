@@ -1,0 +1,512 @@
+{
+   "Alignment" : null,
+   "Point" : null,
+   "actors" : [
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -187.0, 25.0 ],
+         "Scale" : [ 0.8500000238418579, 0.8500000238418579 ],
+         "Shown" : true,
+         "sprite" : "BG_tree_01",
+         "type" : 1,
+         "uid" : 20
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -92.0, 161.0 ],
+         "Scale" : [ 0.9499999880790710, 0.8000000119209290 ],
+         "Shown" : true,
+         "sprite" : "BG_bush_01",
+         "type" : 1,
+         "uid" : 4
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -195.0, 119.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "BG_cannon_01",
+         "type" : 1,
+         "uid" : 5
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 70.0, 146.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "BG_grass_01",
+         "type" : 1,
+         "uid" : 6
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -222.0, 89.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "BG_rock_01",
+         "type" : 1,
+         "uid" : 33
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -242.0, 40.0 ],
+         "Scale" : [ 0.8999999761581421, 0.8999999761581421 ],
+         "Shown" : true,
+         "sprite" : "BG_tree_01",
+         "type" : 1,
+         "uid" : 21
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -224.0, 82.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "BG_palm_01",
+         "type" : 1,
+         "uid" : 9
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 5.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 261.0, 47.0 ],
+         "Scale" : [ -0.9499999880790710, 0.9499999880790710 ],
+         "Shown" : true,
+         "sprite" : "BG_tree_01",
+         "type" : 1,
+         "uid" : 13
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 252.0, 92.0 ],
+         "Scale" : [ -1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "BG_tree_01",
+         "type" : 1,
+         "uid" : 14
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : -5.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 199.0, 128.0 ],
+         "Scale" : [ -1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "BG_hut_01",
+         "type" : 1,
+         "uid" : 8
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 181.0, 165.0 ],
+         "Scale" : [ 0.8000000119209290, 0.750 ],
+         "Shown" : true,
+         "sprite" : "BG_rock_01",
+         "type" : 1,
+         "uid" : 22
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 5.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 235.0, 138.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "BG_hut_01",
+         "type" : 1,
+         "uid" : 15
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 19.0, 187.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "BG_palm_02",
+         "type" : 1,
+         "uid" : 23
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 114.0, 142.0 ],
+         "Scale" : [ -1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "BG_tree_01",
+         "type" : 1,
+         "uid" : 18
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 141.0, 184.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "BG_palm_02",
+         "type" : 1,
+         "uid" : 16
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 77.0, 183.0 ],
+         "Scale" : [ -0.8000000119209290, 0.8000000119209290 ],
+         "Shown" : true,
+         "sprite" : "BG_tree_01",
+         "type" : 1,
+         "uid" : 19
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -251.0, 142.0 ],
+         "Scale" : [ 0.8500000238418579, 0.8000000119209290 ],
+         "Shown" : true,
+         "sprite" : "BG_bush_01",
+         "type" : 1,
+         "uid" : 27
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -190.0, 173.0 ],
+         "Scale" : [ -0.9499999880790710, 0.9499999880790710 ],
+         "Shown" : true,
+         "sprite" : "BG_tree_01",
+         "type" : 1,
+         "uid" : 24
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -143.0, 134.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "BG_rock_02",
+         "type" : 1,
+         "uid" : 34
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -128.0, 180.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "BG_tree_01",
+         "type" : 1,
+         "uid" : 25
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -250.0, 184.0 ],
+         "Scale" : [ -0.8500000238418579, 0.8500000238418579 ],
+         "Shown" : true,
+         "sprite" : "BG_tree_01",
+         "type" : 1,
+         "uid" : 26
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 292.0, 154.0 ],
+         "Scale" : [ 0.8999999761581421, 0.8999999761581421 ],
+         "Shown" : true,
+         "sprite" : "BG_tree_01",
+         "type" : 1,
+         "uid" : 29
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 214.0, 221.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "BG_tree_01",
+         "type" : 1,
+         "uid" : 30
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -77.0, 190.0 ],
+         "Scale" : [ -1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "BG_tree_01",
+         "type" : 1,
+         "uid" : 31
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -42.0, 210.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "BG_tree_01",
+         "type" : 1,
+         "uid" : 32
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -289.0, 117.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "BG_tree_01",
+         "type" : 1,
+         "uid" : 35
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 288.0, 214.0 ],
+         "Scale" : [ -0.8500000238418579, 0.8500000238418579 ],
+         "Shown" : true,
+         "sprite" : "BG_tree_01",
+         "type" : 1,
+         "uid" : 36
+      }
+   ],
+   "customvariables" : null,
+   "events" : null,
+   "labels" : null,
+   "stageOptions" : {
+      "SpriteInfo" : [
+         {
+            "SpriteInfo" : "BG_tree_01",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "BG_bush_01",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "BG_cannon_01",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "BG_grass_01",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "BG_rock_01",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "BG_palm_01",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "BG_hut_01",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "BG_palm_02",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "BG_rock_02",
+            "Texture" : "intro_sprites"
+         }
+      ],
+      "StageLength" : 20.0,
+      "Version" : 1
+   },
+   "timelines" : [
+      {
+         "spriteuid" : 20,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 4,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 5,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 6,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 33,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 21,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 9,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 13,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 14,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 8,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 22,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 15,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 23,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 18,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 16,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 19,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 27,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 24,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 34,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 25,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 26,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 29,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 30,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 31,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 32,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 35,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 36,
+         "stage" : null
+      }
+   ]
+}

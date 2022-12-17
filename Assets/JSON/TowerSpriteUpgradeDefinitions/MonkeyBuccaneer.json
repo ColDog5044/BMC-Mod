@@ -1,0 +1,41 @@
+{
+	"Sprites":
+	{
+        "0" : "MonkeyBuccaneer",
+        "1" : "MonkeyBuccaneerJollyRoger",
+        "2" : "MonkeyBuccaneerSingleSail",
+        "3" : "MonkeyBuccaneerDestroyer",
+        "4" : "MonkeyBuccaneerAircraftCarrier",
+        "5" : "MonkeyBuccaneerGrapes",
+        "6" : "MonkeyBuccaneerJollyRogerGrapes",
+        "7" : "MonkeyBuccaneerCannonShip",
+        "8" : "MonkeyBuccaneerPirates",
+        "9" : "MonkeyBuccaneerDestroyerAnimated",
+        "10": "MonkeyBuccaneerAircraftCarrierAnimated"
+	},
+	
+	"UpgradeLevels":
+	{
+		"00"		: 0,
+		"01"		: 5,
+		"02"		: 2,
+		"03"		: 7,
+		"04"		: 8,
+		"10"		: 1,
+		"11"		: 6,
+		"12"		: 2,
+		"13"		: 7,
+		"14"		: 8,
+		"20"		: 2,
+		"21"		: 2,
+		"22"		: 2,
+		"23"		: 7,
+		"24"		: 8,
+		"30"		: 3,
+		"31"		: 3,
+		"32"		: 9,
+		"40"		: 4,
+		"41"		: 4,
+		"42"		: 10
+	}
+}

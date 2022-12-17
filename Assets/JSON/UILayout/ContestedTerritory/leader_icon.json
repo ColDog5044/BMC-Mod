@@ -1,0 +1,102 @@
+{
+   "Alignment" : null,
+   "Point" : null,
+   "actors" : [
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 2.0, 19.0 ],
+         "Scale" : [ 4.0, 4.0 ],
+         "Shown" : true,
+         "sprite" : "collect_rays",
+         "type" : 1,
+         "uid" : 3
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 0.0, 0.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "contested_territory_leader_icon",
+         "type" : 1,
+         "uid" : 1
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 5.0, 48.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "big_banana.json",
+         "type" : 2,
+         "uid" : 2
+      }
+   ],
+   "customvariables" : null,
+   "labels" : null,
+   "stageOptions" : {
+      "SpriteInfo" : [
+         {
+            "SpriteInfo" : "collect_rays",
+            "Texture" : "contested_territory"
+         },
+         {
+            "SpriteInfo" : "contested_territory_leader_icon",
+            "Texture" : "contested_territory"
+         },
+         {
+            "SpriteInfo" : "big_banana.json",
+            "Texture" : "contested_territory"
+         }
+      ],
+      "StageLength" : 10.0,
+      "Version" : 1
+   },
+   "timelines" : [
+      {
+         "spriteuid" : 1,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 3,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 2.0, 19.0 ],
+               "Scale" : [ 4.0, 4.0 ],
+               "Shown" : true,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 360.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 2.0, 19.0 ],
+               "Scale" : [ 4.0, 4.0 ],
+               "Shown" : true,
+               "Time" : 10.0
+            }
+         ]
+      },
+      {
+         "spriteuid" : 2,
+         "stage" : null
+      }
+   ]
+}

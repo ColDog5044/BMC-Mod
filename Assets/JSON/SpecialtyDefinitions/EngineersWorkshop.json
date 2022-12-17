@@ -1,0 +1,86 @@
+{
+	"Name" : "LOC_SPEC_Engineer",
+	"Icon" : "engineers_workshop_building",
+	"Building" : "engineers_workshop",
+	"Prices" : [ 750, 750, 1000, 1500 ],
+	"Effects" :
+	{
+		"I" :
+		{
+			"Text" : "LOC_SPEC_Engineer_I",
+			"TowerModifiers" :
+			[{
+				"TargetingFilter" : { "Include" : { "TowerType": [ "MonkeyEngineer" ] } },
+				"Modifier" : { "Cost": [ 0.95, 0 ] }
+			}]
+		},
+		
+		"II" :		
+		{
+			"Text" : "LOC_SPEC_Engineer_II",
+			"TowerModifiers" :
+			[{
+				"TargetingFilter" : { "Include" : { "TowerType": [ "MonkeyEngineer" ] } },
+				"Modifier" :
+				{
+					"FireDelay" : [ 0.9090909, 0 ],
+					"Cooldown"  : [ 0.9090909, 0 ]
+				}
+			}]
+		},
+	
+		"III" :
+		{
+			"Text" : "LOC_SPEC_Engineer_III",
+			"TowerModifiers" :
+			[
+                 {
+                    "TargetingFilter" : { "Include" : { "TowerType": [ "MonkeyEngineer" ] } },
+                    "Modifier" :
+                    {
+                        "CanPopAllBloons" : [ true, true ]
+                    }
+                 },
+                 {
+                     "TargetingFilter" : { "Include" : { "TowerType": [ "MonkeyEngineerSentry" ] } },
+                     "Modifier" :
+                     {
+                        "CanPopAllBloons" : [ true, true ]
+                     }
+                 },
+                 {
+                     "TargetingFilter" : { "Include" : { "TowerType": [ "MonkeyEngineerSentryTier4" ] } },
+                     "Modifier" :
+                     {
+                        "CanPopAllBloons" : [ true, true ]
+                     }
+                 }
+             ]
+		},
+        
+        "IV" :
+        {
+            "Text" : "LOC_SPEC_Engineer_IV",
+			"TowerModifiers" :
+			[{
+                 "TargetingFilter" : { "Include" : { "TowerType" : [ "MonkeyEngineer" ] } },
+                 "Modifier" :
+                 {
+                    "FireDelay" : [ 1.0, 0 ],
+                    "Cooldown"  : [ 2.0, 0 ],
+                    "EnabledSubtasks" : [ [ 0, [ 0 ], false ], [ 0, [ 1 ], true ]  ]
+                 }
+             }]
+        },
+		
+		"X" :
+		{
+			"Text" : "LOC_SPEC_Engineer_X",
+			"TowerModifiers" :
+			[{
+             "TargetingFilter" : { "Include" : { "TowerType": [ "MonkeyEngineer" ] } },
+             "Modifier" : { "Cost": [ 0.95, 0 ] }
+             }]
+		}
+	}
+}

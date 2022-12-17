@@ -1,0 +1,524 @@
+{
+    "Data": [
+        {
+            "_ID": "bmc_bloonscience", 
+            "icon": "BloonScience", 
+            "mob_JSONData": "{\"Type\":\"Research\" ,\"Info\":\"ZOMG\"}", 
+            "mob_Type": "PVP", 
+            "platform_id_amazon": "bmc_bloonscience", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQGA", 
+            "platform_id_ios": "bmc_bloonscience", 
+            "type": "MvM"
+        }, 
+        {
+            "_ID": "bmc_gimmethat", 
+            "icon": "GimmeThat", 
+            "mob_JSONData": "{\"Type\":\"Pillage\" ,\"Value\":10000}", 
+            "mob_Type": "PVP", 
+            "platform_id_amazon": "bmc_gimmethat", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQGQ", 
+            "platform_id_ios": "bmc_gimmethat", 
+            "type": "MvM"
+        }, 
+        {
+            "_ID": "bmc_extortionist", 
+            "icon": "Extortionist", 
+            "mob_JSONData": "{\"Type\":\"Pillage\" ,\"Value\":500000}", 
+            "mob_Type": "PVP", 
+            "platform_id_amazon": "bmc_extortionist", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQGg", 
+            "platform_id_ios": "bmc_extortionist", 
+            "type": "MvM"
+        }, 
+        {
+            "_ID": "bmc_sweetrevenge", 
+            "icon": "SweetRevenge", 
+            "mob_JSONData": "{\"Type\":\"Revenge\", \"Value\":25}", 
+            "mob_Type": "PVP", 
+            "platform_id_amazon": "bmc_sweetrevenge", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQGw", 
+            "platform_id_ios": "bmc_sweetrevenge", 
+            "type": "MvM"
+        }, 
+        {
+            "_ID": "bmc_servedcold", 
+            "icon": "BestServedCold", 
+            "mob_JSONData": "{\"Type\":\"Revenge\", \"Value\":500}", 
+            "mob_Type": "PVP", 
+            "platform_id_amazon": "bmc_servedcold", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQHA", 
+            "platform_id_ios": "bmc_servedcold", 
+            "type": "MvM"
+        }, 
+        {
+            "_ID": "bmc_guardian", 
+            "icon": "Guardian", 
+            "mob_JSONData": "{\"Type\":\"Defend\", \"Value\":100}", 
+            "mob_Type": "PVP", 
+            "platform_id_amazon": "bmc_guardian", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQHw", 
+            "platform_id_ios": "bmc_guardian", 
+            "type": "MvM"
+        }, 
+        {
+            "_ID": "bmc_epicdefender", 
+            "icon": "EpicDefender", 
+            "mob_JSONData": "{\"Type\":\"Defend\", \"Value\":2500}", 
+            "mob_Type": "PVP", 
+            "platform_id_amazon": "bmc_epicdefender", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQIA", 
+            "platform_id_ios": "bmc_epicdefender", 
+            "type": "MvM"
+        }, 
+        {
+            "_ID": "bmc_defender", 
+            "icon": "Defender", 
+            "mob_JSONData": "{\"Type\":\"Defend\", \"Value\":3, \"Rules\":\"QuickMatchInRow\"}", 
+            "mob_Type": "PVP", 
+            "platform_id_amazon": "bmc_defender", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQHQ", 
+            "platform_id_ios": "bmc_defender", 
+            "type": "MvM"
+        }, 
+        {
+            "_ID": "bmc_shallnotpass", 
+            "icon": "YouShallNotPass", 
+            "mob_JSONData": "{\"Type\":\"Defend\", \"Value\":10, \"Rules\":\"QuickMatchInRow\"}", 
+            "mob_Type": "PVP", 
+            "platform_id_amazon": "bmc_shallnotpass", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQHg", 
+            "platform_id_ios": "bmc_shallnotpass", 
+            "type": "MvM"
+        }, 
+        {
+            "_ID": "bmc_attackrun", 
+            "icon": "AttackRun", 
+            "mob_JSONData": "{\"Type\":\"Win\", \"Value\":10, \"Rules\":\"QuickMatchInRow\"}", 
+            "mob_Type": "PVP", 
+            "platform_id_amazon": "bmc_attackrun", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQJQ", 
+            "platform_id_ios": "bmc_attackrun", 
+            "type": "MvM"
+        }, 
+        {
+            "_ID": "bmc_landsurveyor", 
+            "icon": "LandSurveyor", 
+            "mob_JSONData": "{\"Type\":\"Tile\", \"Value\":\"Any\", \"Count\":10}", 
+            "mob_Type": "Capture", 
+            "platform_id_amazon": "bmc_landsurveyor", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQAQ", 
+            "platform_id_ios": "bmc_landsurveyor", 
+            "type": "Land"
+        }, 
+        {
+            "_ID": "bmc_landahoy", 
+            "icon": "LandAhoy", 
+            "mob_JSONData": "{\"Type\":\"Tile\", \"Value\":\"Any\", \"Count\":250}", 
+            "mob_Type": "Capture", 
+            "platform_id_amazon": "bmc_landahoy", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQAw", 
+            "platform_id_ios": "bmc_landahoy", 
+            "type": "Land"
+        }, 
+        {
+            "_ID": "bmc_landtrust", 
+            "icon": "MonkeyLandTrust", 
+            "mob_JSONData": "{\"Type\":\"Tile\", \"Value\":\"Any\", \"Count\":500}", 
+            "mob_Type": "Capture", 
+            "platform_id_amazon": "bmc_landtrust", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQBA", 
+            "platform_id_ios": "bmc_landtrust", 
+            "type": "Land"
+        }, 
+        {
+            "_ID": "bmc_landconservancy", 
+            "icon": "MonkeyLandConservancy", 
+            "mob_JSONData": "{\"Type\":\"Tile\", \"Value\":\"Any\", \"Count\":2000}", 
+            "mob_Type": "Capture", 
+            "platform_id_amazon": "bmc_landconservancy", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQBQ", 
+            "platform_id_ios": "bmc_landconservancy", 
+            "type": "Land"
+        }, 
+        {
+            "_ID": "bmc_hereswater", 
+            "icon": "HeresMyWater", 
+            "mob_JSONData": "{\"Type\":\"Tile\", \"Values\":[\"RiverTerrain\", \"LakeTerrain\"], \"Count\":100}", 
+            "mob_Type": "Capture", 
+            "platform_id_amazon": "bmc_hereswater", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQBg", 
+            "platform_id_ios": "bmc_hereswater", 
+            "type": "Land"
+        }, 
+        {
+            "_ID": "bmc_highground", 
+            "icon": "HighGround", 
+            "mob_JSONData": "{\"Type\":\"Tile\", \"Values\":[\"MountainTerrain\", \"VolcanoTerrain\"], \"Count\":100}", 
+            "mob_Type": "Capture", 
+            "platform_id_amazon": "bmc_highground", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQBw", 
+            "platform_id_ios": "bmc_highground", 
+            "type": "Land"
+        }, 
+        {
+            "_ID": "bmc_treasurehunter", 
+            "icon": "TreasureHunter", 
+            "mob_JSONData": "{\"Type\":\"Contains\", \"Value\":\"TreasureChest\", \"Count\":10}", 
+            "mob_Type": "Capture", 
+            "platform_id_amazon": "bmc_treasurehunter", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQEQ", 
+            "platform_id_ios": "bmc_treasurehunter", 
+            "type": "Special Land"
+        }, 
+        {
+            "_ID": "bmc_treasuretrove", 
+            "icon": "TreasureTrove", 
+            "mob_JSONData": "{\"Type\":\"Contains\", \"Value\":\"TreasureChest\", \"Count\":20}", 
+            "mob_Type": "Capture", 
+            "platform_id_amazon": "bmc_treasuretrove", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQEg", 
+            "platform_id_ios": "bmc_treasuretrove", 
+            "type": "Special Land"
+        }, 
+        {
+            "_ID": "bmc_extraspecial", 
+            "icon": "ExtraSpecial", 
+            "mob_JSONData": "{\"Type\":\"BuildOnSpecialTiles\"}", 
+            "mob_Type": "Special", 
+            "platform_id_amazon": "bmc_extraspecial", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQEw", 
+            "platform_id_ios": "bmc_extraspecial", 
+            "type": "Special Land"
+        }, 
+        {
+            "_ID": "bmc_feelpower", 
+            "icon": "FeelThePower", 
+            "mob_JSONData": "{\"Type\":\"Capacity\", \"Resource\":\"Power\",\"Value\":1000}", 
+            "mob_Type": "Resource", 
+            "platform_id_amazon": "bmc_feelpower", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQFA", 
+            "platform_id_ios": "bmc_feelpower", 
+            "type": "Power"
+        }, 
+        {
+            "_ID": "bmc_powermad", 
+            "icon": "PowerMad", 
+            "mob_JSONData": "{\"Type\":\"Capacity\", \"Resource\":\"Power\",\"Value\":5000}", 
+            "mob_Type": "Resource", 
+            "platform_id_amazon": "bmc_powermad", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQFQ", 
+            "platform_id_ios": "bmc_powermad", 
+            "type": "Power"
+        }, 
+        {
+            "_ID": "bmc_wholelottamonkeys", 
+            "icon": "WholeLottaMonkeys", 
+            "mob_JSONData": "{\"Type\":\"Reached\", \"Resource\":\"Towers\",\"Value\":100}", 
+            "mob_Type": "Resource", 
+            "platform_id_amazon": "bmc_wholelottamonkeys", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQFw", 
+            "platform_id_ios": "bmc_wholelottamonkeys", 
+            "type": "Buildings"
+        }, 
+        {
+            "_ID": "bmc_cityeverything", 
+            "icon": "CityWithEverything", 
+            "mob_JSONData": "{\"Type\":\"BuildEveryBuilding\"}", 
+            "mob_Type": "Special", 
+            "platform_id_amazon": "bmc_cityeverything", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQMw", 
+            "platform_id_ios": "bmc_cityeverything", 
+            "type": "Buildings"
+        }, 
+        {
+            "_ID": "bmc_blingworthy", 
+            "icon": "BlingWorthy", 
+            "mob_JSONData": "{\"Type\":\"Reached\", \"Resource\":\"Money\",\"Value\":10000}", 
+            "mob_Type": "Resource", 
+            "platform_id_amazon": "bmc_blingworthy", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQAg", 
+            "platform_id_ios": "bmc_blingworthy", 
+            "type": "Money"
+        }, 
+        {
+            "_ID": "bmc_phatstax", 
+            "icon": "PhatStax", 
+            "mob_JSONData": "{\"Type\":\"Reached\", \"Resource\":\"Money\",\"Value\":200000}", 
+            "mob_Type": "Resource", 
+            "platform_id_amazon": "bmc_phatstax", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQFg", 
+            "platform_id_ios": "bmc_phatstax", 
+            "type": "Money"
+        }, 
+        {
+            "_ID": "bmc_moabmauler", 
+            "icon": "MOABMauler", 
+            "mob_JSONData": "{\"Type\":\"MOAB\", \"Value\":1000}", 
+            "mob_Type": "Profile", 
+            "platform_id_amazon": "bmc_moabmauler", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQCw", 
+            "platform_id_ios": "bmc_moabmauler", 
+            "type": "Bloons"
+        }, 
+        {
+            "_ID": "bmc_moabassassin", 
+            "icon": "MOABAssassin", 
+            "mob_JSONData": "{\"Type\":\"MOAB\",  \"Value\":10000}", 
+            "mob_Type": "Profile", 
+            "platform_id_amazon": "bmc_moabassassin", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQDA", 
+            "platform_id_ios": "bmc_moabassassin", 
+            "type": "Bloons"
+        }, 
+        {
+            "_ID": "bmc_ddteradicator", 
+            "icon": "DDTEradicator", 
+            "mob_JSONData": "{\"Type\":\"DDT\", \"Value\":10000}", 
+            "mob_Type": "Profile", 
+            "platform_id_amazon": "bmc_ddteradicator", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQDQ", 
+            "platform_id_ios": "bmc_ddteradicator", 
+            "type": "Bloons"
+        }, 
+        {
+            "_ID": "bmc_bfbsaboteur", 
+            "icon": "BFBSaboteur", 
+            "mob_JSONData": "{\"Type\":\"BFB\", \"Value\":10000}", 
+            "mob_Type": "Profile", 
+            "platform_id_amazon": "bmc_bfbsaboteur", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQDg", 
+            "platform_id_ios": "bmc_bfbsaboteur", 
+            "type": "Bloons"
+        }, 
+        {
+            "_ID": "bmc_zomginator", 
+            "icon": "ZOMGinator", 
+            "mob_JSONData": "{\"Type\":\"ZOMG\",\"Value\":10000}", 
+            "mob_Type": "Profile", 
+            "platform_id_amazon": "bmc_zomginator", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQDw", 
+            "platform_id_ios": "bmc_zomginator", 
+            "type": "Bloons"
+        }, 
+        {
+            "_ID": "bmc_steely", 
+            "icon": "Steeley", 
+            "mob_JSONData": "{\"Type\":\"Lead\", \"Value\":1000000}", 
+            "mob_Type": "Profile", 
+            "platform_id_amazon": "bmc_steeley", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQCA", 
+            "platform_id_ios": "bmc_steeley", 
+            "type": "Bloons"
+        }, 
+        {
+            "_ID": "bmc_hardbaked", 
+            "icon": "HardBaked", 
+            "mob_JSONData": "{\"Type\":\"Ceramic\", \"Value\":1000000}", 
+            "mob_Type": "Profile", 
+            "platform_id_amazon": "bmc_hardbaked", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQCQ", 
+            "platform_id_ios": "bmc_hardbaked", 
+            "type": "Bloons"
+        }, 
+        {
+            "_ID": "bmc_infrared", 
+            "icon": "Infrared", 
+            "mob_JSONData": "{\"Type\":\"Camo\", \"Value\":1000000}", 
+            "mob_Type": "Profile", 
+            "platform_id_amazon": "bmc_infrared", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQCg", 
+            "platform_id_ios": "bmc_infrared", 
+            "type": "Bloons"
+        }, 
+        {
+            "_ID": "bmc_impoppable", 
+            "icon": "Impoppable", 
+            "mob_JSONData": "{\"Type\":\"Bloon\",\"Value\":100000000}", 
+            "mob_Type": "Profile", 
+            "platform_id_amazon": "bmc_impoppable", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQEA", 
+            "platform_id_ios": "bmc_impoppable", 
+            "type": "Bloons"
+        }, 
+        {
+            "_ID": "bmc_redhonor", 
+            "icon": "RedCityHonor", 
+            "mob_JSONData": "{\"Type\":\"Honor\" ,\"Value\":50}", 
+            "mob_Type": "Profile", 
+            "platform_id_amazon": "bmc_redhonor", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQJw", 
+            "platform_id_ios": "bmc_redhonor", 
+            "type": "MvM"
+        }, 
+        {
+            "_ID": "bmc_bluehonor", 
+            "icon": "BlueCityHonor", 
+            "mob_JSONData": "{\"Type\":\"Honor\" ,\"Value\":100}", 
+            "mob_Type": "Profile", 
+            "platform_id_amazon": "bmc_bluehonor", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQKA", 
+            "platform_id_ios": "bmc_bluehonor", 
+            "type": "MvM"
+        }, 
+        {
+            "_ID": "bmc_greenhonor", 
+            "icon": "GreenCityHonor", 
+            "mob_JSONData": "{\"Type\":\"Honor\" ,\"Value\":300}", 
+            "mob_Type": "Profile", 
+            "platform_id_amazon": "bmc_greenhonor", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQKQ", 
+            "platform_id_ios": "bmc_greenhonor", 
+            "type": "MvM"
+        }, 
+        {
+            "_ID": "bmc_yellowhonor", 
+            "icon": "YellowCityHonor", 
+            "mob_JSONData": "{\"Type\":\"Honor\" ,\"Value\":600}", 
+            "mob_Type": "Profile", 
+            "platform_id_amazon": "bmc_yellowhonor", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQKg", 
+            "platform_id_ios": "bmc_yellowhonor", 
+            "type": "MvM"
+        }, 
+        {
+            "_ID": "bmc_pinkhonor", 
+            "icon": "PinkCityHonor", 
+            "mob_JSONData": "{\"Type\":\"Honor\" ,\"Value\":1000}", 
+            "mob_Type": "Profile", 
+            "platform_id_amazon": "bmc_pinkhonor", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQKw", 
+            "platform_id_ios": "bmc_pinkhonor", 
+            "type": "MvM"
+        }, 
+        {
+            "_ID": "bmc_blackhonor", 
+            "icon": "BlackCityHonor", 
+            "mob_JSONData": "{\"Type\":\"Honor\" ,\"Value\":1500}", 
+            "mob_Type": "Profile", 
+            "platform_id_amazon": "bmc_blackhonor", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQLA", 
+            "platform_id_ios": "bmc_blackhonor", 
+            "type": "MvM"
+        }, 
+        {
+            "_ID": "bmc_whitehonor", 
+            "icon": "WhiteCityHonor", 
+            "mob_JSONData": "{\"Type\":\"Honor\" ,\"Value\":2100}", 
+            "mob_Type": "Profile", 
+            "platform_id_amazon": "bmc_whitehonor", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQLQ", 
+            "platform_id_ios": "bmc_whitehonor", 
+            "type": "MvM"
+        }, 
+        {
+            "_ID": "bmc_zebrahonor", 
+            "icon": "ZebraCityHonor", 
+            "mob_JSONData": "{\"Type\":\"Honor\" ,\"Value\":2800}", 
+            "mob_Type": "Profile", 
+            "platform_id_amazon": "bmc_zebrahonor", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQLg", 
+            "platform_id_ios": "bmc_zebrahonor", 
+            "type": "MvM"
+        }, 
+        {
+            "_ID": "bmc_rainbowhonor", 
+            "icon": "RainbowCityHonor", 
+            "mob_JSONData": "{\"Type\":\"Honor\" ,\"Value\":3600}", 
+            "mob_Type": "Profile", 
+            "platform_id_amazon": "bmc_rainbowhonor", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQNA", 
+            "platform_id_ios": "bmc_rainbowhonor", 
+            "type": "MvM"
+        }, 
+        {
+            "_ID": "bmc_ceramichonor", 
+            "icon": "CeramicCityHonor", 
+            "mob_JSONData": "{\"Type\":\"Honor\" ,\"Value\":4500}", 
+            "mob_Type": "Profile", 
+            "platform_id_amazon": "bmc_ceramichonor", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQLw", 
+            "platform_id_ios": "bmc_ceramichonor", 
+            "type": "MvM"
+        }, 
+        {
+            "_ID": "bmc_moabhonor", 
+            "icon": "MOABCityHonor", 
+            "mob_JSONData": "{\"Type\":\"Honor\" ,\"Value\":5500}", 
+            "mob_Type": "Profile", 
+            "platform_id_amazon": "bmc_moabhonor", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQMA", 
+            "platform_id_ios": "bmc_moabhonor", 
+            "type": "MvM"
+        }, 
+        {
+            "_ID": "bmc_bfbhonor", 
+            "icon": "BFBCityHonor", 
+            "mob_JSONData": "{\"Type\":\"Honor\" ,\"Value\":7500}", 
+            "mob_Type": "Profile", 
+            "platform_id_amazon": "bmc_bfbhonor", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQMQ", 
+            "platform_id_ios": "bmc_bfbhonor", 
+            "type": "MvM"
+        }, 
+        {
+            "_ID": "bmc_zomghonor", 
+            "icon": "ZOMGCityHonor", 
+            "mob_JSONData": "{\"Type\":\"Honor\" ,\"Value\":10000}", 
+            "mob_Type": "Profile", 
+            "platform_id_amazon": "bmc_zomghonor", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQMg", 
+            "platform_id_ios": "bmc_zomghonor", 
+            "type": "MvM"
+        }, 
+        {
+            "_ID": "bmc_contestant", 
+            "icon": "Contestant", 
+            "mob_JSONData": "{\"Type\":\"CTPlays\", \"Value\":10}", 
+            "mob_Type": "Profile", 
+            "platform_id_amazon": "bmc_contestant", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQJg", 
+            "platform_id_ios": "bmc_contestant", 
+            "type": "Contested Territory"
+        }, 
+        {
+            "_ID": "bmc_victor", 
+            "icon": "Victor", 
+            "mob_JSONData": "{\"Type\":\"CTWins\", \"Value\":1}", 
+            "mob_Type": "Profile", 
+            "platform_id_amazon": "bmc_victor", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQIQ", 
+            "platform_id_ios": "bmc_victor", 
+            "type": "Contested Territory"
+        }, 
+        {
+            "_ID": "bmc_territoryboss", 
+            "icon": "TerritoryBoss", 
+            "mob_JSONData": "{\"Type\":\"CTWins\", \"Value\":5}", 
+            "mob_Type": "Profile", 
+            "platform_id_amazon": "bmc_territoryboss", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQIg", 
+            "platform_id_ios": "bmc_territoryboss", 
+            "type": "Contested Territory"
+        }, 
+        {
+            "_ID": "bmc_territoryconqueror", 
+            "icon": "TerritoryConqueror", 
+            "mob_JSONData": "{\"Type\":\"CTWins\", \"Value\":10}", 
+            "mob_Type": "Profile", 
+            "platform_id_amazon": "bmc_territoryconqueror", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQIw", 
+            "platform_id_ios": "bmc_territoryconqueror", 
+            "type": "Contested Territory"
+        }, 
+        {
+            "_ID": "bmc_territoryking", 
+            "icon": "TerritoryKing", 
+            "mob_JSONData": "{\"Type\":\"CTWins\", \"Value\":20}", 
+            "mob_Type": "Profile", 
+            "platform_id_amazon": "bmc_territoryking", 
+            "platform_id_google": "CgkIlNTgp8AIEAIQJA", 
+            "platform_id_ios": "bmc_territoryking", 
+            "type": "Contested Territory"
+        }
+    ]
+}

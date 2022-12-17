@@ -1,0 +1,90 @@
+{
+	"Name" : "LOC_LAB_AttackSpeed",
+	"Description" : "LOC_LAB_DESC_AttackSpeed",
+	"Icon" : "faster_firing",
+	"LevelGateway" : [ 2, 5, 9, 14, 24, 36, 54, 79 ],
+	
+	"Upgrades" :
+	[
+		{
+			"Description" : "LOC_LAB_DESC_AttackSpeed_1",
+			"TowerModifier" :
+			{
+				"Modifier" :
+				{
+					"Cooldown" : [ 0.98, 0 ]
+				}
+			}
+		},
+		{
+			"Description" : "LOC_LAB_DESC_AttackSpeed_2",
+			"TowerModifier" :
+			{
+				"Modifier" :
+				{
+					"Cooldown" : [ 0.97, 0 ]
+				}
+			}
+		},
+		{
+			"Description" : "LOC_LAB_DESC_AttackSpeed_3",
+			"TowerModifier" :
+			{
+				"Modifier" :
+				{
+					"Cooldown" : [ 0.96, 0 ]
+				}
+			}
+		},
+		{
+			"Description" : "LOC_LAB_DESC_AttackSpeed_4",
+			"TowerModifier" :
+			{
+				"Modifier" :
+				{
+					"Cooldown" : [ 0.95, 0 ]
+				}
+			}
+		},
+		{
+			"Description" : "LOC_LAB_DESC_AttackSpeed_5",
+			"TowerModifier" :
+			{
+				"Modifier" :
+				{
+					"Cooldown" : [ 0.93, 0 ]
+				}
+			}
+		},
+		{
+			"Description" : "LOC_LAB_DESC_AttackSpeed_6",
+			"TowerModifier" :
+			{
+				"Modifier" :
+				{
+					"Cooldown" : [ 0.91, 0 ]
+				}
+			}
+		},
+		{
+			"Description" : "LOC_LAB_DESC_AttackSpeed_7",
+			"TowerModifier" :
+			{
+				"Modifier" :
+				{
+					"Cooldown" : [ 0.88, 0 ]
+				}
+			}
+		},
+		{
+			"Description" : "LOC_LAB_DESC_AttackSpeed_8",
+			"TowerModifier" :
+			{
+				"Modifier" :
+				{
+					"Cooldown" : [ 0.85, 0 ]
+				}
+			}
+		}
+	]
+}

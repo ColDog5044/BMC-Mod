@@ -1,0 +1,20 @@
+{	
+    "Type":             	"SupplyCrate",
+    "TargetRange":      	1000,
+    "CooldownTime":     	0.0,
+    "FireDelayTime":    	0.0,
+	"ManuallyFired": 		true,
+	"RequiresTargetToFire":	false,
+    "Tasks" :
+    [
+		{
+			"Type": "LaunchAircraft",
+			"Aircraft": "SupplyCratePlane.tower",
+			"Path":
+			[
+				[ [ -50, -50 ], [ 160, 160 ] ],
+				[ [ 530, 530 ], [ 160, 160 ] ]
+			]
+		}
+	]
+}

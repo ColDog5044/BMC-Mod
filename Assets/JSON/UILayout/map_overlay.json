@@ -1,0 +1,102 @@
+{
+   "actors" : [
+       {
+        "Alignment" : [ 2 , 0 ],
+        "Flip" : 0,
+        "Position" : [ 0.0 , 0.0 ],
+        "Angle" : 0.0,
+        "sprite" : "map_select_shadow_overlay",
+        "type" : 1,
+        "uid" : 7,
+        "Scale" : [ 1.0 , 1.0 ],
+        "Shown" : true,
+        "Alpha" : 1.0
+       },
+       {
+        "Alignment" : [ 1 , 0 ],
+        "Flip" : 0,
+        "Position" : [ 0.0 , 0.0 ],
+        "Angle" : 0.0,
+        "sprite" : "map_select_shadow_overlay",
+        "type" : 1,
+        "uid" : 8,
+        "Scale" : [ 1.0 , 1.0 ],
+        "Shown" : true,
+        "Alpha" : 1.0
+       },
+       {
+        "Alignment" : [ 2 , 0 ],
+        "Flip" : 0,
+        "Position" : [ -27.0 , 0.0 ],
+        "Angle" : 0.0,
+        "sprite" : "map_select_shadow_overlay",
+        "type" : 1,
+        "uid" : 9,
+        "Scale" : [ 1.0 , 1.0 ],
+        "Shown" : true,
+        "Alpha" : 1.0
+       },
+       {
+        "Alignment" : [ 2 , 0 ],
+        "Flip" : 0,
+        "Position" : [ -54.0 , 0.0 ],
+        "Angle" : 0.0,
+        "sprite" : "map_select_shadow_overlay",
+        "type" : 1,
+        "uid" : 10,
+        "Scale" : [ 1.0 , 1.0 ],
+        "Shown" : true,
+        "Alpha" : 1.0
+       },
+       {
+        "Alignment" : [ 2 , 0 ],
+        "Flip" : 0,
+        "Position" : [ -81.0 , 0.0 ],
+        "Angle" : 0.0,
+        "sprite" : "map_select_shadow_overlay",
+        "type" : 1,
+        "uid" : 11,
+        "Scale" : [ 1.0 , 1.0 ],
+        "Shown" : true,
+        "Alpha" : 1.0
+       },
+       {
+        "Alignment" : [ 1 , 0 ],
+        "Flip" : 0,
+        "Position" : [ 27.0 , 0.0 ],
+        "Angle" : 0.0,
+        "sprite" : "map_select_shadow_overlay",
+        "type" : 1,
+        "uid" : 12,
+        "Scale" : [ 1.0 , 1.0 ],
+        "Shown" : true,
+        "Alpha" : 1.0
+       },
+       {
+        "Alignment" : [ 1 , 0 ],
+        "Flip" : 0,
+        "Position" : [ 54.0 , 0.0 ],
+        "Angle" : 0.0,
+        "sprite" : "map_select_shadow_overlay",
+        "type" : 1,
+        "uid" : 13,
+        "Scale" : [ 1.0 , 1.0 ],
+        "Shown" : true,
+        "Alpha" : 1.0
+       },
+       {
+        "Alignment" : [ 1 , 0 ],
+        "Flip" : 0,
+        "Position" : [ 81.0 , 0.0 ],
+        "Angle" : 0.0,
+        "sprite" : "map_select_shadow_overlay",
+        "type" : 1,
+        "uid" : 14,
+        "Scale" : [ 1.0 , 1.0 ],
+        "Shown" : true,
+        "Alpha" : 1.0
+       }
+
+   ],
+   "stageOptions" : null
+}

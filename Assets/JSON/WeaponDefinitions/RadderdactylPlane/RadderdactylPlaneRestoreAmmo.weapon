@@ -1,0 +1,16 @@
+{	
+    "Type":             "RadderdactylPlaneRestoreAmmo",
+    "TargetRange":      35,
+	"CooldownTime":     0,
+    "FireDelayTime":    0.0,
+   
+    "Tasks" :
+    [
+		{
+			"Type" : "RestoreAmmo",
+			"Proxied" : true,
+			"Amount" : 1,
+			"RoundRobin" : true
+		}
+	]
+}

@@ -1,0 +1,914 @@
+{
+    "Data": [
+        {
+            "_ID": 0, 
+            "button_type": "intro", 
+            "next_id": [
+                1
+            ], 
+            "position": "", 
+            "tasks": [
+                {
+                    "args": [], 
+                    "name": "HideCityHud"
+                }, 
+                {
+                    "args": [], 
+                    "name": "CheckAccount"
+                }, 
+                {
+                    "args": [], 
+                    "name": "OpenCityPopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "DidClosePopup"
+                }
+            ]
+        }, 
+        {
+            "_ID": 1, 
+            "button_type": "", 
+            "next_id": [
+                2
+            ], 
+            "position": "", 
+            "tasks": [
+                {
+                    "args": [], 
+                    "name": "OpenCityPopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "SelectEasyTile"
+                }
+            ]
+        }, 
+        {
+            "_ID": 2, 
+            "button_type": "next", 
+            "next_id": [
+                3
+            ], 
+            "position": "", 
+            "tasks": [
+                {
+                    "args": [], 
+                    "name": "GameStarted"
+                }, 
+                {
+                    "args": [], 
+                    "name": "PreventAutoStartRound"
+                }, 
+                {
+                    "args": [], 
+                    "name": "PreventTowerAutoSelect"
+                }, 
+                {
+                    "args": [], 
+                    "name": "OpenGamePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "DidClosePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "LockTowerMenu"
+                }
+            ]
+        }, 
+        {
+            "_ID": 3, 
+            "button_type": "", 
+            "next_id": [
+                4
+            ], 
+            "position": "", 
+            "tasks": [
+                {
+                    "args": [
+                        false
+                    ], 
+                    "name": "OpenGamePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "ShowTowerMenu"
+                }, 
+                {
+                    "args": [], 
+                    "name": "PlacedTower"
+                }
+            ]
+        }, 
+        {
+            "_ID": 4, 
+            "button_type": "", 
+            "next_id": [
+                5
+            ], 
+            "position": "", 
+            "tasks": [
+                {
+                    "args": [
+                        false
+                    ], 
+                    "name": "OpenGamePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "RoundStarted"
+                }, 
+                {
+                    "args": [], 
+                    "name": "ClosePopup"
+                }
+            ]
+        }, 
+        {
+            "_ID": 5, 
+            "button_type": "ok", 
+            "next_id": [
+                6
+            ], 
+            "position": "", 
+            "tasks": [
+                {
+                    "args": [
+                        5
+                    ], 
+                    "name": "PoppedBloons"
+                }, 
+                {
+                    "args": [], 
+                    "name": "PauseGame"
+                }, 
+                {
+                    "args": [], 
+                    "name": "OpenClosableGamePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "DidClosePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "ResumeGame"
+                }, 
+                {
+                    "args": [], 
+                    "name": "LockTowerMenu"
+                }
+            ]
+        }, 
+        {
+            "_ID": 6, 
+            "button_type": "", 
+            "next_id": [
+                7
+            ], 
+            "position": "top", 
+            "tasks": [
+                {
+                    "args": [], 
+                    "name": "RoundEnded"
+                }, 
+                {
+                    "args": [
+                        false
+                    ], 
+                    "name": "OpenGamePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "ShowTowerMenu"
+                }, 
+                {
+                    "args": [], 
+                    "name": "PlacedTower"
+                }, 
+                {
+                    "args": [], 
+                    "name": "ClosePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "RoundStarted"
+                }
+            ]
+        }, 
+        {
+            "_ID": 7, 
+            "button_type": "ok", 
+            "next_id": [
+                8
+            ], 
+            "position": "", 
+            "tasks": [
+                {
+                    "args": [], 
+                    "name": "RoundEnded"
+                }, 
+                {
+                    "args": [], 
+                    "name": "OpenClosableGamePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "DidClosePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "RoundStarted"
+                }, 
+                {
+                    "args": [], 
+                    "name": "VictoryPanelClosed"
+                }, 
+                {
+                    "args": [], 
+                    "name": "SubmitProgress"
+                }, 
+                {
+                    "args": [], 
+                    "name": "HideCityHud"
+                }
+            ]
+        }, 
+        {
+            "_ID": 8, 
+            "button_type": "", 
+            "next_id": [
+                9
+            ], 
+            "position": "", 
+            "tasks": [
+                {
+                    "args": [], 
+                    "name": "HideCityHud"
+                }, 
+                {
+                    "args": [
+                        false
+                    ], 
+                    "name": "OpenCityPopup"
+                }, 
+                {
+                    "args": [
+                        "BananaFarm"
+                    ], 
+                    "name": "FocusCameraOnBuilding"
+                }, 
+                {
+                    "args": [], 
+                    "name": "CollectFarmCash"
+                }, 
+                {
+                    "args": [], 
+                    "name": "SubmitProgress"
+                }
+            ]
+        }, 
+        {
+            "_ID": 9, 
+            "button_type": "", 
+            "next_id": [
+                10
+            ], 
+            "position": "", 
+            "tasks": [
+                {
+                    "args": [
+                        [
+                            "Build"
+                        ]
+                    ], 
+                    "name": "HideCityHud"
+                }, 
+                {
+                    "args": [
+                        false
+                    ], 
+                    "name": "OpenCityPopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "HighlightBuildButton"
+                }, 
+                {
+                    "args": [], 
+                    "name": "FocusCameraOnEmptyTile"
+                }, 
+                {
+                    "args": [
+                        "MonkeyDartHall"
+                    ], 
+                    "name": "ForcePlaceBuilding"
+                }, 
+                {
+                    "args": [], 
+                    "name": "DidOpenBuildMenu"
+                }, 
+                {
+                    "args": [
+                        "MonkeyDartHall"
+                    ], 
+                    "name": "PlacedBuilding"
+                }, 
+                {
+                    "args": [], 
+                    "name": "SubmitProgress"
+                }
+            ]
+        }, 
+        {
+            "_ID": 10, 
+            "button_type": "", 
+            "next_id": [
+                11
+            ], 
+            "position": "", 
+            "tasks": [
+                {
+                    "args": [
+                        [
+                            "Build"
+                        ]
+                    ], 
+                    "name": "HideCityHud"
+                }, 
+                {
+                    "args": [
+                        false
+                    ], 
+                    "name": "OpenCityPopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "FastCompleteBuilding"
+                }, 
+                {
+                    "args": [], 
+                    "name": "SubmitProgress"
+                }
+            ]
+        }, 
+        {
+            "_ID": 11, 
+            "button_type": "", 
+            "next_id": [
+                12, 
+                22
+            ], 
+            "position": "", 
+            "tasks": [
+                {
+                    "args": [
+                        [
+                            "Build", 
+                            "Tasks",
+                            "Menu"
+                        ]
+                    ], 
+                    "name": "HideCityHud"
+                }, 
+                {
+                    "args": [
+                        false
+                    ], 
+                    "name": "OpenCityPopup"
+                }, 
+                {
+                    "args": [
+                        "questID4"
+                    ], 
+                    "name": "StartQuest"
+                }, 
+                {
+                    "args": [], 
+                    "name": "HighlightQuestButton"
+                }, 
+                {
+                    "args": [], 
+                    "name": "DidOpenQuestMenu"
+                }, 
+                {
+                    "args": [], 
+                    "name": "ClosePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "SubmitProgress"
+                }, 
+                {
+                    "args": [], 
+                    "name": "SignIn"
+                }
+            ]
+        }, 
+        {
+            "_ID": 12, 
+            "button_type": "", 
+            "next_id": [
+                13
+            ], 
+            "position": "", 
+            "tasks": [
+                {
+                    "args": [
+                        [
+                            "Build", 
+                            "Tasks",
+                            "Menu"
+                        ]
+                    ], 
+                    "name": "HideCityHud"
+                }, 
+                {
+                    "args": [
+                        "MonkeyAcademy"
+                    ], 
+                    "name": "BuildBuilding"
+                }, 
+                {
+                    "args": [
+                        [
+                            "Build", 
+                            "Tasks", 
+                            "Menu"
+                        ]
+                    ], 
+                    "name": "HideCityHud"
+                }, 
+                {
+                    "args": [
+                        false
+                    ], 
+                    "name": "OpenCityPopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "HighlightMenuButton"
+                }, 
+                {
+                    "args": [], 
+                    "name": "DidOpenMenu"
+                }, 
+                {
+                    "args": [], 
+                    "name": "ClosePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "HighlightUpgradeButton"
+                }, 
+                {
+                    "args": [], 
+                    "name": "DidOpenUpgrade"
+                }, 
+                {
+                    "args": [
+                        0, 
+                        0
+                    ], 
+                    "name": "HighlightUpgrade"
+                }, 
+                {
+                    "args": [], 
+                    "name": "StartedResearch"
+                }, 
+                {
+                    "args": [], 
+                    "name": "SubmitProgress"
+                }, 
+                {
+                    "args": [], 
+                    "name": "EnableFullHud"
+                }
+            ]
+        }, 
+        {
+            "_ID": 13, 
+            "button_type": "", 
+            "next_id": [
+                14
+            ], 
+            "position": "", 
+            "tasks": [
+                {
+                    "args": [
+                        "DartMonkey"
+                    ], 
+                    "name": "ResearchUpgrade"
+                }, 
+                {
+                    "args": [
+                        true
+                    ], 
+                    "name": "GameStarted"
+                }, 
+                {
+                    "args": [
+                        false
+                    ], 
+                    "name": "OpenGamePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "ShowTowerMenu"
+                }, 
+                {
+                    "args": [
+                        false
+                    ], 
+                    "name": "PlacedTower"
+                }, 
+                {
+                    "args": [], 
+                    "name": "ClosePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "HighlightTowerUpgrade"
+                }, 
+                {
+                    "args": [], 
+                    "name": "DidUpgradeTower"
+                }, 
+                {
+                    "args": [], 
+                    "name": "SubmitProgress"
+                }
+            ]
+        }, 
+        {
+            "_ID": 14, 
+            "button_type": "ok", 
+            "next_id": [], 
+            "position": "", 
+            "tasks": [
+                {
+                    "args": [], 
+                    "name": "SubmitProgress"
+                }, 
+                {
+                    "args": [], 
+                    "name": "DeselectTower"
+                }, 
+                {
+                    "args": [], 
+                    "name": "OpenClosableGamePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "DidClosePopup"
+                }
+            ]
+        }, 
+        {
+            "_ID": 15, 
+            "button_type": "ok", 
+            "next_id": [], 
+            "position": "top", 
+            "tasks": [
+                {
+                    "args": [], 
+                    "name": "GameStarted"
+                }, 
+                {
+                    "args": [], 
+                    "name": "OpenClosableGamePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "HighlightBoosts"
+                }, 
+                {
+                    "args": [], 
+                    "name": "DidClosePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "ClearHighlightBoosts"
+                }, 
+                {
+                    "args": [], 
+                    "name": "SubmitProgress"
+                }
+            ]
+        }, 
+        {
+            "_ID": 16, 
+            "button_type": "ok", 
+            "next_id": [], 
+            "position": "", 
+            "tasks": [
+                {
+                    "args": [], 
+                    "name": "OpenClosableCityPopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "DidClosePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "CityLoaded"
+                }, 
+                {
+                    "args": [], 
+                    "name": "SubmitProgress"
+                }
+            ]
+        }, 
+        {
+            "_ID": 17, 
+            "button_type": "ok", 
+            "next_id": [], 
+            "position": "", 
+            "tasks": [
+                {
+                    "args": [], 
+                    "name": "OpenClosableCityPopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "DidClosePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "SubmitProgress"
+                }
+            ]
+        }, 
+        {
+            "_ID": 18, 
+            "button_type": "ok", 
+            "next_id": [], 
+            "position": "", 
+            "tasks": [
+                {
+                    "args": [], 
+                    "name": "OpenClosableCityPopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "DidClosePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "SubmitProgress"
+                }
+            ]
+        }, 
+        {
+            "_ID": 19, 
+            "button_type": "ok", 
+            "next_id": [], 
+            "position": "", 
+            "tasks": [
+                {
+                    "args": [], 
+                    "name": "OpenClosableCityPopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "DidClosePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "SubmitProgress"
+                }
+            ]
+        }, 
+        {
+            "_ID": 20, 
+            "button_type": "ok", 
+            "next_id": [], 
+            "position": "", 
+            "tasks": [
+                {
+                    "args": [], 
+                    "name": "OpenClosableCityPopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "DidClosePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "SubmitProgress"
+                }
+            ]
+        }, 
+        {
+            "_ID": 21, 
+            "button_type": "ok", 
+            "next_id": [], 
+            "position": "", 
+            "tasks": [
+                {
+                    "args": [], 
+                    "name": "GameStarted"
+                }, 
+                {
+                    "args": [], 
+                    "name": "OpenClosableGamePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "DidClosePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "SubmitProgress"
+                }
+            ]
+        }, 
+        {
+            "_ID": 22, 
+            "button_type": "ok", 
+            "next_id": [], 
+            "position": "", 
+            "tasks": [
+                {
+                    "args": [], 
+                    "name": "BuildingReady"
+                }, 
+                {
+                    "args": [], 
+                    "name": "OpenClosableCityPopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "DidClosePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "SubmitProgress"
+                }
+            ]
+        }, 
+        {
+            "_ID": 23, 
+            "button_type": "ok", 
+            "next_id": [], 
+            "position": "", 
+            "tasks": [
+                {
+                    "args": [], 
+                    "name": "OpenClosableCityPopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "DidClosePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "SubmitProgress"
+                }
+            ]
+        }, 
+        {
+            "_ID": 24, 
+            "button_type": "ok", 
+            "next_id": [], 
+            "position": "", 
+            "tasks": [
+                {
+                    "args": [], 
+                    "name": "OpenClosableCityPopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "DidClosePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "SubmitProgress"
+                }
+            ]
+        }, 
+        {
+            "_ID": 25, 
+            "button_type": "ok", 
+            "next_id": [], 
+            "position": "", 
+            "tasks": [
+                {
+                    "args": [], 
+                    "name": "OpenClosableCityPopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "DidClosePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "SubmitProgress"
+                }
+            ]
+        }, 
+        {
+            "_ID": 26, 
+            "button_type": "ok", 
+            "next_id": [], 
+            "position": "", 
+            "tasks": [
+                {
+                    "args": [], 
+                    "name": "OpenClosableCityPopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "HighlightCTEventButton"
+                }, 
+                {
+                    "args": [], 
+                    "name": "DidClosePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "SubmitProgress"
+                }
+            ]
+        }, 
+        {
+            "_ID": 27, 
+            "button_type": "ok", 
+            "next_id": [], 
+            "position": "", 
+            "tasks": [
+                {
+                    "args": [], 
+                    "name": "OpenClosableCityPopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "HighlightCTEventButton"
+                }, 
+                {
+                    "args": [], 
+                    "name": "DidClosePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "SubmitProgress"
+                }
+            ]
+        }, 
+        {
+            "_ID": 28, 
+            "button_type": "ok", 
+            "next_id": [], 
+            "position": "", 
+            "tasks": [
+                {
+                    "args": [], 
+                    "name": "PauseGame"
+                }, 
+                {
+                    "args": [], 
+                    "name": "OpenClosableGamePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "HighlightAntiBossButton"
+                }, 
+                {
+                    "args": [], 
+                    "name": "SubmitProgress"
+                }, 
+                {
+                    "args": [], 
+                    "name": "DidClosePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "ResumeGame"
+                }
+            ]
+        }, 
+        {
+            "_ID": 29, 
+            "button_type": "ok", 
+            "next_id": [], 
+            "position": "", 
+            "tasks": [
+                {
+                    "args": [], 
+                    "name": "OpenClosableCityPopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "DidClosePopup"
+                }, 
+                {
+                    "args": [], 
+                    "name": "SubmitProgress"
+                }
+            ]
+        }
+    ]
+}

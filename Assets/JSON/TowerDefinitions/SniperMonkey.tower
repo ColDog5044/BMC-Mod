@@ -1,0 +1,81 @@
+{
+    "AircraftList" : [
+    ],
+    "BaseCost" : 350,
+    "CanBePlacedInWater" : true,
+    "CanBePlacedOnLand" : true,
+    "CanBePlacedOnPath" : false,
+    "CanTargetCamo" : true,
+    "DefaultWeapons" : [
+        "SniperMonkey.weapon"
+    ],
+    "Icon" : "sniper_avatar_small",
+    "UI_Icon" : "sniper_icon",
+    "PlacementH" : 0.0,
+    "PlacementRadius" : 0.0,
+    "PlacementW" : 0.0,
+    "RankToUnlock" : 3,
+    "RotatesToTarget" : true,
+    "TargetIsWeaponOrigin" : false,
+    "TargetingMode" : "First",
+    "TargetsManually" : false,
+    "PlayAllAnimationsOnFire" : true,
+    "TypeName" : "SniperMonkey",
+    "Upgrades" : [
+        [
+            "Full Metal Jacket",
+            "Point Five Oh",
+            "Deadly Precision",
+            "Cripple MOAB"
+        ],
+        [
+            "Faster Firing",
+            "Night Vision Goggles",
+            "Semi Automatic Rifle",
+            "Supply Drop"
+        ]
+    ],
+	"UpgradeGateway" :
+	[
+		[ { "Rank" : 0, "XP" : 100 }, { "Rank" : 0, "XP" : 1100 }, { "Rank" : 0, "XP" : 3275 }, { "Rank" : 23, "XP" : 23040 } ],
+		[ { "Rank" : 0, "XP" : 400 }, { "Rank" : 0, "XP" : 1950 }, { "Rank" : 0, "XP" : 7875 }, { "Rank" : 23, "XP" : 39600 } ]
+	],
+    "UpgradePrices" : 
+    [
+        [ 350, 2200, 4000, 12500 ],
+        [ 400, 300, 3500, 12000 ]
+    ],
+    "UpgradeAvatars" : [
+        [
+            "sniper_avatar_full_metal_jacket_small",
+            "sniper_avatar_point_50_small",
+            "sniper_avatar_deadly_precision_small",
+            "sniper_avatar_cripple_moab_small"
+        ],
+        [
+            "sniper_avatar_faster_firing_small",
+            "sniper_avatar_nvg_small",
+            "sniper_avatar_semi_auto_small",
+            "sniper_avatar_supply_drop_small"
+        ]
+    ],
+    
+    "UpgradeIcons" : [
+        [
+            "sniper_full_metal_icon",
+            "sniper_point_50_icon",
+            "sniper_deadly_precision_icon",
+            "sniper_cripple_moab_icon"
+        ],
+        [
+            "sniper_faster_firing_icon",
+            "sniper_nvg_icon",
+            "sniper_semi_auto_icon",
+            "sniper_supply_drop_icon"
+        ]
+    ],
+        
+    "UseRadiusPlacement" : true,
+    "SpriteUpgradeDefinition" : "SniperMonkey.json",
+    "UseDefaultRangeCircle" : true
+}

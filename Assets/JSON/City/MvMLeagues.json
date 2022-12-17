@@ -1,0 +1,109 @@
+{
+    "Data": [
+        {
+            "_ID": "Red", 
+            "bloonstoneReward": 0, 
+            "icon": "bloon_red", 
+            "minHonour": 0, 
+            "nextSeasonStart": "Red"
+        }, 
+        {
+            "_ID": "Blue", 
+            "bloonstoneReward": 20, 
+            "icon": "bloon_blue", 
+            "minHonour": 50, 
+            "nextSeasonStart": "Red"
+        }, 
+        {
+            "_ID": "Green", 
+            "bloonstoneReward": 40, 
+            "icon": "bloon_green", 
+            "minHonour": 250, 
+            "nextSeasonStart": "Red"
+        }, 
+        {
+            "_ID": "Yellow", 
+            "bloonstoneReward": 60, 
+            "icon": "bloon_yellow", 
+            "minHonour": 500, 
+            "nextSeasonStart": "Red"
+        }, 
+        {
+            "_ID": "Pink", 
+            "bloonstoneReward": 80, 
+            "icon": "bloon_pink", 
+            "minHonour": 750, 
+            "nextSeasonStart": "Blue"
+        }, 
+        {
+            "_ID": "Black", 
+            "bloonstoneReward": 100, 
+            "icon": "bloon_black", 
+            "minHonour": 1000, 
+            "nextSeasonStart": "Blue"
+        }, 
+        {
+            "_ID": "White", 
+            "bloonstoneReward": 120, 
+            "icon": "bloon_white", 
+            "minHonour": 1250, 
+            "nextSeasonStart": "Green"
+        }, 
+        {
+            "_ID": "Zebra", 
+            "bloonstoneReward": 140, 
+            "icon": "bloon_zebra", 
+            "minHonour": 1500, 
+            "nextSeasonStart": "Green"
+        }, 
+        {
+            "_ID": "Lead", 
+            "bloonstoneReward": 180, 
+            "icon": "bloon_lead", 
+            "minHonour": 1750, 
+            "nextSeasonStart": "Yellow"
+        }, 
+        {
+            "_ID": "Rainbow", 
+            "bloonstoneReward": 220, 
+            "icon": "bloon_rainbow", 
+            "minHonour": 2000, 
+            "nextSeasonStart": "Pink"
+        }, 
+        {
+            "_ID": "Ceramic", 
+            "bloonstoneReward": 300, 
+            "icon": "bloon_ceramic", 
+            "minHonour": 2500, 
+            "nextSeasonStart": "Black"
+        }, 
+        {
+            "_ID": "MOAB", 
+            "bloonstoneReward": 350, 
+            "icon": "MOAB", 
+            "minHonour": 3000, 
+            "nextSeasonStart": "White"
+        }, 
+        {
+            "_ID": "BFB", 
+            "bloonstoneReward": 400, 
+            "icon": "BFB", 
+            "minHonour": 4000, 
+            "nextSeasonStart": "Zebra"
+        }, 
+        {
+            "_ID": "ZOMG", 
+            "bloonstoneReward": 450, 
+            "icon": "ZOMG", 
+            "minHonour": 5000, 
+            "nextSeasonStart": "Zebra"
+        }, 
+        {
+            "_ID": "DDT", 
+            "bloonstoneReward": 500, 
+            "icon": "DDT", 
+            "minHonour": 6000, 
+            "nextSeasonStart": "Zebra"
+        }
+    ]
+}

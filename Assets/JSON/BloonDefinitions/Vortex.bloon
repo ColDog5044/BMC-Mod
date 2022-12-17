@@ -1,0 +1,22 @@
+{
+"Type" : "Vortex",
+"DrawLayer": "Air",
+"InitialHealth" : 900,
+"SpriteFilesAtDamageLevels": [
+[ "vortex_undamaged.json", 560 ],
+[ "vortex_01.json", 420 ],
+[ "vortex_02.json", 280 ],
+[ "vortex_03.json", 140 ]
+],
+"BaseSpeed" : 70,
+"SpeedMultiplier" : 0.18,
+"RBE" : 30000,
+"ChildBloons" : [],
+"StatusImmunity" : [ "Slow", "Ice", "Glue", "Napalm", "Regen", "Camo", "MoveToPath", "Stun", "Permafrost", "IceShards", "ViralFrost", "AbsoluteZero", "VacStatus", "CrippleMOAB" ],
+"DamageImmunity" : [ "Juggernaut", "Foam" ],
+"CanGoUnderground" : false,
+"RotateToPathDirection" : true,
+"Radius" : 100,
+"HitAddon" : 70,
+"BloonAbility" : ["SlowTowersAbility"]
+}

@@ -1,0 +1,62 @@
+{	
+    "Type":             "BloonberryBushCreepers",    
+    "TargetRange":      20,
+	"CooldownTime":     0.0,
+    "FireDelayTime":    0.0,
+    "FiresOnRoundEnd": true,
+    "NumberOfRoundsBetweenShots" : 3,
+    "RequiresTargetToFire" : false,
+    
+    "Tasks" :
+    [{
+        "Type": "MultiFire",
+        "InitialOffset": 0.0,
+        "AngleIncrement": 0.0,
+        "FireCount": 3,
+        "AimAtTarget" : false,
+        "Tasks" :
+        [{
+            "Type": "RandomFire",
+            "Range": 140,
+            "OnlyTargetPathLocations": true,
+            "FireFullRange": true,
+            "TerminateOnZeroPersists": true,
+            "FollowTarget": false,
+            "TargetIsWeaponTaskOrigin" : true,
+            "MinimumRange" : 25,
+            
+            "Tasks" :
+            [{
+                "Type" : "Effect",
+                "SpriteFile": "BloonberryBushProTendrils.json",
+                "Duration": 0.15,
+                "Tasks": 
+                [{
+                    "Type":             "Projectile",
+                    "GraphicName":       "bloonberry_tendril_02",
+                    "NumPersists":      5,
+                    "TerminateOnZeroPersists": true,
+                    "TerminateOnTowerRemoved" : true,
+                    
+                    "RemoveOnRoundEnd" : false,
+                    "GrowsOnRoundEnd" : true,
+                    "AmountToGrow" : 5,
+                    "MaxGrowth" : 25,
+                    
+                    "SpreadAngle": 360,
+
+                    "CollisionType": "Continual",
+                    
+                    "TasksToProcessOnCollision" : [ 0 ],
+                    "TasksToProcessOnTerminate" : [ 1 ],
+
+                    "Tasks" :
+                    [
+                        { "Type": "Damage", "DamageType": "Piercing", "Amount": 1 },
+                        { "Type" : "Effect", "SpriteFile": "BloonberryBushProTendrils.json", "AnimationStartTime" : 0.15, "Duration": 0.15 }
+                    ]
+                }]
+            }]
+        }]
+    }]
+}

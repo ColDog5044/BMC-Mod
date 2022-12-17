@@ -1,0 +1,23 @@
+{
+	"Type" : "DDT",
+	"DrawLayer": "Air",
+	"InitialHealth" : 300,
+	"SpriteFilesAtDamageLevels": [
+		[ "ddt01.json", 240 ],
+		[ "ddt02.json", 180 ],
+		[ "ddt03.json", 120 ],
+		[ "ddt04.json", 60 ]
+	],
+	"BaseSpeed" : 70,
+	"SpeedMultiplier" : 3.5,
+	"RBE" : 16656,
+    "ChildBloons" : [ "Ceramic.bloon",  "Ceramic.bloon",  "Ceramic.bloon",  "Ceramic.bloon",  "Ceramic.bloon",  "Ceramic.bloon"],
+    "StatusImmunity" : [ "Slow", "Ice", "Glue", "Napalm", "Regen", "MoveToPath", "Stun", "Permafrost", "IceShards", "ViralFrost", "AbsoluteZero", "VacStatus" ],
+    "DamageImmunity" : [ "Juggernaut", "Foam", "MOABMauler" ],
+	"ApplyStatus" : [ "Camo" ],
+	"ApplyChildStatus" : [ "Regen" ],
+	"CanGoUnderground" : false,
+	"RotateToPathDirection" : true,
+    "Radius" : 45,
+    "HitAddon" : 65
+}

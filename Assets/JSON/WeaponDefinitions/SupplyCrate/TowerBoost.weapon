@@ -1,0 +1,44 @@
+{
+    "Type": "TowerBoost",
+    "TargetRange": 1000.0,
+    "CooldownTime": 45.0,
+    "FireDelayTime": 0.0,
+    "TargetsIndependently": true,
+    "CostToFire": 10,
+    "SelfTargetMode": "None",
+    "ManuallyFired": true,
+    "RequiresTargetToFire": false,
+    "Tasks": [
+        {
+            "Type": "TowerModifier",
+            "Range": 1000,
+            "PriorityLevel": 7,
+            "ReplacesPriorityLevel" : true,
+            "TerminateOnUserUpgrade": false,
+            "ModifyNewlySpawnedTowers": false,
+            "ModifyMovingTowers": false,
+            "Duration": 30,
+            "Modifier": {
+                "Cooldown": [
+                    0.5,
+                    0
+                ],
+                "FireDelay": [
+                    0.5,
+                    0
+                ]
+            },
+            "Tasks": [
+                {
+                    "Type": "Effect",
+                    "SpriteFile": "overclocked_tower.json",
+                    "Scale": 0.3375,
+                    "DrawLayer": "UnderTowers",
+                    "LoopForever": true,
+                    "Duration": 30,
+                    "AppliedToTower": true
+                }
+            ]
+        }
+    ]
+}

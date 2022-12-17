@@ -1,0 +1,51 @@
+{	
+    "Type":             "SuperPhoenixPlane",    
+    "TargetRange":      320,
+	"CooldownTime":     0.04285714285,
+    "FireDelayTime":    0.0,
+    
+    "Tasks"	:
+    [{
+        "Type":             "Projectile",
+        "GraphicName":      "wizard_lord_phoenix_flame_01",
+        "NumPersists":      5,
+        "LoopAnimation":    false,
+        "HasLimitedDuration": true,
+        "LimitedDuration":  0.8,
+        
+        "TerminateOnZeroPersists": true,
+        "CollisionType": "Once",
+        
+        "Movement":
+        {
+            "Type": "Forward",
+            "Speed": 460.0,
+            "CutOffDistance": 320,
+            "TerminateOnCutOffEnd" : false
+        },
+
+        "TasksToProcessOnCollision" : [ 0, 1, 2 ],
+        "TasksToProcessOnTerminate" : [ 2 ],
+
+        "Tasks" :
+        [ 
+            {
+				"Type": "Damage",
+				"DamageType": "Plasma",
+				"Amount": 1
+			},
+			{
+				"Type" : "Damage",
+				"DamageType": "MOABMauler",
+				"Amount": 4
+			},
+            {
+				"Type": "Effect",
+				"UseDirection": true,
+				"SpriteFile": "wizard_lord_phoenix_flame.json",
+				"DrawLayer" : "UnderTowers"
+			}
+        ]
+    }]
+}
+

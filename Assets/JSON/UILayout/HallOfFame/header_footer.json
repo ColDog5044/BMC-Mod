@@ -1,0 +1,131 @@
+{
+   "Alignment" : null,
+   "Point" : null,
+   "actors" : [
+      {
+         "Alignment" : [ 0, 4 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 0.0, -113.0 ],
+         "Scale" : [ 72.94999694824219, 8.699999809265137 ],
+         "Shown" : true,
+         "sprite" : "box_colour",
+         "type" : 1,
+         "uid" : 7
+      },
+      {
+         "Alignment" : [ 0, 3 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 0.0, 83.0 ],
+         "Scale" : [ 72.90000152587891, 11.10000038146973 ],
+         "Shown" : true,
+         "sprite" : "box_colour",
+         "type" : 1,
+         "uid" : 5
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 0.0, 82.0 ],
+         "Scale" : [ 56.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "edge",
+         "type" : 1,
+         "uid" : 1
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 0.0, -112.0 ],
+         "Scale" : [ 56.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "edge",
+         "type" : 1,
+         "uid" : 2
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 0.0, -137.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "text_box_compound.json",
+         "type" : 2,
+         "uid" : 3
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 0.0, 109.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "text_box_compound.json",
+         "type" : 2,
+         "uid" : 4
+      }
+   ],
+   "customvariables" : null,
+   "events" : null,
+   "labels" : null,
+   "stageOptions" : {
+      "SpriteInfo" : [
+         {
+            "SpriteInfo" : "box_colour",
+            "Texture" : "achievements"
+         },
+         {
+            "SpriteInfo" : "edge",
+            "Texture" : "achievements"
+         },
+         {
+            "SpriteInfo" : "text_box_compound.json",
+            "Texture" : "achievements"
+         }
+      ],
+      "StageLength" : 20.0,
+      "Version" : 1
+   },
+   "timelines" : [
+      {
+         "spriteuid" : 3,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 4,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 1,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 2,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 5,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 7,
+         "stage" : null
+      }
+   ]
+}

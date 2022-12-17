@@ -1,0 +1,9 @@
+{
+	"Rules" : {
+		"CanSave" : false,
+		"PauseBetweenRounds" : false,
+        "TargetRound" : -1,
+        "CanEarnMoney" : true,
+        "SellPriceModifier" : 0.8
+        	}
+}

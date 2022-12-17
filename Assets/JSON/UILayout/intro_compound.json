@@ -1,0 +1,4383 @@
+{
+   "Alignment" : null,
+   "Point" : null,
+   "actors" : [
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 0.0,
+         "Angle" : 0.0,
+         "Colour" : 16777215,
+         "Flip" : 0,
+         "Position" : [ 0.0, 19.0 ],
+         "Scale" : [ 3.901874065399170, 3.302148103713989 ],
+         "Shown" : false,
+         "sprite" : "sun_01",
+         "type" : 1,
+         "uid" : 50
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -1.0, 148.0 ],
+         "Scale" : [ 50.90000152587891, 14.39999961853027 ],
+         "Shown" : true,
+         "sprite" : "grass_tile",
+         "type" : 1,
+         "uid" : 3
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 0.0, 45.0 ],
+         "Scale" : [ 1.299999952316284, 1.149999976158142 ],
+         "Shown" : true,
+         "sprite" : "hill",
+         "type" : 1,
+         "uid" : 2
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -102.0, 90.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "patch_01",
+         "type" : 1,
+         "uid" : 46
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 122.0, 104.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "patch_02",
+         "type" : 1,
+         "uid" : 47
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -111.0, 57.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "T_crack",
+         "type" : 1,
+         "uid" : 44
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 93.0, 55.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "5_crack",
+         "type" : 1,
+         "uid" : 42
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 2.0, 60.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "D_crack",
+         "type" : 1,
+         "uid" : 43
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -14.0, 85.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "crack_02",
+         "type" : 1,
+         "uid" : 7
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 51.0, 74.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "crack_03",
+         "type" : 1,
+         "uid" : 8
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -1.0, 77.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "hole_01",
+         "type" : 1,
+         "uid" : 13
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 0.6235294342041016,
+         "Angle" : 0.0,
+         "Colour" : 2684354559,
+         "Flip" : 0,
+         "Position" : [ -90.0, 54.0 ],
+         "Scale" : [ 0.9412739872932434, 0.8202840089797974 ],
+         "Shown" : false,
+         "sprite" : "shadow_01",
+         "type" : 1,
+         "uid" : 19
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 0.7568627595901489,
+         "Angle" : 0.0,
+         "Colour" : 3254779903,
+         "Flip" : 0,
+         "Position" : [ -1.0, 55.0 ],
+         "Scale" : [ 0.9664968848228455, 0.9530383348464966 ],
+         "Shown" : false,
+         "sprite" : "shadow_01",
+         "type" : 1,
+         "uid" : 18
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 0.1176470592617989,
+         "Angle" : 0.0,
+         "Colour" : 520093695,
+         "Flip" : 0,
+         "Position" : [ 83.0, 52.0 ],
+         "Scale" : [ 0.7810700535774231, 0.6497122049331665 ],
+         "Shown" : false,
+         "sprite" : "shadow_01",
+         "type" : 1,
+         "uid" : 17
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -84.0, 103.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "T_01",
+         "type" : 1,
+         "uid" : 14
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 4.0, 80.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "D_01",
+         "type" : 1,
+         "uid" : 15
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 90.0, 122.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "5_01",
+         "type" : 1,
+         "uid" : 38
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 4.716688156127930,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -99.0, 113.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "B_01",
+         "type" : 1,
+         "uid" : 20
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -63.0, 113.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "L_01",
+         "type" : 1,
+         "uid" : 21
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : -14.85448265075684,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -29.0, 113.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "O_01",
+         "type" : 1,
+         "uid" : 22
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 2.033712387084961,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 17.0, 111.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "O_02",
+         "type" : 1,
+         "uid" : 23
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : -15.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 60.0, 130.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "N_01",
+         "type" : 1,
+         "uid" : 24
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : -12.63838386535645,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 100.0, 68.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "S_01",
+         "type" : 1,
+         "uid" : 25
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 0.0, 187.0 ],
+         "Scale" : [ 43.50, 8.199999809265137 ],
+         "Shown" : true,
+         "sprite" : "grass_tile",
+         "type" : 1,
+         "uid" : 49
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 8.0, 109.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "hole_02",
+         "type" : 1,
+         "uid" : 40
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 84.0, 102.0 ],
+         "Scale" : [ -0.3839862644672394, 0.3839862644672394 ],
+         "Shown" : false,
+         "sprite" : "crack_01",
+         "type" : 1,
+         "uid" : 9
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -99.0, 116.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "crack_01",
+         "type" : 1,
+         "uid" : 12
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : -25.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -45.0, 57.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "grass_01",
+         "type" : 1,
+         "uid" : 26
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 15.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 63.0, 62.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "grass_02",
+         "type" : 1,
+         "uid" : 27
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 20.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 114.0, 77.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "grass_04",
+         "type" : 1,
+         "uid" : 29
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : -15.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -125.0, 76.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "grass_03",
+         "type" : 1,
+         "uid" : 30
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : -15.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -56.0, 78.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "rock_01",
+         "type" : 1,
+         "uid" : 31
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 45.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 44.0, 67.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "rock_02",
+         "type" : 1,
+         "uid" : 32
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 111.0, 75.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "rock_02",
+         "type" : 1,
+         "uid" : 33
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 9.409444808959961,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 25.0, 83.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "rock_01",
+         "type" : 1,
+         "uid" : 35
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 13.53775119781494,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -193.0, 88.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "rock_02",
+         "type" : 1,
+         "uid" : 37
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -20.0, 80.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "rock_02",
+         "type" : 1,
+         "uid" : 39
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 30.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -94.0, 65.0 ],
+         "Scale" : [ 0.6000000238418579, 0.6000000238418579 ],
+         "Shown" : false,
+         "sprite" : "rock_01",
+         "type" : 1,
+         "uid" : 45
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 1.0, 0.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "intro_foreground.json",
+         "type" : 2,
+         "uid" : 48
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 0.0, 0.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "intro_fireballs.json",
+         "type" : 2,
+         "uid" : 60
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 82.0, 78.0 ],
+         "Scale" : [ 0.8000000119209290, 0.8000000119209290 ],
+         "Shown" : false,
+         "sprite" : "fireball_01",
+         "type" : 1,
+         "uid" : 52
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -95.0, 88.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "fireball_01",
+         "type" : 1,
+         "uid" : 53
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 2,
+         "Position" : [ -35.0, 56.0 ],
+         "Scale" : [ 0.8000000119209290, 0.8000000119209290 ],
+         "Shown" : false,
+         "sprite" : "fireball_01",
+         "type" : 1,
+         "uid" : 54
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 2,
+         "Position" : [ 51.0, 45.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : false,
+         "sprite" : "fireball_01",
+         "type" : 1,
+         "uid" : 55
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -83.0, 50.0 ],
+         "Scale" : [ 0.8500000238418579, 0.8500000238418579 ],
+         "Shown" : false,
+         "sprite" : "fireball_01",
+         "type" : 1,
+         "uid" : 56
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -12.0, 65.0 ],
+         "Scale" : [ 0.8999999761581421, 0.8999999761581421 ],
+         "Shown" : false,
+         "sprite" : "fireball_01",
+         "type" : 1,
+         "uid" : 57
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 78.0, 59.0 ],
+         "Scale" : [ 0.8000000119209290, 0.8000000119209290 ],
+         "Shown" : false,
+         "sprite" : "fireball_01",
+         "type" : 1,
+         "uid" : 58
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -2.0, -1.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "intro_monkey.json",
+         "type" : 2,
+         "uid" : 59
+      }
+   ],
+   "customvariables" : null,
+   "events" : null,
+   "labels" : null,
+   "stageOptions" : {
+      "SpriteInfo" : [
+         {
+            "SpriteInfo" : "sun_01",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "grass_tile",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "hill",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "patch_01",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "patch_02",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "T_crack",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "5_crack",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "D_crack",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "crack_02",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "crack_03",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "hole_01",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "shadow_01",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "T_01",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "D_01",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "5_01",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "B_01",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "L_01",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "O_01",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "O_02",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "N_01",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "S_01",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "hole_02",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "crack_01",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "grass_01",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "grass_02",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "grass_04",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "grass_03",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "rock_01",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "rock_02",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "intro_foreground.json",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "intro_fireballs.json",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "fireball_01",
+            "Texture" : "intro_sprites"
+         },
+         {
+            "SpriteInfo" : "intro_monkey.json",
+            "Texture" : "intro_sprites"
+         }
+      ],
+      "StageLength" : 20.0,
+      "Version" : 1
+   },
+   "timelines" : [
+      {
+         "spriteuid" : 48,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 60,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 59,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 50,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 0.0,
+               "Angle" : 0.0,
+               "Colour" : 16777215,
+               "Flip" : 0,
+               "Position" : [ 0.0, 19.0 ],
+               "Scale" : [ 3.901874065399170, 3.302148103713989 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 0.1529411822557449,
+               "Angle" : 0.0,
+               "Colour" : 671088639,
+               "Flip" : 0,
+               "Position" : [ 0.0, 59.0 ],
+               "Scale" : [ 4.775658607482910, 4.178359508514404 ],
+               "Shown" : true,
+               "Time" : 2.588435411453247
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 0.9843137264251709,
+               "Angle" : 0.0,
+               "Colour" : 4227858431,
+               "Flip" : 0,
+               "Position" : [ 0.0, 19.0 ],
+               "Scale" : [ 11.05247402191162, 9.857002258300781 ],
+               "Shown" : true,
+               "Time" : 3.078231334686279
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 0.0,
+               "Angle" : 0.0,
+               "Colour" : 16777215,
+               "Flip" : 0,
+               "Position" : [ 0.0, 19.0 ],
+               "Scale" : [ 9.0, 9.300000190734863 ],
+               "Shown" : true,
+               "Time" : 3.554421901702881
+            }
+         ]
+      },
+      {
+         "spriteuid" : 3,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -1.0, 148.0 ],
+               "Scale" : [ 50.90000152587891, 14.39999961853027 ],
+               "Shown" : true,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -1.0, 155.0 ],
+               "Scale" : [ 50.90000152587891, 14.39999961853027 ],
+               "Shown" : true,
+               "Time" : 0.0
+            }
+         ]
+      },
+      {
+         "spriteuid" : 2,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 46,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 47,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 44,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -111.0, 57.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -111.0, 57.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.129251718521118
+            }
+         ]
+      },
+      {
+         "spriteuid" : 42,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 93.0, 55.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 93.0, 55.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.170068025588989
+            }
+         ]
+      },
+      {
+         "spriteuid" : 43,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 2.0, 60.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 2.0, 60.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.047619104385376
+            }
+         ]
+      },
+      {
+         "spriteuid" : 7,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -14.0, 85.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -14.0, 85.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 1.850340127944946
+            }
+         ]
+      },
+      {
+         "spriteuid" : 8,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 51.0, 74.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 51.0, 74.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.027210950851440
+            }
+         ]
+      },
+      {
+         "spriteuid" : 13,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -1.0, 77.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -1.0, 77.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.163265228271484
+            }
+         ]
+      },
+      {
+         "spriteuid" : 19,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 0.6235294342041016,
+               "Angle" : 0.0,
+               "Colour" : 2684354559,
+               "Flip" : 0,
+               "Position" : [ -90.0, 54.0 ],
+               "Scale" : [ 0.9412739872932434, 0.8202840089797974 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 0.3333333432674408,
+               "Angle" : 0.0,
+               "Colour" : 1442840575,
+               "Flip" : 0,
+               "Position" : [ -90.0, 54.0 ],
+               "Scale" : [ 0.8951712846755981, 0.6791985630989075 ],
+               "Shown" : true,
+               "Time" : 2.598639488220215
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -90.0, 54.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 2.598639488220215
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -90.0, 54.0 ],
+               "Scale" : [ 0.9499999880790710, 0.8000000119209290 ],
+               "Shown" : true,
+               "Time" : 3.210884332656860
+            }
+         ]
+      },
+      {
+         "spriteuid" : 18,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 0.7568627595901489,
+               "Angle" : 0.0,
+               "Colour" : 3254779903,
+               "Flip" : 0,
+               "Position" : [ -1.0, 55.0 ],
+               "Scale" : [ 0.9664968848228455, 0.9530383348464966 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 0.0,
+               "Angle" : 0.0,
+               "Colour" : 16777215,
+               "Flip" : 0,
+               "Position" : [ -1.0, 55.0 ],
+               "Scale" : [ 0.9515793323516846, 0.8699269294738770 ],
+               "Shown" : true,
+               "Time" : 2.612244844436646
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -1.0, 55.0 ],
+               "Scale" : [ 1.149999976158142, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.197278976440430
+            }
+         ]
+      },
+      {
+         "spriteuid" : 17,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 0.1176470592617989,
+               "Angle" : 0.0,
+               "Colour" : 520093695,
+               "Flip" : 0,
+               "Position" : [ 83.0, 52.0 ],
+               "Scale" : [ 0.7810700535774231, 0.6497122049331665 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 0.1372549086809158,
+               "Angle" : 0.0,
+               "Colour" : 603979775,
+               "Flip" : 0,
+               "Position" : [ 83.0, 52.0 ],
+               "Scale" : [ 0.7855948209762573, 0.6569517254829407 ],
+               "Shown" : true,
+               "Time" : 2.693877458572388
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 0.9372549057006836,
+               "Angle" : 0.0,
+               "Colour" : 4026531839,
+               "Flip" : 0,
+               "Position" : [ 83.0, 52.0 ],
+               "Scale" : [ 0.9852939844131470, 0.9764703512191773 ],
+               "Shown" : true,
+               "Time" : 3.238095283508301
+            }
+         ]
+      },
+      {
+         "spriteuid" : 14,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -84.0, 103.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -84.0, 79.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 2.163265228271484
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -84.0, -52.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.693877458572388
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -84.0, 44.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.272108793258667
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -84.0, 1.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.367347002029419
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -84.0, -25.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.476190567016602
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -84.0, -44.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.585034132003784
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -3.333343029022217,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -84.0, 4.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.210884332656860
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -84.0, -48.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.816326618194580
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -84.0, -38.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.952380895614624
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -0.6060638427734375,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -84.0, -20.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.061224460601807
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 1.666656970977783,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -84.0, 4.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.238095283508301
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 1.666656494140625,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -84.0, 4.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.278911590576172
+            }
+         ]
+      },
+      {
+         "spriteuid" : 15,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 4.0, 80.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 4.0, 61.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.163265228271484
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 4.0, -67.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.666666746139526
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.6249837875366211,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 3.0, 2.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.183673381805420
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 4.0, -7.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.272108793258667
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 4.0, -37.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.367347002029419
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 4.0, -52.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.476190567016602
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 4.0, -64.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.571428537368774
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 4.0, -62.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.775510311126709
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 4.0, -53.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.870748281478882
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 4.0, -34.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.979591846466065
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 4.0, -3.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.074829816818237
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 4.0, 2.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.238095283508301
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 3.0, 2.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.292516946792603
+            }
+         ]
+      },
+      {
+         "spriteuid" : 38,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 90.0, 122.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 90.0, 107.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 2.163265228271484
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 90.0, -45.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.721088409423828
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 89.0, 2.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.238095283508301
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 90.0, -26.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.503401279449463
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 90.0, -40.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.598639488220215
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 90.0, 40.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.285714387893677
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 90.0, -6.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.394557714462280
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 90.0, -41.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.843537330627441
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 90.0, -31.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.993197202682495
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 90.0, -17.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.115646362304688
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 90.0, 2.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.265306234359741
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 89.0, 2.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.319727897644043
+            }
+         ]
+      },
+      {
+         "spriteuid" : 20,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 4.716688156127930,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -99.0, 113.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 14.45436859130859,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -99.0, 75.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.585034132003784
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -2.656018972396851,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -99.0, -71.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.442176818847656
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 3.340761423110962,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -99.0, -114.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.102040767669678
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 11.88137817382813,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -99.0, -26.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.707483053207398
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 9.022501945495606,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -99.0, -82.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.829931974411011
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 6.989518642425537,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -99.0, -102.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.952380895614624
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 1.591701984405518,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -99.0, -109.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.210884332656860
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -0.6570907235145569,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -99.0, -95.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.319727897644043
+            }
+         ]
+      },
+      {
+         "spriteuid" : 21,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -63.0, 113.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -63.0, 70.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.685034036636353
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -63.0, -107.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.324489593505859
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -63.0, -3.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.821088314056397
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -63.0, -55.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.943537235260010
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -63.0, -89.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.052380800247192
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -63.0, -102.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.174829721450806
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -1.431363344192505,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -63.0, -104.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.333333253860474
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -2.519531011581421,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -63.0, -98.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.428571462631226
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -3.750,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -63.0, -88.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.537415027618408
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -62.0, -67.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.595918416976929
+            }
+         ]
+      },
+      {
+         "spriteuid" : 22,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -14.85448265075684,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -29.0, 113.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -14.51955890655518,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -29.0, 68.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.78503417968750
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -5.208005428314209,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -29.0, -125.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.256462812423706
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 9.791994094848633,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -29.0, -66.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.619047641754150
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -4.874673366546631,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -29.0, -116.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.360544204711914
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -2.208000421524048,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -29.0, -95.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.482993125915527
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -12.37185001373291,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -29.0, -21.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.897959232330322
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -10.67626762390137,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -29.0, -71.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.979591846466065
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -7.002502441406250,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -29.0, -114.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.156462669372559
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -8.698084831237793,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -29.0, -98.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.074829816818237
+            }
+         ]
+      },
+      {
+         "spriteuid" : 23,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 2.033712387084961,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 17.0, 111.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 2.033712387084961,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 17.0, 72.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.721088409423828
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 12.03371238708496,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 17.0, -107.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.238095283508301
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 12.03371238708496,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 17.0, -72.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.591836690902710
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 2.033712387084961,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 15.0, -70.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.673469305038452
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 4.402132511138916,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 17.0, -21.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.829931974411011
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 6.244239807128906,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 17.0, -69.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.925170183181763
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 10.19160461425781,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 17.0, -102.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.129251718521118
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 8.349502563476563,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 17.0, -91.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.020408153533936
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 12.03371238708496,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 17.0, -101.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.360544204711914
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 12.03371238708496,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 17.0, -91.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.482993125915527
+            }
+         ]
+      },
+      {
+         "spriteuid" : 24,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -15.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 60.0, 130.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -4.68750,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 60.0, 102.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.585034132003784
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.66406250,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 60.0, -75.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.401360511779785
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -6.754034042358398,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 60.0, -101.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.061224460601807
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -9.33593750,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 59.0, -75.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.469387769699097
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -5.307290554046631,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 60.0, -12.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.680272102355957
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -6.701822757720947,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 60.0, -88.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.925170183181763
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -6.219762325286865,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 60.0, -67.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.802721023559570
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -4.083520889282227,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 60.0, -99.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.156462669372559
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -2.006451129913330,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 60.0, -90.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.278911590576172
+            }
+         ]
+      },
+      {
+         "spriteuid" : 25,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -12.63838386535645,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 100.0, 68.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -12.12825202941895,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 100.0, 71.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.585034132003784
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -4.034990310668945,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 100.0, -111.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.074829816818237
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 1.628308296203613,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 100.0, -75.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.496598720550537
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -11.10832023620606,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 100.0, -19.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.693877458572388
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -7.713253021240234,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 100.0, -73.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.829931974411011
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -5.732800960540772,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 100.0, -104.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.938775539398193
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -0.2701482772827148,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 100.0, -104.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.346938848495483
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -1.605099558830261,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 100.0, -111.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.197278976440430
+            }
+         ]
+      },
+      {
+         "spriteuid" : 49,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 40,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 8.0, 109.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 8.0, 109.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.163265228271484
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 8.0, 109.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 2.163265228271484
+            }
+         ]
+      },
+      {
+         "spriteuid" : 9,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 84.0, 102.0 ],
+               "Scale" : [ -0.3839862644672394, 0.3839862644672394 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 84.0, 102.0 ],
+               "Scale" : [ -0.2000000029802322, 0.2000000029802322 ],
+               "Shown" : true,
+               "Time" : 0.9523809552192688
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 84.0, 102.0 ],
+               "Scale" : [ -0.6000000238418579, 0.6000000238418579 ],
+               "Shown" : false,
+               "Time" : 0.9523809552192688
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 84.0, 102.0 ],
+               "Scale" : [ -0.50, 0.50 ],
+               "Shown" : true,
+               "Time" : 0.9795918464660645
+            }
+         ]
+      },
+      {
+         "spriteuid" : 12,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -99.0, 116.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -99.0, 116.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 1.482993245124817
+            }
+         ]
+      },
+      {
+         "spriteuid" : 26,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -25.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -45.0, 57.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -8.802665710449219,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -91.0, -33.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.217687129974365
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -8.727792739868164,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -92.0, -257.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.625850439071655
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -8.727792739868164,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -92.0, -189.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.435374259948731
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -8.727792739868164,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -91.0, -98.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.326530694961548
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -8.727792739868164,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -92.0, -239.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.530612230300903
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -8.727792739868164,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -104.0, -253.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.727891206741333
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -8.727792739868164,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -106.0, -101.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 4.204081535339356
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -8.727792739868164,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -105.0, -206.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.945578336715698
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -8.727792739868164,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -105.0, -165.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 4.068027019500732
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -8.727792739868164,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -104.0, -235.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.836734771728516
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -8.727792739868164,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -106.0, -97.0 ],
+               "Scale" : [ 1.0, 0.8499996662139893 ],
+               "Shown" : true,
+               "Time" : 4.231292724609375
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -8.727792739868164,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -106.0, -99.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 4.299319744110107
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -8.727792739868164,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -95.0, -257.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 2.693877458572388
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -8.827623367309570,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -91.0, 2.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.204081535339356
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -8.827623367309570,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -91.0, -11.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 2.204081535339356
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -13.71926784515381,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -77.0, 28.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 2.163265228271484
+            }
+         ]
+      },
+      {
+         "spriteuid" : 27,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 15.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 63.0, 62.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -21.67860794067383,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -16.0, -50.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.176870822906494
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 1.607242584228516,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -35.0, -91.0 ],
+               "Scale" : [ 1.049999952316284, 0.8000000119209290 ],
+               "Shown" : true,
+               "Time" : 4.312925338745117
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -23.39275741577148,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -17.0, -2.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 4.312925338745117
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -5.399129867553711,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -30.0, -253.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.714285612106323
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -21.19440269470215,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -18.0, -163.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.285714387893677
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -20.04654884338379,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -19.0, -210.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.421768665313721
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -19.22597694396973,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -20.0, -228.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.544217586517334
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -17.66027259826660,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -21.0, -243.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.666666746139526
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -16.86409568786621,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -22.0, -244.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 2.734693765640259
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -3.452913999557495,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -31.0, -241.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.850340127944946
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -2.214414596557617,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -32.0, -226.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.972789049148560
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -1.099766254425049,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -33.0, -209.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 4.081632614135742
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.3333540856838226,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -34.0, -170.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 4.190476417541504
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 1.607242584228516,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -35.0, -92.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 4.408163070678711
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -21.84000778198242,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -15.0, 5.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.163265228271484
+            }
+         ]
+      },
+      {
+         "spriteuid" : 29,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 20.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 114.0, 77.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 20.63624954223633,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 88.0, 9.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.231292486190796
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 20.64929962158203,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 88.0, -239.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.761904716491699
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 20.64929962158203,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 88.0, -111.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.340136051177979
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 20.64929962158203,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 88.0, -211.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.544217586517334
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 20.64929962158203,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 88.0, -146.2051086425781 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.544217586517334
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 20.64929962158203,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 88.0, -190.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.435374259948731
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 20.64929962158203,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 88.0, -232.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.653061151504517
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 20.64929962158203,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 88.0, -239.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.727891206741333
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 18.45417785644531,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 88.0, -237.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.850340127944946
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 15.98466205596924,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 87.0, -224.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.972789049148560
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 14.06393051147461,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 87.0, -208.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 4.081632614135742
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 12.35661029815674,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 87.0, -170.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 4.190476417541504
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 7.356610298156738,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 87.0, -100.0 ],
+               "Scale" : [ 1.0, 0.8399991989135742 ],
+               "Shown" : true,
+               "Time" : 4.312925338745117
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 7.356610298156738,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 87.0, -102.0 ],
+               "Scale" : [ 1.0, 0.9679993987083435 ],
+               "Shown" : true,
+               "Time" : 4.380952358245850
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 20.44380187988281,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 96.0, 53.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 2.163265228271484
+            }
+         ]
+      },
+      {
+         "spriteuid" : 30,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -15.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -125.0, 76.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 18.55882644653320,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 24.0, -24.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.190476179122925
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 18.55882644653320,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 24.0, -244.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.761904716491699
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 18.55882644653320,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 24.0, -24.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.761904716491699
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 18.55882644653320,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 24.0, -236.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.823129177093506
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -6.441173553466797,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 27.0, -95.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 4.489795684814453
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 18.55882644653320,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 24.0, -229.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 4.489795684814453
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 18.55882644653320,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 24.0, -225.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.945578336715698
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 18.55882644653320,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 24.0, -229.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.945578336715698
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 18.46791458129883,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 24.0, -208.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 4.068027019500732
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 18.10427093505859,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 24.0, -190.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 4.204081535339356
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 16.28606986999512,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 24.0, -163.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 4.340136051177979
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -6.441173553466797,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 27.0, -92.0 ],
+               "Scale" : [ 1.049999952316284, 0.8500000238418579 ],
+               "Shown" : true,
+               "Time" : 4.530612468719482
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -6.441173553466797,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 27.0, -94.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 4.585033893585205
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 18.55882644653320,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 24.0, -125.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.312925100326538
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 18.55882644653320,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 24.0, -245.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.653061151504517
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 18.55882644653320,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 24.0, -218.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.530612230300903
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 18.55882644653320,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 24.0, -194.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.421768665313721
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 18.14194488525391,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 22.0, 5.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.163265228271484
+            }
+         ]
+      },
+      {
+         "spriteuid" : 31,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -15.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -56.0, 78.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -20.40485572814941,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -59.0, 75.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 2.299319744110107
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -80.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -97.0, 40.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.557823181152344
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -125.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -126.0, 110.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.829931974411011
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -79.37498474121094,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -139.0, 92.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.034013509750366
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -40.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -141.0, 126.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.251700639724731
+            }
+         ]
+      },
+      {
+         "spriteuid" : 32,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 45.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 44.0, 67.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 45.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 44.0, 67.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 2.285714387893677
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 155.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 99.0, 31.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.517006874084473
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 260.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 145.0, 99.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.748299360275269
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 190.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 152.0, 73.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.925170183181763
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 123.5714340209961,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 161.0, 106.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.088435411453247
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 105.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 169.0, 109.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.278911590576172
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 108.9795913696289,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 169.0, 109.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.238095283508301
+            }
+         ]
+      },
+      {
+         "spriteuid" : 33,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 111.0, 75.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 111.0, 75.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 2.244897842407227
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 62.50,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 150.0, 44.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.448979616165161
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 100.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 176.0, 92.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.693877458572388
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 45.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 190.0, 71.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.857142925262451
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 204.0, 100.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.047619104385376
+            }
+         ]
+      },
+      {
+         "spriteuid" : 35,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 9.409444808959961,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 25.0, 83.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 9.846007347106934,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 26.0, 82.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 2.163265228271484
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 65.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 54.0, 40.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.299319744110107
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 148.0008392333984,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 80.0, 112.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.435374259948731
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 120.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 97.0, 97.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.544217586517334
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 20.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 113.0, 128.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.639455795288086
+            }
+         ]
+      },
+      {
+         "spriteuid" : 37,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 13.53775119781494,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -193.0, 88.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -12.8474121093750,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -122.0, 74.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.163265228271484
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -25.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -147.0, 20.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.272108793258667
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -80.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -178.0, 79.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.380952358245850
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -18.33337211608887,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -193.0, 69.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.476190567016602
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 15.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -202.0, 89.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.557823181152344
+            }
+         ]
+      },
+      {
+         "spriteuid" : 39,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -20.0, 80.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -20.0, 80.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.612244844436646
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -85.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -40.0, 23.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.857142925262451
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -140.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -62.0, 134.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.156462669372559
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -176.5000152587891,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -50.0, 97.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.442176818847656
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -255.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -42.0, 139.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 3.714285612106323
+            }
+         ]
+      },
+      {
+         "spriteuid" : 45,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 30.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -94.0, 65.0 ],
+               "Scale" : [ 0.6000000238418579, 0.6000000238418579 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 30.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -94.0, 65.0 ],
+               "Scale" : [ 0.6000000238418579, 0.6000000238418579 ],
+               "Shown" : true,
+               "Time" : 2.748299360275269
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -65.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -130.0, 21.0 ],
+               "Scale" : [ 0.6000000238418579, 0.6000000238418579 ],
+               "Shown" : true,
+               "Time" : 3.074829816818237
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -140.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -152.0, 52.0 ],
+               "Scale" : [ 0.6000000238418579, 0.6000000238418579 ],
+               "Shown" : true,
+               "Time" : 3.401360511779785
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -66.15386962890625,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -161.0, 37.0 ],
+               "Scale" : [ 0.6000000238418579, 0.6000000238418579 ],
+               "Shown" : true,
+               "Time" : 3.578231334686279
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -20.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -161.0, 55.0 ],
+               "Scale" : [ 0.6000000238418579, 0.6000000238418579 ],
+               "Shown" : true,
+               "Time" : 3.755102157592773
+            }
+         ]
+      },
+      {
+         "spriteuid" : 52,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 82.0, 78.0 ],
+               "Scale" : [ 0.8000000119209290, 0.8000000119209290 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 70.55757904052734,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 355.0, -155.0 ],
+               "Scale" : [ 0.8000000119209290, 0.8000000119209290 ],
+               "Shown" : true,
+               "Time" : 1.605442166328430
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 34.00482559204102,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 89.0, 78.0 ],
+               "Scale" : [ 0.8000000119209290, 0.8000000119209290 ],
+               "Shown" : true,
+               "Time" : 0.9931972622871399
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 29.14930343627930,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 193.781250, -14.01041412353516 ],
+               "Scale" : [ 0.8000000119209290, 0.8000000119209290 ],
+               "Shown" : false,
+               "Time" : 0.9931972622871399
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 40.24404144287109,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 207.0, -52.0 ],
+               "Scale" : [ 0.8000000119209290, 0.8000000119209290 ],
+               "Shown" : true,
+               "Time" : 1.115646243095398
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 46.93609619140625,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 261.0, -97.0 ],
+               "Scale" : [ 0.8000000119209290, 0.8000000119209290 ],
+               "Shown" : true,
+               "Time" : 1.238095283508301
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 60.99006652832031,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 316.0, -133.0 ],
+               "Scale" : [ 0.8000000119209290, 0.8000000119209290 ],
+               "Shown" : true,
+               "Time" : 1.360544204711914
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 67.25633239746094,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 336.0, -146.0 ],
+               "Scale" : [ 0.8000000119209290, 0.8000000119209290 ],
+               "Shown" : true,
+               "Time" : 1.469387769699097
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 70.55757904052734,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 355.0, -155.0 ],
+               "Scale" : [ 0.8000000119209290, 0.8000000119209290 ],
+               "Shown" : false,
+               "Time" : 1.673469424247742
+            }
+         ]
+      },
+      {
+         "spriteuid" : 53,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -95.0, 88.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -95.0, 88.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 1.510204076766968
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -282.0, -232.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.095238208770752
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -168.0, -76.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 1.632653117179871
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -215.0, -152.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 1.755102038383484
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -249.0, -199.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 1.863945603370667
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -265.0, -219.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 1.986394524574280
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -282.0, -232.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 2.163265228271484
+            }
+         ]
+      },
+      {
+         "spriteuid" : 54,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 2,
+               "Position" : [ -35.0, 56.0 ],
+               "Scale" : [ 0.8000000119209290, 0.8000000119209290 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -35.0, 56.0 ],
+               "Scale" : [ 0.8000000119209290, 0.8000000119209290 ],
+               "Shown" : true,
+               "Time" : 1.877551078796387
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -325.0, -14.0 ],
+               "Scale" : [ 0.8000000119209290, 0.8000000119209290 ],
+               "Shown" : true,
+               "Time" : 2.503401279449463
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -161.0, -13.0 ],
+               "Scale" : [ 0.8000000119209290, 0.8000000119209290 ],
+               "Shown" : true,
+               "Time" : 1.986394524574280
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -310.0, -18.0 ],
+               "Scale" : [ 0.8000000119209290, 0.8000000119209290 ],
+               "Shown" : true,
+               "Time" : 2.367347002029419
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -285.0, -23.0 ],
+               "Scale" : [ 0.8000000119209290, 0.8000000119209290 ],
+               "Shown" : true,
+               "Time" : 2.231292486190796
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -240.0, -25.0 ],
+               "Scale" : [ 0.8000000119209290, 0.8000000119209290 ],
+               "Shown" : true,
+               "Time" : 2.108843564987183
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -325.0, -14.0 ],
+               "Scale" : [ 0.8000000119209290, 0.8000000119209290 ],
+               "Shown" : false,
+               "Time" : 2.571428537368774
+            }
+         ]
+      },
+      {
+         "spriteuid" : 55,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 2,
+               "Position" : [ 51.0, 45.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 51.0, 45.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.054421663284302
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 248.0, -260.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.625850439071655
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 121.0, -115.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.163265228271484
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 176.0, -197.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.285714387893677
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 211.0, -231.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.394557714462280
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 233.0, -250.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 2.503401279449463
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 248.0, -260.0 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : false,
+               "Time" : 2.693877458572388
+            }
+         ]
+      },
+      {
+         "spriteuid" : 56,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -83.0, 50.0 ],
+               "Scale" : [ 0.8500000238418579, 0.8500000238418579 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -83.0, 50.0 ],
+               "Scale" : [ 0.8500000238418579, 0.8500000238418579 ],
+               "Shown" : true,
+               "Time" : 2.163265228271484
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -325.0, -171.0 ],
+               "Scale" : [ 0.8500000238418579, 0.8500000238418579 ],
+               "Shown" : true,
+               "Time" : 2.693877458572388
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -83.0, 50.0 ],
+               "Scale" : [ 0.8500000238418579, 0.8500000238418579 ],
+               "Shown" : true,
+               "Time" : 2.693877458572388
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -171.0, -74.0 ],
+               "Scale" : [ 0.8500000238418579, 0.8500000238418579 ],
+               "Shown" : true,
+               "Time" : 2.258503437042236
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -240.0, -133.0 ],
+               "Scale" : [ 0.8500000238418579, 0.8500000238418579 ],
+               "Shown" : true,
+               "Time" : 2.367347002029419
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -284.0, -156.0 ],
+               "Scale" : [ 0.8500000238418579, 0.8500000238418579 ],
+               "Shown" : true,
+               "Time" : 2.476190567016602
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -307.0, -167.0 ],
+               "Scale" : [ 0.8500000238418579, 0.8500000238418579 ],
+               "Shown" : true,
+               "Time" : 2.585034132003784
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -325.0, -171.0 ],
+               "Scale" : [ 0.8500000238418579, 0.8500000238418579 ],
+               "Shown" : false,
+               "Time" : 2.761904716491699
+            }
+         ]
+      },
+      {
+         "spriteuid" : 57,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -12.0, 65.0 ],
+               "Scale" : [ 0.8999999761581421, 0.8999999761581421 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -12.0, 62.0 ],
+               "Scale" : [ 0.8999999761581421, 0.8999999761581421 ],
+               "Shown" : true,
+               "Time" : 2.190476179122925
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 104.0, -244.0 ],
+               "Scale" : [ 0.8999999761581421, 0.8999999761581421 ],
+               "Shown" : true,
+               "Time" : 2.721088409423828
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 23.0, -95.0 ],
+               "Scale" : [ 0.8999999761581421, 0.8999999761581421 ],
+               "Shown" : true,
+               "Time" : 2.285714387893677
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 51.0, -167.0 ],
+               "Scale" : [ 0.8999999761581421, 0.8999999761581421 ],
+               "Shown" : true,
+               "Time" : 2.394557714462280
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 71.0, -203.0 ],
+               "Scale" : [ 0.8999999761581421, 0.8999999761581421 ],
+               "Shown" : true,
+               "Time" : 2.503401279449463
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 86.0, -224.0 ],
+               "Scale" : [ 0.8999999761581421, 0.8999999761581421 ],
+               "Shown" : true,
+               "Time" : 2.598639488220215
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 104.0, -244.0 ],
+               "Scale" : [ 0.8999999761581421, 0.8999999761581421 ],
+               "Shown" : false,
+               "Time" : 2.789115667343140
+            }
+         ]
+      },
+      {
+         "spriteuid" : 58,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 78.0, 59.0 ],
+               "Scale" : [ 0.8000000119209290, 0.8000000119209290 ],
+               "Shown" : false,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 78.0, 59.0 ],
+               "Scale" : [ 0.8000000119209290, 0.8000000119209290 ],
+               "Shown" : true,
+               "Time" : 2.217687129974365
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 324.0, -217.0 ],
+               "Scale" : [ 0.8000000119209290, 0.8000000119209290 ],
+               "Shown" : true,
+               "Time" : 2.748299360275269
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 172.0, -88.0 ],
+               "Scale" : [ 0.8000000119209290, 0.8000000119209290 ],
+               "Shown" : true,
+               "Time" : 2.312925100326538
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 286.0, -191.0 ],
+               "Scale" : [ 0.8000000119209290, 0.8000000119209290 ],
+               "Shown" : true,
+               "Time" : 2.517006874084473
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 310.0, -209.0 ],
+               "Scale" : [ 0.8000000119209290, 0.8000000119209290 ],
+               "Shown" : true,
+               "Time" : 2.625850439071655
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 238.0, -155.0 ],
+               "Scale" : [ 0.8000000119209290, 0.8000000119209290 ],
+               "Shown" : true,
+               "Time" : 2.408163309097290
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 324.0, -217.0 ],
+               "Scale" : [ 0.8000000119209290, 0.8000000119209290 ],
+               "Shown" : false,
+               "Time" : 2.816326618194580
+            }
+         ]
+      }
+   ]
+}

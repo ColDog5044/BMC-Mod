@@ -1,0 +1,73 @@
+{	
+    "Type":             	"Whirlpool",
+    "UseBloonStore":        true,
+    "TargetRange":      	110,
+	"CooldownTime":     	0.27,
+    "FireDelayTime":    	0.03,
+    "SelfTargetMode":		"First",
+    "ShowRange":			false,
+
+	"TargetingFilter":
+	{
+		"Exclude" :
+        { 
+			"StatusEffect": [ "BloonChipperSuck", "ShredBloon", "MoveOnCurve" ]
+		},
+		"Include" :
+		{
+			"BloonType" : [
+				"Red",
+				"Blue",
+				"Green",
+				"Yellow",
+				"Pink",
+				"Black",
+				"White",
+				"Zebra",
+				"Lead",
+				"Rainbow",
+				"Ceramic"
+			]
+		}
+	},
+	
+    "Tasks" :
+[
+{
+"Type":             "Projectile",
+"NumPersists":      -1,
+"TerminateOnZeroPersists": false,
+
+"CollisionType": "None",
+"CollidesOnlyWithTarget" : true,
+
+"Movement": {
+"Type": "ReturnToSender",
+"Speed": 5000,
+"ReturnSpeed": 420,
+"TargetShouldFaceWeapon": true,
+"StartOnTarget" : true
+},
+
+"TasksToProcessOnCollision" : [ 1 ],
+"TasksToProcessOnTerminate" : [ 0 ],
+
+"Tasks": [
+{
+"Type": "StatusEffect",
+"Status": "ShredBloon",
+"DamageRate" : 1,
+"Duration" : 1,
+"NumPersists" : -1,
+"Amount": 1,
+"ShredsMultipleLayers": false
+},
+{
+"Type" : "StatusEffect",
+"Status" : "BloonChipperSuck",
+"NumPersists" : -1
+}
+]
+}
+	]
+}

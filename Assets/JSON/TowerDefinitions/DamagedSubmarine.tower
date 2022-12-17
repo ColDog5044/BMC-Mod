@@ -1,0 +1,31 @@
+{
+    "AircraftList" : [ ],
+    "BaseCost" : 0,
+    "CanBePlacedInWater" : true,
+    "CanBePlacedOnLand" : false,
+    "CanBePlacedOnPath" : false,
+    "CanTargetCamo" : true,
+    "DefaultSprite" : "DamagedSubmarine.json",
+    "DefaultWeapons" : [
+        "RepairSub.weapon"
+    ],
+	"DrawWeaponsOnTop" : false,
+    "Icon" : "special_stranded_submarine_avatar_small",
+    "PlacementH" : 0.0,
+    "PlacementRadius" : 20.0,
+    "PlacementW" : 0.0,
+    "RankToUnlock" : 1,
+    "RotatesToTarget" : false,
+    "TargetIsWeaponOrigin" : false,
+    "TargetingMode" : "None",
+    "TargetsManually" : false,
+    "TypeName" : "DamagedSubmarine",
+	"UpgradeGateway" :
+	[
+		[  ],
+		[  ]
+	],
+    "UseRadiusPlacement" : true,
+    "SkipFirstFrameWhenFiring" : false,
+    "IsAgent" : true
+}

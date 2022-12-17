@@ -1,0 +1,95 @@
+{
+   "Alignment" : null,
+   "Point" : null,
+   "actors" : [
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 1,
+         "Position" : [ -202.0, 120.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "Rotating_cog_compoundsprite.json",
+         "type" : 2,
+         "uid" : 1
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 115.0, -136.0 ],
+         "Scale" : [ 0.5500000119209290, 0.5500000119209290 ],
+         "Shown" : true,
+         "sprite" : "Rotating_cog_compoundsprite.json",
+         "type" : 2,
+         "uid" : 2
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 1,
+         "Position" : [ 142.0, 107.0 ],
+         "Scale" : [ 0.5500000119209290, 0.5500000119209290 ],
+         "Shown" : true,
+         "sprite" : "Rotating_cog_compoundsprite.json",
+         "type" : 2,
+         "uid" : 3
+      }
+   ],
+   "customvariables" : null,
+   "events" : null,
+   "labels" : null,
+   "stageOptions" : {
+      "SpriteInfo" : [
+         {
+            "SpriteInfo" : "Rotating_cog_compoundsprite.json",
+            "Texture" : "map_select"
+         }
+      ],
+      "StageLength" : 20.0,
+      "Version" : 1
+   },
+   "timelines" : [
+      {
+         "spriteuid" : 1,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 2,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 3,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 1,
+               "Position" : [ 142.0, 107.0 ],
+               "Scale" : [ 0.5500000119209290, 0.5500000119209290 ],
+               "Shown" : true,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 142.0, 107.0 ],
+               "Scale" : [ 0.5500000119209290, 0.5500000119209290 ],
+               "Shown" : true,
+               "Time" : 0.0
+            }
+         ]
+      }
+   ]
+}

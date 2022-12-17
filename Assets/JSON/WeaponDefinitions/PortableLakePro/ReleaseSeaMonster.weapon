@@ -1,0 +1,25 @@
+{	
+    "Type":             "ReleaseSeaMonster",    
+    "TargetRange":      0,
+	"CooldownTime":     45,
+    "FireDelayTime":    0.0,
+	"ManuallyFired": true,
+	"RequiresTargetToFire": false,
+    
+    "Tasks" :
+    [
+        {
+			"Type": "TowerModifier",
+			"Range": 0,
+			"PriorityLevel": 1,
+			"ApplyToUserTower": true,
+            "TerminateOnUserUpgrade" : false,
+			"Duration": 10,
+			
+			"Modifier":
+			{
+				"ActiveWeapon" : [ [ 0, true ], [ 1, true ], [ 2, true ] ]
+			}
+        }
+	]
+}

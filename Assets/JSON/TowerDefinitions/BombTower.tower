@@ -1,0 +1,87 @@
+{
+    "TypeName"				: "BombTower",
+    "Icon"					: "bomb_avatar_small",
+    "UI_Icon"               : "bomb_icon",
+    "BaseCost"				: 650,
+    "RankToUnlock"			: 7,
+    "DefaultWeapons"	    :
+    [
+        "BombTower.weapon",
+        "",
+        "DoubleRange.weapon"
+    ],
+    
+    "ActiveWeaponSlots" :
+    [
+        true,
+        true,
+        false
+    ],
+    
+    "TargetingMode"			: "First",
+    "TargetsManually"		: false,
+    "TargetIsWeaponOrigin"	: false,
+
+    "Upgrades" :
+    [
+    	[ "Extra Range", "Frag Bombs", "Cluster Bombs", "Bloon Impact" ],
+    	[ "Bigger Bombs", "Missile Launcher", "MOAB Mauler", "MOAB Assassin" ]
+    ],
+    "UpgradePrices" : 
+    [
+        [ 200, 300, 800, 4000 ],
+        [ 400, 400, 900, 3200 ]
+    ],
+	"UpgradeGateway" :
+	[
+		[ { "Rank" : 0, "XP" : 150 }, { "Rank" : 0, "XP" : 1300 }, { "Rank" : 0, "XP" : 5100 }, { "Rank" : 26, "XP" : 23175 } ],
+		[ { "Rank" : 0, "XP" : 500 }, { "Rank" : 0, "XP" : 2200 }, { "Rank" : 0, "XP" : 8400 }, { "Rank" : 26, "XP" : 36150 } ]
+	],
+    "UpgradeAvatars" :
+    [
+    	[ 
+            "bomb_avatar_extra_range_small",
+            "bomb_avatar_frag_bombs_small", 
+            "bomb_avatar_cluster_bombs_small", 
+            "bomb_avatar_bloon_impact_small"
+        ],
+    	[ 
+            "bomb_avatar_bigger_bombs_small", 
+            "bomb_avatar_missile_launcher_small", 
+            "bomb_avatar_moab_mauler_small", 
+            "bomb_avatar_moab_assassin_small"
+        ]
+    ],
+
+    "UpgradeIcons" :
+    [
+    	[ 
+            "bomb_extra_range_icon", 
+            "bomb_frag_icon", 
+            "bomb_cluster_icon", 
+            "bomb_impact_icon" 
+        ],
+    	[ 
+            "bomb_bigger_icon", 
+            "bomb_missile_icon", 
+            "bomb_mauler_icon", 
+            "bomb_assassin_icon"
+        ]
+    ],
+            
+    "AircraftList"			: [ ],
+    
+    "CanTargetCamo"			: true,
+    "RotatesToTarget"		: true,
+    
+    "CanBePlacedInWater"	: true,
+    "CanBePlacedOnLand"		: true,
+    "CanBePlacedOnPath"		: false,
+    
+    "UseRadiusPlacement"	: true,
+    "PlacementRadius"		: 0.0,
+    "PlacementW"			: 0.0,
+    "PlacementH"			: 0.0,
+    "SpriteUpgradeDefinition" : "BombTower.json",
+    "Specialty" : "BombingRange.json"
+}

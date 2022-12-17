@@ -1,0 +1,136 @@
+{
+    "SFX": [
+		[ "SCHWING", 0.5, [
+			"schwing.wav"
+		]],
+        [ "LEVEL_UP", 0.5, [
+            "LevelUp.wav"
+        ]],
+        [ "WIN_TILE", 0.5, [
+            "VictorySound.wav"
+        ]],
+        [ "LOSE_TILE", 0.5, [
+            "LoseSound.wav"
+        ]],
+        [ "COLLECT_FARM", 0.1, [
+            "CollectGoldSound.wav"
+        ]],
+        [ "START_UPGRADE", 0.5, [
+            "unlocked_stuff.wav"
+        ]],
+        [ "DEMOLISH", 0.5, [
+            "explosion_small.wav"
+        ]],
+        [ "START_ATTACK", 0.5, [
+            "AttackSound.wav"
+        ]],
+        [ "CONSTRUCTION", 0.5, [
+            "BuildSound.wav"
+        ]],
+        [ "REWARD_1", 0.1, [
+           "Reward1.wav"
+        ]],
+        [ "REWARD_2", 0.5, [
+           "Reward2.wav"
+        ]],
+        [ "CHEST", 0.5, [
+            "chest.wav"
+        ]],
+        [ "CLICK_BUILDING", 0.5, [
+            "ClickBuilding.wav"
+        ]],
+        [ "COLLECT_RESOURCES", 0.5, [
+            "CollectResources.wav"
+        ]],
+        [ "QUEST_COMPLETE", 0.5, [
+            "QuestComplete.wav"
+        ]],
+        [ "QUEST_NEW", 0.5, [
+            "QuestNew.wav"
+        ]],
+        [ "CHEST_BREAK", 0.5, [
+            "ChestBreak.wav"
+        ]],
+        [ "SUPERMONKEY", 0.5, [
+        	"FastBuildSupermonkey.wav"
+        ]]
+        ,
+        [ "FIREWORK", 0.5, [
+            "Firework.wav"
+        ]]
+        ,
+        [ "MK_COLLECT_CARD", 0.5, [
+            "CollectCard.wav"
+            ]]
+        ,
+        [ "MK_OPEN_CHEST", 0.5, [
+            "KnowledgeChestOpen.wav"
+            ]]
+        ,
+        [ "MK_RAIN", 0.5, [
+            "ParticleRain1.wav",
+            "ParticleRain2.wav",
+            "ParticleRain3.wav"
+            ]]
+        ,
+        [ "MK_CARD_CLICK", 0.5, [
+            "RevealCardClick.wav"
+            ]]
+        ,
+        [ "MK_COMMON", 0.5, [
+            "RevealCardCommon.wav"
+            ]]
+        ,
+        [ "MK_UNCOMMON", 0.5, [
+            "RevealCardUncommon.wav"
+            ]]
+        ,
+        [ "MK_RARE", 0.5, [
+            "RevealCardRare.wav"
+            ]]
+        ,
+        [ "MK_EPIC", 0.5, [
+            "RevealCardEpic.wav"
+            ]]
+        ,
+        [ "BEACON_CLICK", 1.0, [
+           "BeaconClick.wav"
+           ]]
+        ,
+        [ "BEACON_OPEN", 0.5, [
+            "BeaconOpen.wav"
+            ]]
+        ,
+        [ "BOUNTY_CARD_CHANGE", 0.01, [
+            "AllSecretBonus1.wav",
+            "AllSecretBonus2.wav",
+            "AllSecretBonus3.wav",
+            "AllSecretBonus4.wav",
+            "AllSecretBonus5.wav"
+            ]]
+        ,
+        [ "BOUNTY_ALL_CLICK", 0.5, [
+            "AllSecretClicked.wav"
+            ]]
+        ,
+        [ "BOUNTY_ALL_EXPLODE", 0.5, [
+            "AllSecretExplode.wav"
+            ]]
+        ,
+        [ "BOUNTY_ALL_LOOP", 0.5, [
+            "AllSecretLoop.wav"
+            ]]
+        ,
+        [ "BOUNTY_CLICK", 0.5, [
+            "BountyCardClick.wav"
+            ]]
+        ,
+        [ "BUNNY_CLICK", 0.5, [
+                                "tower_select.wav"
+                                ]]
+
+
+            
+            
+	]
+}

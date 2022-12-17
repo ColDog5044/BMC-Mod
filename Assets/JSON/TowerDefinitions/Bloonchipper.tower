@@ -1,0 +1,84 @@
+{
+    "PlayAllAnimationsOnFire" : true,
+    "DontResetAnimation"    : true,
+    "AnimationWeaponSlotIndex": 0,
+    "AircraftList" : [ ],
+    "BaseCost" : 750,
+    "CanBePlacedInWater" : true,
+    "CanBePlacedOnLand" : true,
+    "CanBePlacedOnPath" : false,
+    "CanTargetCamo" : true,
+    "DefaultWeapons" : [
+        "Bloonchipper.weapon",
+        "BloonchipperCollect.weapon"
+    ],
+	"ActiveWeaponSlots": [
+        true,
+		false
+	],
+    "Icon" : "bloonchipper_avatar_small",
+    "PlacementH" : 0.0,
+    "PlacementRadius" : 0.0,
+    "PlacementW" : 0.0,
+    "RankToUnlock" : 22,
+    "RotatesToTarget" : true,
+    "TargetIsWeaponOrigin" : false,
+    "TargetingMode" : "First",
+    "TargetsManually" : false,
+    "TypeName" : "Bloonchipper",
+    "Upgrades" : [
+        [
+            "Suckier",
+            "Heavy Duty Suction",
+            "Dual Layer Blades",
+            "Super Wide Funnel"
+        ],
+        [
+            "Long Range Suck",
+            "Faster Shred",
+            "Triple Barrel",
+            "Supa-Vac"
+        ]
+    ],
+	"UpgradeGateway" :
+	[
+		[ { "Rank" : 0, "XP" : 400 }, { "Rank" : 0, "XP" : 3500 }, { "Rank" : 0, "XP" : 9000 }, { "Rank" : 46, "XP" : 31000 } ],
+		[ { "Rank" : 0, "XP" : 1800 }, { "Rank" : 0, "XP" : 5775 }, { "Rank" : 0, "XP" : 16000 }, { "Rank" : 46, "XP" : 49000 } ]
+	],
+    "UpgradePrices" : 
+    [
+        [ 400, 450, 800, 4500 ],
+        [ 400, 600, 4500, 6000 ]
+    ],
+    "UpgradeIcons" : [
+        [
+            "bloonchipper_suckier_icon",
+            "bloonchipper_heavy_duty_suck_icon",
+            "bloonchipper_dual_layer_blades_icon",
+            "bloonchipper_super_wide_funnel_icon"
+        ],
+        [
+            "bloonchipper_long_range_suck_icon",
+            "bloonchipper_faster_shred_icon",
+            "bloonchipper_triple_barrel_icon",
+            "bloonchipper_super_vac_icon"
+        ]
+    ],
+    "UpgradeAvatars" : [
+        [
+            "bloonchipper_avatar_suckier_small",
+            "bloonchipper_avatar_heavy_duty_suction_small",
+            "bloonchipper_avatar_dual_layer_blades_small",
+            "bloonchipper_avatar_super_wide_funnel_small"
+        ],
+        [
+            "bloonchipper_avatar_long_range_suck_small",
+            "bloonchipper_avatar_faster_shred_small",
+            "bloonchipper_avatar_triple_barrel_small",
+            "bloonchipper_avatar_super_vac_small"
+        ]
+    ],
+    "UseRadiusPlacement" : true,
+    "SpriteUpgradeDefinition" : "Bloonchipper.json",
+    "NewTower" : false
+}

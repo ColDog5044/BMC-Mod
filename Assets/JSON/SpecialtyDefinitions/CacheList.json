@@ -1,0 +1,23 @@
+{
+    "Files": [
+        "AcePrivateHangar.json", 
+        "AlsCustomChippers.json", 
+        "BombingRange.json", 
+        "BoomerangDojo.json", 
+        "DartlingAmmoDump.json", 
+        "DartTrainingFacility.json", 
+        "EngineersWorkshop.json", 
+        "GlueSupplyDepot.json", 
+        "HeloHangar.json", 
+        "IceFortress.json", 
+        "MageSpire.json", 
+        "MortarEmplacement.json", 
+        "NinjaAcademy.json", 
+        "PirateCove.json", 
+        "RifleRange.json", 
+        "SpecialtyLand.json", 
+        "SpikesRUs.json", 
+        "SuperMonkeyLair.json", 
+        "TackResearchCenter.json"
+    ]
+}

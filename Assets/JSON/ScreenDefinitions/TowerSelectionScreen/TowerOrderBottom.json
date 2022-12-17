@@ -1,0 +1,13 @@
+{
+	"Items" : [
+		{ "Icon" : "tack_shooter_icon", "FactoryName" : "TackTower", "ObjectType" : 0 },
+		{ "Icon" : "boomerang_icon", "FactoryName" : "BoomerangThrower", "ObjectType" : 0 },
+		{ "Icon" : "bomb_icon", "FactoryName" : "BombTower", "ObjectType" : 0 },
+		{ "Icon" : "glue_gunner_icon", "FactoryName" : "GlueGunner", "ObjectType" : 0 },
+		{ "Icon" : "monkey_ace_icon", "FactoryName" : "MonkeyAce", "ObjectType" : 0 },
+		{ "Icon" : "apprentice_icon", "FactoryName" : "MonkeyApprentice", "ObjectType" : 0 },
+		{ "Icon" : "banana_farm_icon", "FactoryName" : "BananaFarm", "ObjectType" : 0 },
+		{ "Icon" : "dartling_gun_icon", "FactoryName" : "DartlingGun", "ObjectType" : 0 },
+        { "Icon" : "helicopter_icon", "FactoryName" : "HeliPilot", "ObjectType" : 0 }
+	]
+}

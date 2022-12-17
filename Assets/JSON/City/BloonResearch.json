@@ -1,0 +1,104 @@
+{
+    "Data": [
+        {
+            "_ID": "FastBloons", 
+            "bloonstoneCost": 0, 
+            "cashCost": 100, 
+            "mustHaveBy": 10, 
+            "requiresBuilding": "BloonSprintTrack", 
+            "requiresMTL": 5, 
+            "time": 3, 
+            "xpGiven": 400
+        }, 
+        {
+            "_ID": "ThermalBloons", 
+            "bloonstoneCost": 0, 
+            "cashCost": 200, 
+            "mustHaveBy": 12, 
+            "requiresBuilding": "ExtremeTemperatureChamber", 
+            "requiresMTL": 8, 
+            "time": 6, 
+            "xpGiven": 1000
+        }, 
+        {
+            "_ID": "HeavyBloonArmour", 
+            "bloonstoneCost": 5, 
+            "cashCost": 275, 
+            "mustHaveBy": 14, 
+            "requiresBuilding": "LeadPropulsionLab", 
+            "requiresMTL": 10, 
+            "time": 24, 
+            "xpGiven": 1100
+        }, 
+        {
+            "_ID": "RubberRepair", 
+            "bloonstoneCost": 5, 
+            "cashCost": 300, 
+            "mustHaveBy": 15, 
+            "requiresBuilding": "RubberRepairNanoTek", 
+            "requiresMTL": 11, 
+            "time": 36, 
+            "xpGiven": 1500
+        }, 
+        {
+            "_ID": "CamoModTech", 
+            "bloonstoneCost": 5, 
+            "cashCost": 320, 
+            "mustHaveBy": 16, 
+            "requiresBuilding": "CamoModificationDen", 
+            "requiresMTL": 12, 
+            "time": 36, 
+            "xpGiven": 1750
+        }, 
+        {
+            "_ID": "MultilayerTech", 
+            "bloonstoneCost": 5, 
+            "cashCost": 350, 
+            "mustHaveBy": 17, 
+            "requiresBuilding": "BloonCompressionTank", 
+            "requiresMTL": 12, 
+            "time": 36, 
+            "xpGiven": 1500
+        }, 
+        {
+            "_ID": "CeramicBloonConstruction", 
+            "bloonstoneCost": 5, 
+            "cashCost": 500, 
+            "mustHaveBy": 18, 
+            "requiresBuilding": "BloonKiln", 
+            "requiresMTL": 13, 
+            "time": 48, 
+            "xpGiven": 2000
+        }, 
+        {
+            "_ID": "MOAB", 
+            "bloonstoneCost": 5, 
+            "cashCost": 2000, 
+            "mustHaveBy": 22, 
+            "requiresBuilding": "BlimpConstructionHangar", 
+            "requiresMTL": 18, 
+            "time": 192, 
+            "xpGiven": 2000
+        }, 
+        {
+            "_ID": "BFB", 
+            "bloonstoneCost": 5, 
+            "cashCost": 5000, 
+            "mustHaveBy": 28, 
+            "requiresBuilding": "OversizeAirshipSupportBay", 
+            "requiresMTL": 22, 
+            "time": 384, 
+            "xpGiven": 7500
+        }, 
+        {
+            "_ID": "ZOMG", 
+            "bloonstoneCost": 5, 
+            "cashCost": 15000, 
+            "mustHaveBy": 34, 
+            "requiresBuilding": "GargantuanVesselAssemblyYard", 
+            "requiresMTL": 25, 
+            "time": 768, 
+            "xpGiven": 100000
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "Terrain": [
+        {
+            "_ID": "GrassTerrain", 
+            "disallowed": [], 
+            "favoured": [
+                {
+                    "modifier": 0.85, 
+                    "name": "MonkeyAce"
+                }, 
+                {
+                    "modifier": 0.85, 
+                    "name": "Bloonchipper"
+                }
+            ]
+        }, 
+        {
+            "_ID": "HillsTerrain", 
+            "disallowed": [
+                "DartMonkey"
+            ], 
+            "favoured": [
+                {
+                    "modifier": 0.85, 
+                    "name": "HeliPilot"
+                }, 
+                {
+                    "modifier": 0.85, 
+                    "name": "TackTower"
+                }
+            ]
+        }, 
+        {
+            "_ID": "MountainTerrain", 
+            "disallowed": [
+                "MonkeyAce", 
+                "HeliPilot", 
+                "BananaFarm", 
+                "DartlingGun"
+            ], 
+            "favoured": [
+                {
+                    "modifier": 0.85, 
+                    "name": "IceTower"
+                }
+            ]
+        }, 
+        {
+            "_ID": "ForestTerrain", 
+            "disallowed": [
+                "TackTower", 
+                "BananaFarm"
+            ], 
+            "favoured": [
+                {
+                    "modifier": 0.85, 
+                    "name": "NinjaMonkey"
+                }
+            ]
+        }, 
+        {
+            "_ID": "HeavyForestTerrain", 
+            "disallowed": [
+                "TackTower", 
+                "BananaFarm", 
+                "HeliPilot"
+            ], 
+            "favoured": [
+                {
+                    "modifier": 0.85, 
+                    "name": "SniperMonkey"
+                }
+            ]
+        }, 
+        {
+            "_ID": "RiverTerrain", 
+            "disallowed": [
+                "NinjaMonkey", 
+                "BombTower", 
+                "MonkeyEngineer"
+            ], 
+            "favoured": [
+                {
+                    "modifier": 0.85, 
+                    "name": "BananaFarm"
+                }
+            ]
+        }, 
+        {
+            "_ID": "LakeTerrain", 
+            "disallowed": [
+                "NinjaMonkey", 
+                "BombTower", 
+                "Bloonchipper"
+            ], 
+            "favoured": [
+                {
+                    "modifier": 0.85, 
+                    "name": "MonkeyBuccaneer"
+                }
+            ]
+        }, 
+        {
+            "_ID": "VolcanoTerrain", 
+            "disallowed": [
+                "IceTower", 
+                "MonkeyVillage", 
+                "BoomerangThrower"
+            ], 
+            "favoured": [
+                {
+                    "modifier": 0.85, 
+                    "name": "MonkeyApprentice"
+                }, 
+                {
+                    "modifier": 0.85, 
+                    "name": "MortarTower"
+                }
+            ]
+        }, 
+        {
+            "_ID": "Caves", 
+            "disallowed": [
+                "MonkeyAce", 
+                "HeliPilot", 
+                "MortarTower"
+            ], 
+            "favoured": [
+                {
+                    "modifier": 0.85, 
+                    "name": "MonkeyEngineer"
+                }
+            ]
+        }, 
+        {
+            "_ID": "JungleTerrain", 
+            "disallowed": [
+                "MonkeyApprentice", 
+                "IceTower"
+            ], 
+            "favoured": [
+                {
+                    "modifier": 0.85, 
+                    "name": "GlueGunner"
+                }
+            ]
+        }, 
+        {
+            "_ID": "SnowTerrain", 
+            "disallowed": [
+                "DartMonkey", 
+                "BoomerangThrower", 
+                "DartlingGun", 
+                "MonkeyEngineer"
+            ], 
+            "favoured": [
+                {
+                    "modifier": 0.85, 
+                    "name": "IceTower"
+                }
+            ]
+        }, 
+        {
+            "_ID": "DesertTerrain", 
+            "disallowed": [
+                "SpikeFactory", 
+                "SuperMonkey", 
+                "GlueGunner"
+            ], 
+            "favoured": [
+                {
+                    "modifier": 0.85, 
+                    "name": "BoomerangThrower"
+                }, 
+                {
+                    "modifier": 0.85, 
+                    "name": "BombTower"
+                }
+            ]
+        }
+    ]
+}

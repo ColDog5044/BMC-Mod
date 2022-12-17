@@ -1,0 +1,9 @@
+{
+	"Setup" : {
+		"Money" : 5000,
+		"StartRound" : 26
+	},
+	
+	"Rules" : {
+	}
+}

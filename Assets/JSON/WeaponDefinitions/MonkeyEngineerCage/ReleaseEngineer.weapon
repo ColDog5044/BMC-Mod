@@ -1,0 +1,24 @@
+{	
+    "Type":             	"ReleaseEngineer",
+    "TargetRange":      	1000,
+    "CooldownTime":     	0.0,
+    "FireDelayTime":    	0.0,
+   	"ManuallyFired": 		true,
+    "AllowSpecialBetweenRounds": true,
+	"RequiresTargetToFire":	false,
+    "DrawWhenOutOfAmmo" : false,
+	"TotalAmmo" : 1,
+	"RemainingAmmo" : 1,
+    "CostToFire": 450,
+    "Tasks" :
+    [
+		{
+			"Type": "CreateTower",
+			"TowerType" : "MonkeyEngineer",
+            "TowerColour" : [ 255, 255, 255, 255 ],
+            "HasParentTower" : false,
+            "GoToHUD": true,
+            "DestroyParent" : true
+		}
+	]
+}

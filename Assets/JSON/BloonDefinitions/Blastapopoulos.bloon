@@ -1,0 +1,22 @@
+{
+"Type" : "Blastapopoulos",
+"DrawLayer": "Air",
+"InitialHealth" : 2000,
+"SpriteFilesAtDamageLevels": [
+[ "blastapopoulos_undamaged.json", 560 ],
+[ "blastapopoulos_01.json", 420 ],
+[ "blastapopoulos_02.json", 280 ],
+[ "blastapopoulos_03.json", 140 ]
+],
+"BaseSpeed" : 70,
+"SpeedMultiplier" : 0.14,
+"RBE" : 30000,
+"ChildBloons" : [],
+"StatusImmunity" : [ "Slow", "Ice", "Glue", "Napalm", "Regen", "Camo", "MoveToPath", "Stun", "Permafrost", "IceShards", "ViralFrost", "AbsoluteZero", "VacStatus", "CrippleMOAB" ],
+"DamageImmunity" : [ "Juggernaut", "Foam" ],
+"CanGoUnderground" : false,
+"RotateToPathDirection" : true,
+"Radius" : 40,
+"HitAddon" : 65,
+"BloonAbility" : ["StunTowersAbility"]
+}

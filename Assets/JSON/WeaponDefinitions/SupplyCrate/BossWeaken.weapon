@@ -1,0 +1,39 @@
+{
+    "Type": "BossWeaken",
+    "TargetRange": 1000.0,
+    "CooldownTime": 60.0,
+    "FireDelayTime": 0.0,
+    "ManuallyFired": true,
+    "CostToFire": 30,
+    "RequiresTargetToFire": true,
+    "TargetsIndependently": true,
+    "SelfTargetMode": "Strong",
+    "ForceTargetWeaponOrigin": true,
+    "TargetingFilter": {
+        "Exclude": {
+            "BloonType": [
+                "Red",
+                "Blue",
+                "Green",
+                "Yellow",
+                "Pink",
+                "Black",
+                "White",
+                "Zebra",
+                "Rainbow",
+                "Ceramic",
+                "MOAB",
+                "BFB",
+                "ZOMG",
+                "DDT"
+            ]
+        }
+    },
+    "Tasks": [
+        {
+            "Type": "StatusEffect",
+            "Status": "DamageMultiplier",
+            "Duration": 10
+        }
+    ]
+}

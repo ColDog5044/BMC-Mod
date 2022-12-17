@@ -1,0 +1,50 @@
+{
+    "Type": "BossBane",
+    "TargetRange": 1000.0,
+    "CooldownTime": 30.0,
+    "FireDelayTime": 0.0,
+    "ManuallyFired": true,
+    "CostToFire": 30,
+    "RequiresTargetToFire": true,
+    "TargetsIndependently": true,
+    "SelfTargetMode": "Strong",
+    "ForceTargetWeaponOrigin": true,
+    "TargetingFilter": {
+        "Exclude": {
+            "BloonType": [
+                "Red",
+                "Blue",
+                "Green",
+                "Yellow",
+                "Pink",
+                "Black",
+                "White",
+                "Zebra",
+                "Rainbow",
+                "Ceramic",
+                "MOAB",
+                "BFB",
+                "ZOMG",
+                "DDT"
+            ]
+        }
+    },
+    "Tasks": [
+        {
+            "Type": "StatusEffect",
+            "Status": "MultiLayerDamage",
+            "Kill": true
+        },
+        {
+            "Type": "Damage",
+            "DamageType": "Plasma",
+            "Amount": 1500
+        },
+        {
+            "Type": "Effect",
+            "SpriteFile": "bane_fx.json",
+            "Scale": 1.0,
+            "DrawLayer": "FullScreen"
+        }
+    ]
+}

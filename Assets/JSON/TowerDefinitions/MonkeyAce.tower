@@ -1,0 +1,74 @@
+{
+    "TypeName"				: "MonkeyAce",
+    "Icon"					: "monkey_ace_avatar_small",
+    "UI_Icon"               : "monkey_ace_icon",
+    "BaseCost"				: 925,
+    "RankToUnlock"			: 12,
+    "DefaultWeapons"	    : [],
+    "TargetingMode"			: "Any",
+    "TargetsManually"		: false,
+    "TargetIsWeaponOrigin"	: false,
+
+    "Upgrades" :
+    [
+    	[ "Rapid Fire", "Sharper Darts", "Neva-Miss Targeting", "Spectre" ],
+    	[ "Pineapple Present", "Spy Plane", "Operation: Dart Storm", "Ground Zero" ]
+    ],
+	"UpgradeGateway" :
+	[
+		[ { "Rank" : 0, "XP" : 225 }, { "Rank" : 0, "XP" : 2150 }, { "Rank" : 0, "XP" : 7725 }, { "Rank" : 31, "XP" : 34875 } ],
+		[ { "Rank" : 0, "XP" : 850 }, { "Rank" : 0, "XP" : 3500 }, { "Rank" : 0, "XP" : 12400 }, { "Rank" : 31, "XP" : 53550 } ]
+	],
+    "UpgradePrices" : 
+    [
+        [ 700, 500, 2200, 18000 ],
+        [ 200, 350, 3000, 14000 ]
+    ],
+    "UpgradeAvatars" :
+    [
+    	[ 
+            "monkey_ace_avatar_rapid_fire_small", 
+            "monkey_ace_avatar_sharper_darts_small", 
+            "monkey_ace_avatar_nmt_small",
+            "monkey_ace_avatar_spectre_small" 
+        ],
+    	[ 
+            "monkey_ace_avatar_pineapple_small", 
+            "monkey_ace_avatar_spyplane_small", 
+            "monkey_ace_avatar_ods_small", 
+            "monkey_ace_avatar_ground_zero_small" 
+        ]
+    ],
+
+    "UpgradeIcons" :
+    [
+    	[ 
+            "monkey_ace_rapid_fire_icon", 
+            "monkey_ace_sharper_darts_icon", 
+            "monkey_ace_targeting_icon",
+            "monkey_ace_spectre_icon" 
+        ],
+    	[ 
+            "monkey_ace_pineapple_icon", 
+            "monkey_ace_spyplane_icon", 
+            "monkey_ace_ods_icon", 
+            "monkey_ace_ground_zero_icon" 
+        ]
+    ],
+    
+    "AircraftList"			: [ "AcePlane.tower" ],
+    
+    "DefaultSprite"         : "MonkeyAce_Runway.json",
+    "CanTargetCamo"			: true,
+    "RotatesToTarget"		: false,
+    
+    "CanBePlacedInWater"	: true,
+    "CanBePlacedOnLand"		: true,
+    "CanBePlacedOnPath"		: false,
+    
+    "UseRadiusPlacement"	: true,
+    "PlacementRadius"		: 0.0,
+    "PlacementW"			: 0.0,
+    "PlacementH"			: 0.0,
+    "UseDefaultRangeCircle" : true
+}

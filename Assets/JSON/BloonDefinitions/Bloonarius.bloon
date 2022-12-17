@@ -1,0 +1,23 @@
+{
+"Type" : "Bloonarius",
+"DrawLayer": "Air",
+"InitialHealth" : 1500,
+"SpriteFilesAtDamageLevels": [
+[ "bloonarius_undamaged.json", 600],
+[ "bloonarius_01.json", 560 ],
+[ "bloonarius_02.json", 420 ],
+[ "bloonarius_03.json", 280 ],
+[ "bloonarius_04.json", 140 ]
+],
+"BaseSpeed" : 70,
+"SpeedMultiplier" : 0.1,
+"RBE" : 30000,
+"ChildBloons" : [],
+"StatusImmunity" : [ "Slow", "Ice", "Glue", "Napalm", "Regen", "Camo", "MoveToPath", "Stun", "Permafrost", "IceShards", "ViralFrost", "AbsoluteZero", "VacStatus", "CrippleMOAB" ],
+"DamageImmunity" : [ "Juggernaut", "Foam" ],
+"CanGoUnderground" : false,
+"RotateToPathDirection" : true,
+"Radius" : 60,
+"HitAddon" : 100,
+"BloonAbility" : ["BloonariusAbility"]
+}

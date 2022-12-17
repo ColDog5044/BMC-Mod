@@ -1,0 +1,6 @@
+{
+	"Items" : [
+               { "Icon" : "tacks_icon", "FactoryName" : "RoadSpikes", "ObjectType" : 1, "KeyboardShortcut" : "z" },
+               { "Icon" : "pineapple_icon", "FactoryName" : "ExplodingPineapple", "ObjectType" : 1, "KeyboardShortcut" : "x" }
+	]
+}

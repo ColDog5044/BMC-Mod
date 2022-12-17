@@ -1,0 +1,91 @@
+{
+	"StringProperty"	: "Value",
+	"BoolProperty"		: true,
+	"IntProperty"		: 10,
+	"RealProperty"		: 1.23,
+	"ObjectProperty"	: { "NestedProperty" : "NestedValue" },
+	"ArrayProperty"		: [ 1, 2, 3 ],
+	"NullProperty"		: null,
+		
+	"DeepNestedObject" :
+	{ "Nested" : { "Nested" : { "Nested" :
+	{ "Nested" : { "Nested" : { "Nested" : { "Nested" :
+	{ "Nested" : { "Nested" : { "Nested" : { "Nested" :
+	{ "Nested" : { "Nested" : { "Nested" : { "Nested" :
+	{ "Nested" : { "Nested" : { "Nested" :
+	{ "Nested" : "Value" }
+	} } } } } } } } } } } } } } } } } },
+	
+	"BroadNestedObject" :
+	{
+		"Nested1"  : { "Property" : "Value" },
+		"Nested2"  : { "Property" : "Value" },
+		"Nested3"  : { "Property" : "Value" },
+		"Nested4"  : { "Property" : "Value" }, 
+		"Nested5"  : { "Property" : "Value" },
+		"Nested6"  : { "Property" : "Value" },
+		"Nested7"  : { "Property" : "Value" },
+		"Nested8"  : { "Property" : "Value" },
+		"Nested9"  : { "Property" : "Value" },
+		"Nested10" : { "Property" : "Value" },
+		"Nested11" : { "Property" : "Value" },
+		"Nested12" : { "Property" : "Value" },
+		"Nested13" : { "Property" : "Value" },
+		"Nested14" : { "Property" : "Value" },
+		"Nested15" : { "Property" : "Value" },
+		"Nested16" : { "Property" : "Value" },
+		"Nested17" : { "Property" : "Value" },
+		"Nested18" : { "Property" : "Value" },
+		"Nested19" : { "Property" : "Value" },
+		"Nested20" : { "Property" : "Value" }, 
+		"Nested21" : { "Property" : "Value" },
+		"Nested22" : { "Property" : "Value" },
+		"Nested23" : { "Property" : "Value" },
+		"Nested24" : { "Property" : "Value" }, 
+		"Nested25" : { "Property" : "Value" },
+		"Nested26" : { "Property" : "Value" },
+		"Nested27" : { "Property" : "Value" },
+		"Nested28" : { "Property" : "Value" }, 
+		"Nested29" : { "Property" : "Value" },
+		"Nested30" : { "Property" : "Value" },
+		"Nested31" : { "Property" : "Value" },
+		"Nested32" : { "Property" : "Value" }, 
+		"Nested33" : { "Property" : "Value" },
+		"Nested34" : { "Property" : "Value" },
+		"Nested35" : { "Property" : "Value" },
+		"Nested36" : { "Property" : "Value" }, 
+		"Nested37" : { "Property" : "Value" },
+		"Nested38" : { "Property" : "Value" },
+		"Nested39" : { "Property" : "Value" },
+		"Nested40" : { "Property" : "Value" }, 
+		"Nested41" : { "Property" : "Value" },
+		"Nested42" : { "Property" : "Value" },
+		"Nested43" : { "Property" : "Value" },
+		"Nested44" : { "Property" : "Value" },
+		"Nested45" : { "Property" : "Value" }
+	},
+		
+	"ReplacementObject" :
+	{
+		"StringProperty"	: "Replaced",
+		"BoolProperty"		: false,
+		"IntProperty"		: 30,
+		"RealProperty"		: 3.21,
+		"ObjectProperty"	: { "NestedProperty" : "ReplacedNestedValue" },
+		"ArrayProperty"		: [ 4, 5, 6 ],
+		"NullProperty"		: null
+	},
+	
+	"AdjustmentObject" :
+	{
+		"StringProperty"	: "Adjusted",
+		"BoolProperty"		: true,
+		"IntProperty"		: 100,
+		"RealProperty"		: 4.56,
+		"ObjectProperty"	: { "NestedProperty" : "AdjustedNestedValue", "NewNestedProperty" : "NewNestedValue" },
+		"ArrayProperty"		: [ 4, 3, 2 ],
+		"NullProperty"		: null
+	},
+	
+	"NestedArray" : [ [ 6, 6, 7, 8 ] ]
+}

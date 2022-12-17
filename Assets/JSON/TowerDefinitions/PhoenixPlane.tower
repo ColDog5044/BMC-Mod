@@ -1,0 +1,35 @@
+{
+    "TypeName" : "PhoenixPlane",
+    "AircraftList" : [
+    ],
+    "BaseCost" : 0,
+    "CanBePlacedInWater" : false,
+    "CanBePlacedOnLand" : true,
+    "CanBePlacedOnPath" : false,
+    "CanTargetCamo" : true,
+    "DefaultWeapons" : [ "PhoenixPlane.weapon" ],
+    "Icon" : "dart_monkey_avatar_small",
+    "PlacementH" : 0.0,
+    "PlacementRadius" : 0.0,
+    "PlacementW" : 0.0,
+    "RankToUnlock" : 1,
+    "RotatesToTarget" : false,
+    "DefaultSprite" : "MonkeyApprenticeSummonPhoenixEffect.json",
+    "TargetIsWeaponOrigin" : false,
+    "TargetingMode" : "AnyInRange",
+    "TargetsManually" : false,
+    "Upgrades" :
+    [
+    	[  ],
+    	[  ]
+    ],
+    "UpgradePrices" : 
+    [
+        [  ],
+        [  ]
+    ],
+    "UseRadiusPlacement" : false,
+    "IsAircraft" : true,
+    "AircraftRadius" : 150,
+    "AircraftSpeed" : 80
+}

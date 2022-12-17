@@ -1,0 +1,572 @@
+{
+    "Buildings": [
+        {
+            "_ID": "MonkeyAcademy", 
+            "buildingCategory": "Upgrade", 
+            "buildingDisplayCategory": "Upgrade", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 1, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 0, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 200, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 10, 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "timeToBuild": 5, 
+            "upgrades": [
+                "DartMonkeyUpgrades"
+            ], 
+            "xpGivenForBuilding": 100
+        }, 
+        {
+            "_ID": "BoomerangInstitute", 
+            "buildingCategory": "Upgrade", 
+            "buildingDisplayCategory": "Upgrade", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 1, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 0, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 200, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 10, 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "timeToBuild": 10, 
+            "upgrades": [
+                "BoomerangThrowerUpgrades"
+            ], 
+            "xpGivenForBuilding": 100
+        }, 
+        {
+            "_ID": "RifleTrainingHall", 
+            "buildingCategory": "Upgrade", 
+            "buildingDisplayCategory": "Upgrade", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 1, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 0, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 300, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 15, 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "timeToBuild": 30, 
+            "upgrades": [
+                "SniperMonkeyUpgrades"
+            ], 
+            "xpGivenForBuilding": 150
+        }, 
+        {
+            "_ID": "DartlingTestRange", 
+            "buildingCategory": "Upgrade", 
+            "buildingDisplayCategory": "Upgrade", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 5, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 5, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 350, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 15, 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "timeToBuild": 30, 
+            "upgrades": [
+                "DartlingGunUpgrades"
+            ], 
+            "xpGivenForBuilding": 100
+        }, 
+        {
+            "_ID": "CannonSupport", 
+            "buildingCategory": "Upgrade", 
+            "buildingDisplayCategory": "Upgrade", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 1, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 0, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 300, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 15, 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "timeToBuild": 30, 
+            "upgrades": [
+                "BombTowerUpgrades"
+            ], 
+            "xpGivenForBuilding": 100
+        }, 
+        {
+            "_ID": "MortarSupport", 
+            "buildingCategory": "Upgrade", 
+            "buildingDisplayCategory": "Upgrade", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 3, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 3, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 350, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 15, 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "timeToBuild": 30, 
+            "upgrades": [
+                "MortarTowerUpgrades"
+            ], 
+            "xpGivenForBuilding": 100
+        }, 
+        {
+            "_ID": "NinjaDojo", 
+            "buildingCategory": "Upgrade", 
+            "buildingDisplayCategory": "Upgrade", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 1, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 0, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 300, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 15, 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "timeToBuild": 30, 
+            "upgrades": [
+                "NinjaMonkeyUpgrades"
+            ], 
+            "xpGivenForBuilding": 125
+        }, 
+        {
+            "_ID": "CryoLab", 
+            "buildingCategory": "Upgrade", 
+            "buildingDisplayCategory": "Upgrade", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 5, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 5, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 350, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 15, 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "timeToBuild": 30, 
+            "upgrades": [
+                "IceMonkeyUpgrades"
+            ], 
+            "xpGivenForBuilding": 150
+        }, 
+        {
+            "_ID": "GlueFactory", 
+            "buildingCategory": "Upgrade", 
+            "buildingDisplayCategory": "Upgrade", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 5, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 5, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 400, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 15, 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "timeToBuild": 30, 
+            "upgrades": [
+                "GlueMonkeyUpgrades"
+            ], 
+            "xpGivenForBuilding": 150
+        }, 
+        {
+            "_ID": "ShipsFoundry", 
+            "buildingCategory": "Upgrade", 
+            "buildingDisplayCategory": "Upgrade", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 5, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 5, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 500, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 15, 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "timeToBuild": 30, 
+            "upgrades": [
+                "BuccaneerUpgrades"
+            ], 
+            "xpGivenForBuilding": 150
+        }, 
+        {
+            "_ID": "AeronauticsLaboratory", 
+            "buildingCategory": "Upgrade", 
+            "buildingDisplayCategory": "Upgrade", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 5, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 5, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 450, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 20, 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "timeToBuild": 30, 
+            "upgrades": [
+                "AeroMonkeyUpgrades"
+            ], 
+            "xpGivenForBuilding": 150
+        }, 
+        {
+            "_ID": "SuperEnhancements", 
+            "buildingCategory": "Upgrade", 
+            "buildingDisplayCategory": "Upgrade", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "footprint": "2x2", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 11, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "7x7", 
+            "mob_minTownLevelAdjusted": 11, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 2500, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 40, 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "timeToBuild": 240, 
+            "upgrades": [
+                "SuperMonkeyUpgrades"
+            ], 
+            "xpGivenForBuilding": 400
+        }, 
+        {
+            "_ID": "ApprenticeSchoolOfWizardry", 
+            "buildingCategory": "Upgrade", 
+            "buildingDisplayCategory": "Upgrade", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 5, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 5, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 600, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 20, 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "timeToBuild": 30, 
+            "upgrades": [
+                "WizardMonkeyUpgrades"
+            ], 
+            "xpGivenForBuilding": 200
+        }, 
+        {
+            "_ID": "MicroAgricultureDevelopmentBuilding", 
+            "buildingCategory": "Upgrade", 
+            "buildingDisplayCategory": "Upgrade", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 15, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 15, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 1500, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 30, 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "timeToBuild": 60, 
+            "upgrades": [
+                "AgriculturalUpgrades"
+            ], 
+            "xpGivenForBuilding": 350
+        }, 
+        {
+            "_ID": "SpikeProductionBuilding", 
+            "buildingCategory": "Upgrade", 
+            "buildingDisplayCategory": "Upgrade", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 5, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 5, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 350, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 20, 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "timeToBuild": 30, 
+            "upgrades": [
+                "SpikeFactoryUpgrades"
+            ], 
+            "xpGivenForBuilding": 150
+        }, 
+        {
+            "_ID": "TackProductionBuilding", 
+            "buildingCategory": "Upgrade", 
+            "buildingDisplayCategory": "Upgrade", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 1, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 0, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 300, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 20, 
+            "requiresMission": [], 
+            "requiresTerrain": [], 
+            "timeToBuild": 30, 
+            "upgrades": [
+                "TackShooterUpgrades"
+            ], 
+            "xpGivenForBuilding": 150
+        }, 
+        {
+            "_ID": "EngineeringSchool", 
+            "buildingCategory": "Upgrade", 
+            "buildingDisplayCategory": "Upgrade", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 3, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 3, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 550, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 15, 
+            "requiresMission": [
+                "EngineerRescue"
+            ], 
+            "requiresTerrain": [], 
+            "timeToBuild": 30, 
+            "upgrades": [
+                "EngineerUpgrades"
+            ], 
+            "xpGivenForBuilding": 175
+        }, 
+        {
+            "_ID": "AdvancedChipperLab", 
+            "buildingCategory": "Upgrade", 
+            "buildingDisplayCategory": "Upgrade", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 6, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 3, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 500, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 20, 
+            "requiresMission": [
+                "BloonchipperBlueprint"
+            ], 
+            "requiresTerrain": [], 
+            "timeToBuild": 60, 
+            "upgrades": [
+                "BloonchipperUpgrades"
+            ], 
+            "xpGivenForBuilding": 200
+        }, 
+        {
+            "_ID": "HeliPilotFlightSchool", 
+            "buildingCategory": "Upgrade", 
+            "buildingDisplayCategory": "Upgrade", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 10, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 3, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 600, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 20, 
+            "requiresMission": [
+                "HeliCrash"
+            ], 
+            "requiresTerrain": [], 
+            "timeToBuild": 60, 
+            "upgrades": [
+                "HeliPilotUpgrades"
+            ], 
+            "xpGivenForBuilding": 200
+        }, 
+        {
+            "_ID": "SubmarineWeaponsResearch", 
+            "buildingCategory": "Upgrade", 
+            "buildingDisplayCategory": "Upgrade", 
+            "disallowTerrain": [
+                "LakeTerrain", 
+                "RiverTerrain"
+            ], 
+            "footprint": "1x1", 
+            "levelsPerBuild": 0, 
+            "minimumCityIndex": 0, 
+            "minimumMonkeyTownLevel": 8, 
+            "mob_SpawnMonkey": "", 
+            "mob_footprint": "3x3", 
+            "mob_minTownLevelAdjusted": 3, 
+            "mob_numAtMinLevel": 1, 
+            "mob_soundEffect": "GenericBuilding", 
+            "monkeyMoneyCost": 750, 
+            "numberAllowedAtMonkeyTownLevel1": 0, 
+            "powerUsed": 25, 
+            "requiresMission": [
+                "SubmarineAlliance"
+            ], 
+            "requiresTerrain": [], 
+            "timeToBuild": 60, 
+            "upgrades": [
+                "MonkeySubUpgrades"
+            ], 
+            "xpGivenForBuilding": 300
+        }
+    ]
+}

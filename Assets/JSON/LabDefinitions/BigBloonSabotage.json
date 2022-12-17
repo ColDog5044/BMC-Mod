@@ -1,0 +1,105 @@
+{
+	"Name" : "LOC_LAB_BigBloonSabotage",
+	"Description" : "LOC_LAB_DESC_BigBloonSabotage",
+	"Icon" : "big_bloon_sabotage",
+	"LevelGateway" : [ 2, 5, 9, 14, 21, 31, 48, 83 ],
+	
+	"Upgrades" : [
+		{
+			"Description" : "LOC_LAB_DESC_BigBloonSabotage_1",
+	 		"FactoryData" : {
+				"Rules" : {
+					"BloonInitialHealthModifier" : {
+						"MOAB" : 0.98,
+						"BFB" : 0.98,
+						"ZOMG" : 0.98
+					}
+				}
+	 		}
+		},
+		{
+			"Description" : "LOC_LAB_DESC_BigBloonSabotage_2",
+			"FactoryData" : {
+				"Rules" : {
+					"BloonInitialHealthModifier" : {
+						"MOAB" : 0.96,
+						"BFB" : 0.96,
+						"ZOMG" : 0.96
+					}
+				}
+			}
+		},
+		{
+			"Description" : "LOC_LAB_DESC_BigBloonSabotage_3",
+			"FactoryData" : {
+				"Rules" : {
+					"BloonInitialHealthModifier" : {
+						"MOAB" : 0.94,
+						"BFB" : 0.94,
+						"ZOMG" : 0.94
+				  	}
+				}
+			}
+		},
+		{
+			"Description" : "LOC_LAB_DESC_BigBloonSabotage_4",
+			"FactoryData" : {
+				"Rules" : {
+					"BloonInitialHealthModifier" : {
+						"MOAB" : 0.92,
+						"BFB" : 0.92,
+						"ZOMG" : 0.92
+				  	}
+				}
+			}
+		},
+		{
+			"Description" : "LOC_LAB_DESC_BigBloonSabotage_5",
+			"FactoryData" : {
+				"Rules" : {
+					"BloonInitialHealthModifier" : {
+						"MOAB" : 0.9,
+						"BFB" : 0.9,
+						"ZOMG" : 0.9
+				  	}
+				}
+			}
+		},
+		{
+			"Description" : "LOC_LAB_DESC_BigBloonSabotage_6",
+			"FactoryData" : {
+				"Rules" : {
+					"BloonInitialHealthModifier" : {
+						"MOAB" : 0.88,
+						"BFB" : 0.88,
+						"ZOMG" : 0.88
+				  	}
+				}
+			}
+		},
+		{
+			"Description" : "LOC_LAB_DESC_BigBloonSabotage_7",
+			"FactoryData" : {
+				"Rules" : {
+					"BloonInitialHealthModifier" : {
+						"MOAB" : 0.85,
+						"BFB" : 0.85,
+						"ZOMG" : 0.85
+				  	}
+				}
+			}
+		},
+		{
+			"Description" : "LOC_LAB_DESC_BigBloonSabotage_8",
+			"FactoryData" : {
+				"Rules" : {
+					"BloonInitialHealthModifier" : {
+						"MOAB" : 0.8,
+						"BFB" : 0.8,
+						"ZOMG" : 0.8
+				  	}
+				}
+			}
+		}
+	]
+}

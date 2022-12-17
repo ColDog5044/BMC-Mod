@@ -1,0 +1,66 @@
+{
+    "TypeName"				: "PortableLakePro",
+    "Icon"					: "portable_lake_pro_avatar_small",
+    "BaseCost"				: 0,
+    "RankToUnlock"			: 1,
+    "DefaultWeapons"	    : [ 
+		"PortableLakePro.weapon",
+		"ReleaseSeaMonster.weapon",
+		"SeaMonster.weapon"
+	],
+	"ActiveWeaponSlots": [
+		true,
+		true,
+		false
+	],
+    "TargetingMode"			: "First",
+    "TargetsManually"		: false,
+    "TargetIsWeaponOrigin"	: false,
+    
+    "Upgrades" :
+    [
+    	[  ],
+    	[  ]
+    ],   
+    "UpgradePrices" : 
+    [
+        [  ],
+        [  ]
+    ],
+	"UpgradeGateway" :
+	[
+		[  ],
+		[  ]
+	],
+    "UpgradeAvatars" :
+    [
+    	[ ],
+    	[ ]
+    ], 
+       
+    "UpgradeIcons" :
+    [
+    	[ ],
+    	[ ]
+    ],
+    
+    "AircraftList"			: [ ],
+    
+    "DefaultSprite"		: "PortableLakePro.json",
+	"DrawWeaponsOnTop"		: true,
+    "CanTargetCamo"			: false,
+    "RotatesToTarget"		: false,
+    
+    "CanBePlacedInWater"	: false,
+    "CanBePlacedOnLand"		: true,
+    "CanBePlacedOnPath"		: false,
+	"CanBeOverlapped"		: true,
+    
+    "UseRadiusPlacement"	: true,
+    "PlacementRadius"		: 35.0,
+    "PlacementW"			: 0,
+    "PlacementH"			: 0,
+    "SpriteUpgradeDefinition" : "PortableLakePro.json",
+    "PlacementFiringSequence" : [ 0 ],
+    "IsAgent" : true
+}

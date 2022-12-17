@@ -1,0 +1,189 @@
+{
+    "Data": [
+        {
+            "_ID": "0", 
+            "minCityLevel": 1, 
+            "sprite": "loading_king"
+        }, 
+        {
+            "_ID": "1", 
+            "minCityLevel": 1, 
+            "sprite": "loading_king"
+        }, 
+        {
+            "_ID": "2", 
+            "minCityLevel": 15, 
+            "sprite": "loading_king"
+        }, 
+        {
+            "_ID": "3", 
+            "minCityLevel": 18, 
+            "sprite": "loading_king"
+        }, 
+        {
+            "_ID": "4", 
+            "minCityLevel": 3, 
+            "sprite": "loading_soldier"
+        }, 
+        {
+            "_ID": "5", 
+            "minCityLevel": 1, 
+            "sprite": "loading_soldier"
+        }, 
+        {
+            "_ID": "6", 
+            "minCityLevel": 6, 
+            "sprite": "loading_soldier"
+        }, 
+        {
+            "_ID": "7", 
+            "minCityLevel": 1, 
+            "sprite": "loading_soldier"
+        }, 
+        {
+            "_ID": "8", 
+            "minCityLevel": 3, 
+            "sprite": "loading_soldier"
+        }, 
+        {
+            "_ID": "9", 
+            "minCityLevel": 1, 
+            "sprite": "loading_king"
+        }, 
+        {
+            "_ID": "10", 
+            "minCityLevel": 3, 
+            "sprite": "loading_king"
+        }, 
+        {
+            "_ID": "11", 
+            "minCityLevel": 1, 
+            "sprite": "loading_king"
+        }, 
+        {
+            "_ID": "12", 
+            "minCityLevel": 3, 
+            "sprite": "loading_soldier"
+        }, 
+        {
+            "_ID": "13", 
+            "minCityLevel": 10, 
+            "sprite": "loading_king"
+        }, 
+        {
+            "_ID": "14", 
+            "minCityLevel": 3, 
+            "sprite": "loading_king"
+        }, 
+        {
+            "_ID": "15", 
+            "minCityLevel": 9, 
+            "sprite": "loading_soldier"
+        }, 
+        {
+            "_ID": "16", 
+            "minCityLevel": 6, 
+            "sprite": "loading_king"
+        }, 
+        {
+            "_ID": "17", 
+            "minCityLevel": 6, 
+            "sprite": "loading_soldier"
+        }, 
+        {
+            "_ID": "18", 
+            "minCityLevel": 9, 
+            "sprite": "loading_soldier"
+        }, 
+        {
+            "_ID": "19", 
+            "minCityLevel": 6, 
+            "sprite": "loading_soldier"
+        }, 
+        {
+            "_ID": "20", 
+            "minCityLevel": 6, 
+            "sprite": "loading_soldier"
+        }, 
+        {
+            "_ID": "21", 
+            "minCityLevel": 3, 
+            "sprite": "loading_soldier"
+        }, 
+        {
+            "_ID": "22", 
+            "minCityLevel": 3, 
+            "sprite": "loading_soldier"
+        }, 
+        {
+            "_ID": "23", 
+            "minCityLevel": 6, 
+            "sprite": "loading_king"
+        }, 
+        {
+            "_ID": "24", 
+            "minCityLevel": 6, 
+            "sprite": "loading_king"
+        }, 
+        {
+            "_ID": "25", 
+            "minCityLevel": 6, 
+            "sprite": "loading_soldier"
+        }, 
+        {
+            "_ID": "26", 
+            "minCityLevel": 9, 
+            "sprite": "loading_soldier"
+        }, 
+        {
+            "_ID": "27", 
+            "minCityLevel": 1, 
+            "sprite": "loading_king"
+        }, 
+        {
+            "_ID": "28", 
+            "minCityLevel": 18, 
+            "sprite": "loading_soldier"
+        }, 
+        {
+            "_ID": "29", 
+            "minCityLevel": 1, 
+            "sprite": "loading_soldier"
+        }, 
+        {
+            "_ID": "30", 
+            "minCityLevel": 6, 
+            "sprite": "loading_soldier"
+        }, 
+        {
+            "_ID": "31", 
+            "minCityLevel": 3, 
+            "sprite": "loading_soldier"
+        }, 
+        {
+            "_ID": "32", 
+            "minCityLevel": 3, 
+            "sprite": "loading_soldier"
+        }, 
+        {
+            "_ID": "33", 
+            "minCityLevel": 5, 
+            "sprite": "loading_king"
+        }, 
+        {
+            "_ID": "34", 
+            "minCityLevel": 1, 
+            "sprite": "loading_king"
+        }, 
+        {
+            "_ID": "35", 
+            "minCityLevel": 9, 
+            "sprite": "loading_king"
+        }, 
+        {
+            "_ID": "36", 
+            "minCityLevel": 6, 
+            "sprite": "loading_king"
+        }
+    ]
+}

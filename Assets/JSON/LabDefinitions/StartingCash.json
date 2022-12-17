@@ -1,0 +1,90 @@
+{
+	"Name" : "LOC_LAB_StartingCash",
+	"Description" : "LOC_LAB_DESC_StartingCash",
+	"Icon" : "starting_cash",
+	"LevelGateway" : [ 1, 3, 7, 13, 23, 35, 55, 80 ],
+	
+	"Upgrades" :
+	[
+		{
+			"Description" : "LOC_LAB_DESC_StartingCash_1",
+			"FactoryData" :
+			{
+				"Setup" :
+				{
+					"Money": 10
+				}
+			}
+		},
+		{
+			"Description" : "LOC_LAB_DESC_StartingCash_2",
+			"FactoryData" :
+			{
+				"Setup" :
+				{
+					"Money": 20
+				}
+			}
+		},
+		{
+			"Description" : "LOC_LAB_DESC_StartingCash_3",
+			"FactoryData" :
+			{
+				"Setup" :
+				{
+					"Money": 40
+				}
+			}
+		},
+		{
+			"Description" : "LOC_LAB_DESC_StartingCash_4",
+			"FactoryData" :
+			{
+				"Setup" :
+				{
+					"Money": 60
+				}
+			}
+		},
+		{
+			"Description" : "LOC_LAB_DESC_StartingCash_5",
+			"FactoryData" :
+			{
+				"Setup" :
+				{
+					"Money": 90
+				}
+			}
+		},
+		{
+			"Description" : "LOC_LAB_DESC_StartingCash_6",
+			"FactoryData" :
+			{
+				"Setup" :
+				{
+					"Money": 120
+				}
+			}
+		},
+		{
+			"Description" : "LOC_LAB_DESC_StartingCash_7",
+			"FactoryData" :
+			{
+				"Setup" :
+				{
+					"Money": 160
+				}
+			}
+		},
+		{
+			"Description" : "LOC_LAB_DESC_StartingCash_8",
+			"FactoryData" :
+			{
+				"Setup" :
+				{
+					"Money": 200
+				}
+			}
+		}
+	]
+}

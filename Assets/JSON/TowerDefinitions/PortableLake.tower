@@ -1,0 +1,56 @@
+{
+    "TypeName"				: "PortableLake",
+    "Icon"					: "portable_lake_avatar_small",
+    "BaseCost"				: 0,
+    "RankToUnlock"			: 1,
+    "DefaultWeapons"	    : [ "PortableLake.weapon" ],
+    "TargetingMode"			: "None",
+    "TargetsManually"		: false,
+    "TargetIsWeaponOrigin"	: false,
+    
+    "Upgrades" :
+    [
+    	[  ],
+    	[  ]
+    ],   
+    "UpgradePrices" : 
+    [
+        [  ],
+        [  ]
+    ],
+	"UpgradeGateway" :
+	[
+		[ { "Rank" : 0, "XP" : 50 } ],
+		[  ]
+	],
+    "UpgradeAvatars" :
+    [
+    	[ ],
+    	[ ]
+    ], 
+       
+    "UpgradeIcons" :
+    [
+    	[ ],
+    	[ ]
+    ],
+    
+    "AircraftList"			: [ ],
+    
+    "DefaultSprite"		: "PortableLake.json",
+    "CanTargetCamo"			: false,
+    "RotatesToTarget"		: false,
+    
+    "CanBePlacedInWater"	: false,
+    "CanBePlacedOnLand"		: true,
+    "CanBePlacedOnPath"		: false,
+	"CanBeOverlapped"		: true,
+    
+    "UseRadiusPlacement"	: true,
+    "PlacementRadius"		: 35.0,
+    "PlacementW"			: 0,
+    "PlacementH"			: 0,
+    "SpriteUpgradeDefinition" : "PortableLake.json",
+    "PlacementFiringSequence" : [ 0 ],
+    "IsAgent" : true
+}

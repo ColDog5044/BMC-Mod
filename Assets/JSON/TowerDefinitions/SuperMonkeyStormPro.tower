@@ -1,0 +1,38 @@
+{
+    "AircraftList" : [
+    ],
+    "BaseCost" : 0,
+    "CanBePlacedInWater" : true,
+    "CanBePlacedOnLand" : true,
+    "CanBePlacedOnPath" : false,
+    "CanTargetCamo" : true,
+    "DefaultWeapons" : [
+        "SuperMonkeyStormPro.weapon"
+    ],
+    "FireWeaponAndDestroy" : true,
+    "Icon" : "",
+    "PlacementH" : 0.0,
+    "PlacementRadius" : 1.0,
+    "PlacementW" : 0.0,
+    "RankToUnlock" : 1,
+    "RotatesToTarget" : false,
+    "DefaultSprite" : "RoadTacks.json",
+    "TargetIsWeaponOrigin" : false,
+    "TargetingMode" : "None",
+    "TargetsManually" : false,
+    "TypeName" : "SuperMonkeyStormPro",
+    "Upgrades" : [
+        [
+        ],
+        [
+        ]
+    ],
+    "UpgradePrices" : 
+    [
+        [ ],
+        [ ]
+    ],
+    "UseRadiusPlacement" : true,
+    "CanBePlacedMultipleTimes" : false,
+    "IsAgent" : true
+}

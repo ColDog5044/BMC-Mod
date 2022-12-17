@@ -1,0 +1,70 @@
+{
+	"Hints" :
+	[
+		[ 1,	"LOC_HINT_1" ]
+	],
+	"Tips" :
+	[
+     [ "black_white_zebra_compound.json",	"LOC_BTD5_TIP_1", "LOC_BTD5_TIP_TITLE_1"],
+     [ "lead_bloon_compound.json",			"LOC_BTD5_TIP_2", "LOC_BTD5_TIP_TITLE_2"],
+     [ "camo_bloons_compound.json",			"LOC_BTD5_TIP_3", "LOC_BTD5_TIP_TITLE_3"],
+     [ "regen_bloon.json",					"LOC_BTD5_TIP_4", "LOC_BTD5_TIP_TITLE_4" ],
+     [ "ceramic_bloon_compound.json",		"LOC_BTD5_TIP_5", "LOC_BTD5_TIP_TITLE_5"],
+     [ "moab_compound.json",				"LOC_BTD5_TIP_6", "LOC_BTD5_TIP_TITLE_6"],
+     [ "zomg_compound.json",				"LOC_BTD5_TIP_7", "LOC_BTD5_TIP_TITLE_7"],
+     [ "consumables_compound.json",			"LOC_BTD5_TIP_8", "LOC_BTD5_TIP_TITLE_8"],
+     [ "activated_tower_compound.json",		"LOC_BTD5_TIP_9", "LOC_BTD5_TIP_TITLE_9"],
+     [ "farm_compound.json",				"LOC_BTD5_TIP_10", "LOC_BTD5_TIP_TITLE_10"],
+     [ "heli_pilot_compound.json",			"LOC_BTD5_TIP_11", "LOC_BTD5_TIP_TITLE_11"],
+     [ "freeplay_compound.json",			"LOC_BTD5_TIP_12", "LOC_BTD5_TIP_TITLE_12"],
+     [ "DartlingGun_avatar",				"LOC_BTD5_TIP_13", "LOC_BTD5_TIP_TITLE_13"],
+     [ "MonkeyEngineer_avatar",				"LOC_BTD5_TIP_14", "LOC_BTD5_TIP_TITLE_14"],
+     [ "MonkeySub_avatar", 					"LOC_BTD5_TIP_Submerge", "LOC_BTD5_TIP_TITLE_Submerge" ],
+     [ "upgrades_present_bounce.json",		"LOC_BTD5_TIP_PresentMonkeySub", "LOC_BTD5_TIP_TITLE_PresentMonkeySub" ],
+     [ "no_lives_lost_compound.json",        "LOC_BTD5_TIP_NLL", "LOC_BTD5_TIP_TITLE_NLL"]
+	 ],
+    "TipsTablet" :
+	[
+     [ "black_white_zebra_compound.json",	"LOC_BTD5_TIP_1", "LOC_BTD5_TIP_TITLE_1"],
+     [ "lead_bloon_compound.json",			"LOC_BTD5_TIP_2", "LOC_BTD5_TIP_TITLE_2"],
+     [ "camo_bloons_compound.json",			"LOC_BTD5_TIP_3", "LOC_BTD5_TIP_TITLE_3"],
+     [ "regen_bloon.json",					"LOC_BTD5_TIP_4", "LOC_BTD5_TIP_TITLE_4" ],
+     [ "ceramic_bloon_compound.json",		"LOC_BTD5_TIP_5", "LOC_BTD5_TIP_TITLE_5"],
+     [ "moab_compound.json",				"LOC_BTD5_TIP_6", "LOC_BTD5_TIP_TITLE_6"],
+     [ "zomg_compound.json",				"LOC_BTD5_TIP_7", "LOC_BTD5_TIP_TITLE_7"],
+     [ "consumables_compound.json",			"LOC_BTD5_TIP_8_Tablet", "LOC_BTD5_TIP_TITLE_8"],
+     [ "activated_tower_compound.json",		"LOC_BTD5_TIP_9_Tablet", "LOC_BTD5_TIP_TITLE_9"],
+     [ "farm_compound.json",				"LOC_BTD5_TIP_10", "LOC_BTD5_TIP_TITLE_10"],
+     [ "heli_pilot_compound.json",			"LOC_BTD5_TIP_11", "LOC_BTD5_TIP_TITLE_11"],
+     [ "freeplay_compound.json",			"LOC_BTD5_TIP_12", "LOC_BTD5_TIP_TITLE_12"],
+     [ "DartlingGun_avatar",				"LOC_BTD5_TIP_13", "LOC_BTD5_TIP_TITLE_13"],
+	 [ "MonkeyEngineer_avatar",				"LOC_BTD5_TIP_14", "LOC_BTD5_TIP_TITLE_14"],
+    [ "MonkeySub_avatar", 					"LOC_BTD5_TIP_Submerge", "LOC_BTD5_TIP_TITLE_Submerge" ],
+	 [ "upgrades_present_bounce.json",		"LOC_BTD5_TIP_PresentMonkeySub", "LOC_BTD5_TIP_TITLE_PresentMonkeySub" ],
+     [ "no_lives_lost_compound.json",       "LOC_BTD5_TIP_NLL", "LOC_BTD5_TIP_TITLE_NLL"]
+	 ],
+    "TipsDesktop" :
+    [
+     [ "black_white_zebra_compound.json",    "LOC_BTD5_TIP_1", "LOC_BTD5_TIP_TITLE_1"],
+     [ "lead_bloon_compound.json",            "LOC_BTD5_TIP_2", "LOC_BTD5_TIP_TITLE_2"],
+     [ "camo_bloons_compound.json",            "LOC_BTD5_TIP_3", "LOC_BTD5_TIP_TITLE_3"],
+     [ "regen_bloon.json",                    "LOC_BTD5_TIP_4", "LOC_BTD5_TIP_TITLE_4" ],
+     [ "ceramic_bloon_compound.json",        "LOC_BTD5_TIP_5", "LOC_BTD5_TIP_TITLE_5"],
+     [ "moab_compound.json",                "LOC_BTD5_TIP_6", "LOC_BTD5_TIP_TITLE_6"],
+     [ "zomg_compound.json",                "LOC_BTD5_TIP_7", "LOC_BTD5_TIP_TITLE_7"],
+     [ "consumables_compound.json",            "LOC_BTD5_TIP_8_Tablet", "LOC_BTD5_TIP_TITLE_8"],
+     [ "activated_tower_compound.json",        "LOC_BTD5_TIP_9_Desktop", "LOC_BTD5_TIP_TITLE_9"],
+     [ "farm_compound.json",                "LOC_BTD5_TIP_10", "LOC_BTD5_TIP_TITLE_10"],
+     [ "heli_pilot_compound.json",            "LOC_BTD5_TIP_11", "LOC_BTD5_TIP_TITLE_11"],
+     [ "freeplay_compound.json",            "LOC_BTD5_TIP_12", "LOC_BTD5_TIP_TITLE_12"],
+     [ "DartlingGun_avatar",                "LOC_BTD5_TIP_13", "LOC_BTD5_TIP_TITLE_13"],
+     [ "MonkeyEngineer_avatar",                "LOC_BTD5_TIP_14", "LOC_BTD5_TIP_TITLE_14"],
+    [ "MonkeySub_avatar",                     "LOC_BTD5_TIP_Submerge", "LOC_BTD5_TIP_TITLE_Submerge" ],
+     [ "upgrades_present_bounce.json",        "LOC_BTD5_TIP_PresentMonkeySub", "LOC_BTD5_TIP_TITLE_PresentMonkeySub" ],
+     [ "no_lives_lost_compound.json",       "LOC_BTD5_TIP_NLL", "LOC_BTD5_TIP_TITLE_NLL"]
+     ],
+    "GameOver" :
+    [
+        [ "monkey_sense",			"LOC_GO_TIP_1"]
+    ]
+}

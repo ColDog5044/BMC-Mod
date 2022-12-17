@@ -1,0 +1,16 @@
+{
+	"Name" : "LOC_SPEC_Land",
+	"Icon" : "purchased_land",
+	"Building" : "purchased_land",
+	"Prices" : [ 250 ],
+	"Effects" :
+	{
+		"I" :
+		{
+			"Text" : "LOC_SPEC_Land_I",
+			"TowerModifiers" :
+			[
+			]
+		}
+	}
+}

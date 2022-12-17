@@ -1,0 +1,32 @@
+{	
+    "Type":             	"CallToArms",    
+    "TargetRange":      	400,
+	"CooldownTime":     	20,
+    "FireDelayTime":    	0.0,
+	"ManuallyFired": 		true,
+	"RequiresTargetToFire":	false,
+    
+    "Tasks" :
+    [
+		{
+			"Type": "TowerModifier",
+			"Range": 400,
+			"PriorityLevel": 4,
+			"ReplacesPriorityLevel" : true,
+            "TerminateOnUserUpgrade": false,
+			"Duration": 30,
+			"Modifier":
+			{
+				"Cooldown": [ 0.5, 0 ],
+                "FireDelay": [ 0.5, 0 ],
+				"PoppingPower": [ 2.5, 0 ]
+			}
+		},
+		{
+			"Type": "Effect",
+			"SpriteFile": "SupplyDropAbility.json",
+			"Scale": 1,
+			"DrawLayer": "FullScreen"
+		}
+	]
+}

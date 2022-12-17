@@ -1,0 +1,29 @@
+{
+   "actors" : [
+      {
+        "Alignment" : [ 0 , 0 ],
+        "Flip" : 0,
+        "Position" : [ 0.0 , 0.0 ],
+        "Angle" : 0.0,
+        "sprite" : "go_button",
+        "type" : 1,
+        "uid" : 3,
+        "Scale" : [ 1.0 , 1.0 ],
+        "Shown" : true,
+        "Alpha" : 1.0
+      },
+      {
+        "Alignment" : [ 0 , 0 ],
+        "Flip" : 0,
+        "Position" : [ 0.0 , 0.0 ],
+        "Angle" : 0.0,
+        "sprite" : "go_text_01",
+        "type" : 1,
+        "uid" : 4,
+        "Scale" : [ 1.0 , 1.0 ],
+        "Shown" : true,
+        "Alpha" : 1.0
+      }
+   ],
+   "stageOptions" : null
+}

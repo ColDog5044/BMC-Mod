@@ -1,0 +1,76 @@
+{
+    "Difficulties": [
+        {
+            "difficulty": 1, 
+            "distanceFromVillage": 1
+        }, 
+        {
+            "difficulty": 3, 
+            "distanceFromVillage": 2
+        }, 
+        {
+            "difficulty": 6, 
+            "distanceFromVillage": 3
+        }, 
+        {
+            "difficulty": 9, 
+            "distanceFromVillage": 4
+        }, 
+        {
+            "difficulty": 11, 
+            "distanceFromVillage": 5
+        }, 
+        {
+            "difficulty": 14, 
+            "distanceFromVillage": 6
+        }, 
+        {
+            "difficulty": 16, 
+            "distanceFromVillage": 7
+        }, 
+        {
+            "difficulty": 19, 
+            "distanceFromVillage": 8
+        }, 
+        {
+            "difficulty": 23, 
+            "distanceFromVillage": 9
+        }, 
+        {
+            "difficulty": 26, 
+            "distanceFromVillage": 10
+        }, 
+        {
+            "difficulty": 32, 
+            "distanceFromVillage": 11
+        }, 
+        {
+            "difficulty": 40, 
+            "distanceFromVillage": 12
+        }, 
+        {
+            "difficulty": 45, 
+            "distanceFromVillage": 13
+        }, 
+        {
+            "difficulty": 52, 
+            "distanceFromVillage": 14
+        }, 
+        {
+            "difficulty": 54, 
+            "distanceFromVillage": 15
+        }, 
+        {
+            "difficulty": 56, 
+            "distanceFromVillage": 16
+        }, 
+        {
+            "difficulty": 58, 
+            "distanceFromVillage": 17
+        }, 
+        {
+            "difficulty": 60, 
+            "distanceFromVillage": 18
+        }
+    ]
+}

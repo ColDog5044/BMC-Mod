@@ -1,0 +1,47 @@
+{
+  "Type": "GoldenEggScrambler",
+  "TargetRange": 0,
+  "CooldownTime": 720000,
+  "FireDelayTime": 0.0,
+  "ManuallyFired": true,
+  "RequiresTargetToFire": false,
+  "TotalAmmo": 1,
+  "RemainingAmmo": 1,
+  "TargetingFilter": {
+    "Exclude": {
+      "BloonType": [
+        "MOAB",
+        "BFB",
+        "DDT",
+        "ZOMG",
+        "Bloonarius",
+        "Vortex"
+      ]
+    }
+  },
+  "Tasks": [
+    {
+      "Type": "TowerBoost"
+    },
+    {
+      "Type": "Effect",
+      "SpriteFile": "golden_egg_scrambler.json",
+      "Position": [
+        240,
+        160
+      ],
+      "DrawLayer": "FullScreen",
+      "Audio": "EGG_SCRAMBLER"
+    },
+    {
+      "Type": "Damage",
+      "DamageType": "Plasma",
+      "Amount": 350
+    },
+    {
+      "Type": "StatusEffect",
+      "Status": "MultiLayerDamage",
+      "Kill": true
+    }
+  ]
+}

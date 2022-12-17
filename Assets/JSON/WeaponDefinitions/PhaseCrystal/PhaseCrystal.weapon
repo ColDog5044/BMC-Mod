@@ -1,0 +1,37 @@
+{	
+    "Type":             	"PhaseCrystal",
+    "TargetRange":      	230,
+	"CooldownTime":     	60.0,
+    "FireDelayTime":    	0.0,
+	"ManuallyFired": 		true,
+	"RequiresTargetToFire":	false,
+	
+    "Tasks" :
+    [
+		{
+			"Type": "AreaOfEffect",
+			"Range": 160,
+			"MaxTargets": -1,
+			
+			"Tasks":
+			[
+				{
+					"Type": "Damage",
+					"DamageType": "Plasma",
+					"Amount": 1000
+				}, 				
+				{
+					"Type": "StatusEffect",
+					"Status": "MultiLayerDamage",
+					"Kill" : true
+				}
+			]
+		},
+		{
+			"Type": "Effect",
+			"SpriteFile": "PhaseCrystal_Pulse.json",
+			"Scale": 1.5,
+			"DrawLayer": "UnderTowers"
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+    "AircraftList" : [ ],
+    "BaseCost" : 0,
+    "CanBePlacedInWater" : false,
+    "CanBePlacedOnLand" : true,
+    "CanBePlacedOnPath" : false,
+    "CanTargetCamo" : true,
+    "DefaultSprite" : "StickySapPlant.json",
+    "PlayAllAnimationsOnFire" : true,
+    "DefaultWeapons" : [
+        "StickySapPlant.weapon",
+        "StickySapOnGround.weapon"
+    ],
+	"DrawWeaponsOnTop" : false,
+    "Icon" : "special_sticky_sap_small",
+    "PlacementH" : 0.0,
+    "PlacementRadius" : 0.0,
+    "PlacementW" : 0.0,
+    "RankToUnlock" : 1,
+    "RotatesToTarget" : false,
+    "TargetIsWeaponOrigin" : false,
+    "TargetingMode" : "None",
+    "TargetsManually" : false,
+    "TypeName" : "StickySapPlant",
+	"UpgradeGateway" :
+	[
+		[  ],
+		[  ]
+	],
+    "UseRadiusPlacement" : true,
+    "SkipFirstFrameWhenFiring" : false,
+    "IsAgent" : true
+}

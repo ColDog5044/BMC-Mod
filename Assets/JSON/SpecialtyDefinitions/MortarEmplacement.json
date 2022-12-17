@@ -1,0 +1,66 @@
+{
+	"Name" : "LOC_SPEC_Mortar",
+	"Icon" : "mortar_emplacement_building",
+	"Building" : "mortar_emplacement",
+	"Prices" : [ 750, 750, 1000, 1000 ],
+	"Effects" :
+	{
+		"I" :
+		{
+			"Text" : "LOC_SPEC_Mortar_I",
+			"TowerModifiers" :
+			[{
+				"TargetingFilter" : { "Include" : { "TowerType": [ "MortarTower" ] } },
+				"Modifier" : { "Cost": [ 0.95, 0 ] }
+			}]
+		},
+		
+		"II" :		
+		{
+			"Text" : "LOC_SPEC_Mortar_II",
+			"TowerModifiers" :
+			[{
+				"TargetingFilter" : { "Include" : { "TowerType": [ "MortarTower" ] } },
+				"Modifier" :
+				{
+					"FireDelay" : [ 0.9090909, 0 ],
+					"Cooldown"  : [ 0.9090909, 0 ]
+				}
+			}]
+		},
+	
+		"III" :
+		{
+			"Text" : "LOC_SPEC_Mortar_III",
+			"TowerModifiers" :
+			[{
+				"TargetingFilter" : { "Include" : { "TowerType" : [ "MortarTower" ] } },
+				"Modifier" :
+				{
+					"EnabledSubtasks" :
+					[ [ 0, [ 0, 0, 4 ], true ] ]
+				}
+			}]
+		},
+        
+        "IV" :
+        {
+            "Text" : "LOC_SPEC_Mortar_IV",
+            "TowerModifiers" :
+            [{
+                "TargetingFilter" : { "Include" : { "TowerType" : [ "MortarTower" ] } },
+                "Modifier" : { "TargetMode" : "First" }
+            }]
+        },
+		
+		"X" :
+		{
+			"Text" : "LOC_SPEC_Mortar_X",
+			"TowerModifiers" :
+			[{
+				"TargetingFilter" : { "Include" : { "TowerType": [ "DartlingGun" ] } },
+				"Modifier" : { "Cost" : [ 1.05, 0 ] }
+			}]
+		}
+	}
+}

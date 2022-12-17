@@ -1,0 +1,75 @@
+{
+   "Alignment" : null,
+   "Point" : null,
+   "actors" : [
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 0.0, 0.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "building_EngineeringSchool_l05",
+         "type" : 1,
+         "uid" : 1
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -14.250, 13.0 ],
+         "Scale" : [ 0.3499999940395355, 0.3499999940395355 ],
+         "Shown" : true,
+         "sprite" : "_building_EngineeringSchool_light_glow.json",
+         "type" : 2,
+         "uid" : 2
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 14.250, 13.0 ],
+         "Scale" : [ 0.3499999940395355, 0.3499999940395355 ],
+         "Shown" : true,
+         "sprite" : "_building_EngineeringSchool_light_glow.json",
+         "type" : 2,
+         "uid" : 3
+      }
+   ],
+   "customvariables" : null,
+   "labels" : null,
+   "stageOptions" : {
+      "SpriteInfo" : [
+         {
+            "SpriteInfo" : "building_EngineeringSchool_l05",
+            "Texture" : "building_EngineeringSchool_l05"
+         },
+         {
+            "SpriteInfo" : "_building_EngineeringSchool_light_glow.json",
+            "Texture" : "building_animations"
+         }
+      ],
+      "StageLength" : 3.0,
+      "Version" : 1
+   },
+   "timelines" : [
+      {
+         "spriteuid" : 2,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 1,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 3,
+         "stage" : null
+      }
+   ]
+}

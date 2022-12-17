@@ -1,0 +1,79 @@
+{
+    "Alignment" : null,
+    "Point" : null,
+    "actors" : [
+                {
+                "Alignment" : [ 0, 0 ],
+                "Alpha" : 1.0,
+                "Angle" : 5.0,
+                "Colour" : 4294967295,
+                "Flip" : 0,
+                "Position" : [ 0.0, 0.0 ],
+                "Scale" : [ 1.0, 1.0 ],
+                "Shown" : true,
+                "sprite" : "level_SubmarineAlliance",
+                "type" : 1,
+                "uid" : 1
+                },
+                {
+                "Alignment" : [ 0, 0 ],
+                "Alpha" : 1.0,
+                "Angle" : 40.0,
+                "Colour" : 4294967295,
+                "Flip" : 0,
+                "Position" : [ 3.0, 25.0 ],
+                "Scale" : [ 1.0, 1.0 ],
+                "Shown" : true,
+                "sprite" : "_sub_smoke.json",
+                "type" : 2,
+                "uid" : 2
+                },
+                {
+                "Alignment" : [ 0, 0 ],
+                "Alpha" : 1.0,
+                "Angle" : -95.0,
+                "Colour" : 4294967295,
+                "Flip" : 0,
+                "Position" : [ -9.0, 28.0 ],
+                "Scale" : [ 0.50, 0.50 ],
+                "Shown" : true,
+                "sprite" : "_sub_sparks.json",
+                "type" : 2,
+                "uid" : 3
+                }
+                ],
+    "customvariables" : null,
+    "labels" : null,
+    "stageOptions" : {
+        "SpriteInfo" : [
+                        {
+                        "SpriteInfo" : "level_SubmarineAlliance",
+                        "Texture" : "level_SubmarineAlliance_trees"
+                        },
+                        {
+                        "SpriteInfo" : "_sub_smoke.json",
+                        "Texture" : "level_SubmarineAlliance_trees"
+                        },
+                        {
+                        "SpriteInfo" : "_sub_sparks.json",
+                        "Texture" : "level_SubmarineAlliance_trees"
+                        }
+                        ],
+        "StageLength" : 20.0,
+        "Version" : 1
+    },
+    "timelines" : [
+                   {
+                   "spriteuid" : 3,
+                   "stage" : null
+                   },
+                   {
+                   "spriteuid" : 1,
+                   "stage" : null
+                   },
+                   {
+                   "spriteuid" : 2,
+                   "stage" : null
+                   }
+                   ]
+}

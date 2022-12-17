@@ -1,0 +1,75 @@
+{
+    "TypeName"				: "MortarTower",
+    "Icon"					: "mortar_avatar_small",
+    "UI_Icon"               : "mortar_icon",
+    "BaseCost"				: 750,
+    "RankToUnlock"			: 17,
+    "DefaultWeapons"	    : [ "MortarTower.weapon" ],
+    "TargetingMode"			: "ManualActive",
+    "TargetsManually"		: true,
+    "TargetIsWeaponOrigin"	: true,
+
+    "Upgrades" :
+    [
+    	[ "Increased Accuracy", "Bigger Blast", "Bloon Buster", "The Big One" ],
+    	[ "Rapid Reload", "Burny Stuff", "Signal Flare", "Artillery Battery" ]
+    ],
+	"UpgradeGateway" :
+	[
+		[ { "Rank" : 0, "XP" : 200 }, { "Rank" : 0, "XP" : 1612 }, { "Rank" : 0, "XP" : 5962 }, { "Rank" : 38, "XP" : 26081 } ],
+		[ { "Rank" : 0, "XP" : 650 }, { "Rank" : 0, "XP" : 2637 }, { "Rank" : 0, "XP" : 9687 }, { "Rank" : 38, "XP" : 39131 } ]
+	],
+    "UpgradePrices" : 
+    [
+        [ 200, 600, 800, 10000 ],
+        [ 250, 500, 500, 9000 ]
+    ],
+    "UpgradeAvatars" :
+    [
+    	[ 
+            "mortar_avatar_greater_accuracy_small", 
+            "mortar_avatar_bigger_blast_small", 
+            "mortar_avatar_bloon_buster_small", 
+            "mortar_avatar_big_one_small" 
+        ],
+    	[ 
+            "mortar_avatar_rapid_reload_small", 
+            "mortar_avatar_burny_stuff_small", 
+            "mortar_avatar_signal_flare_small", 
+            "mortar_avatar_artillery_small" 
+        ]
+    ],
+
+    "UpgradeIcons" :
+    [
+    	[ 
+        "mortar_accuracy_icon", 
+        "mortar_bigger_bombs_icon", 
+        "mortar_bloon_buster_icon", 
+        "mortar_big_one_icon" 
+        ],
+    	[ 
+        "mortar_rapid_reload_icon", 
+        "mortar_burny_icon", 
+        "mortar_signal_flare_icon", 
+        "mortar_artillery_icon" 
+        ]
+    ],
+            
+    "AircraftList"			: [ ],
+    
+    "CanTargetCamo"			: true,
+    "RotatesToTarget"		: true,
+    
+    "CanBePlacedInWater"	: true,
+    "CanBePlacedOnLand"		: true,
+    "CanBePlacedOnPath"		: false,
+    
+    "UseRadiusPlacement"	: true,
+    "PlacementRadius"		: 0.0,
+    "PlacementW"			: 0.0,
+    "PlacementH"			: 0.0,
+    "SpriteUpgradeDefinition" : "MortarTower.json",
+    "UseDefaultRangeCircle" : true,
+    "DontResetAnimation" : false
+}

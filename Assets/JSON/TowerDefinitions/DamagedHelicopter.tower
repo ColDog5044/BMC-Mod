@@ -1,0 +1,32 @@
+{
+    "AircraftList" : [ ],
+    "BaseCost" : 0,
+    "CanBePlacedInWater" : false,
+    "CanBePlacedOnLand" : true,
+    "CanBePlacedOnPath" : false,
+    "CanTargetCamo" : true,
+    "DefaultSprite" : "DamagedHelicopter.json",
+    "DefaultWeapons" : [
+        "RepairHeli.weapon"
+    ],
+	"DrawWeaponsOnTop" : false,
+    "Icon" : "special_crashed_helicopter_avatar_small",
+    "PlacementH" : 0.0,
+    "PlacementRadius" : 20.0,
+    "PlacementW" : 0.0,
+    "RankToUnlock" : 1,
+    "RotatesToTarget" : false,
+    "TargetIsWeaponOrigin" : false,
+    "TargetingMode" : "None",
+    "TargetsManually" : false,
+    "TypeName" : "DamagedHelicopter",
+	"UpgradeGateway" :
+	[
+		[  ],
+		[  ]
+	],
+    "UseRadiusPlacement" : true,
+    "SkipFirstFrameWhenFiring" : false,
+    "IsAgent" : true,
+    "UseDefaultRangeCircle" : true
+}

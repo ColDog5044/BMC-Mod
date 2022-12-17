@@ -1,0 +1,15 @@
+{
+	"Name"					: "Building the Ark",
+	"Description"			: "Use up to two each of Ninjas, Dart Monkeys, Buccaneers, Snipers and Apprentices to clear Park Path on Medium",
+	"Map"					: "ParkPath",
+	"Difficulty"			: "Medium",
+	"StartingCash"			: "650",
+	"StartingLives"			: "150",
+	"StartRound"			: "0",
+	"EndRound"				: "65",
+	"MaxIndividualTowers"	: "2",
+	"Reward"				: "50",
+	"VictoryText"			: "You have been rewarded with $50 Monkey Money",
+	"AvailableTowers"		: "",
+	"LockedTowers"			: "",
+}

@@ -1,0 +1,39 @@
+{	
+    "Type":             "MeerkatSpyBlaster",    
+    "TargetRange":      81,
+	"CooldownTime":     0.94,
+    "FireDelayTime":    0.0,
+    "DontResetAnimation": true,
+
+    "Tasks" :
+    [
+		{
+			"Type":             "Projectile",
+			"GraphicName":      "meerkat_pro_laser",
+			"NumPersists":      1,
+			"TerminateOnZeroPersists": true,
+			
+			"CollisionType": "Once",
+			
+			"Movement" :
+			{
+				"Type": "Forward",
+				"Speed": 1000,
+				"CutOffDistance": 161
+			},
+			
+			"Tasks" :
+			[
+				{ 
+					"Type": "Damage",
+					"DamageType": "Plasma",
+					"Amount": 6
+				},
+				{
+					"Type" : "StatusEffect",
+					"Status" : "MultiLayerDamage"
+				}
+			]
+		}
+	]
+}

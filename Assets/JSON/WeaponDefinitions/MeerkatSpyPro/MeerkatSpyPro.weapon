@@ -1,0 +1,33 @@
+{	
+    "Type":             "MeerkatSpyPro",    
+    "TargetRange":      81,
+	"CooldownTime":     0,
+    "FireDelayTime":    0.0,
+ 	"TargetsIndependently": true,
+    "DontResetAnimation": true,
+	"RotatesToTarget" : false,
+	"SelfTargetMode": "Any",
+	"MaxShots" : 1,
+
+    "TargetingFilter":
+    {
+        "Include" :
+        { "StatusEffect": [ "Camo" ] }
+    },
+
+    "Tasks" :
+    [
+        {
+            "Type" : "TowerModifier",
+            "Range":  81,
+            "PriorityLevel" : 2,
+            "RequiresEmptyPriorityLevel" : true,
+            "TerminateOnUserUpgrade" : false,
+		
+            "Modifier" : 
+			{ 
+				"CanTargetCamo": [ true, true ] 
+			}
+        }
+	]
+}

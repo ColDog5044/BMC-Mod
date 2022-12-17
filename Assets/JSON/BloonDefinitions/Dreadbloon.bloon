@@ -1,0 +1,22 @@
+{
+"Type" : "Dreadbloon",
+"DrawLayer": "Air",
+"InitialHealth" : 2000,
+"SpriteFilesAtDamageLevels": [
+[ "dreadbloon_undamaged.json", 560 ],
+[ "dreadbloon_01.json", 560 ],
+[ "dreadbloon_02.json", 420 ],
+[ "dreadbloon_03.json", 280 ]
+],
+"BaseSpeed" : 70,
+"SpeedMultiplier" : 0.14,
+"RBE" : 30000,
+"ChildBloons" : [],
+"StatusImmunity" : [ "Slow", "Ice", "Glue", "Napalm", "Regen", "Camo", "MoveToPath", "Stun", "Permafrost", "IceShards", "ViralFrost", "AbsoluteZero", "VacStatus", "CrippleMOAB" ],
+"DamageImmunity" : [ "Piercing", "Fire","Juggernaut", "Foam" ],
+"CanGoUnderground" : false,
+"RotateToPathDirection" : true,
+"Radius" : 40,
+"HitAddon" : 65,
+"BloonAbility" : ["ShieldAbility"]
+}

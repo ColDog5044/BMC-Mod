@@ -1,0 +1,75 @@
+{
+    "TypeName"				: "SpikeFactory",
+    "Icon"					: "spike_factory_avatar_small",
+    "UI_Icon"               : "spike_factory_icon",
+    "BaseCost"				: 825,
+    "RankToUnlock"			: 19,
+    "DefaultWeapons"	    : [ "SpikeFactory.weapon" ],
+    "TargetingMode"			: "Any",
+    "TargetsManually"		: false,
+    "TargetIsWeaponOrigin"	: false,
+
+    "Upgrades" :
+    [
+    	[ "Bigger Stacks", "White Hot Spikes", "Spiked Ball Factory", "Spiked Mines" ],
+    	[ "Faster Production", "Even Faster Production", "MOAB-SHREDR Spikes", "Spike Storm" ]
+    ],
+	"UpgradeGateway" :
+	[
+		[ { "Rank" : 0, "XP" : 500 }, { "Rank" : 0, "XP" : 1500 }, { "Rank" : 0, "XP" : 10000 }, { "Rank" : 40, "XP" : 60000 } ],
+		[ { "Rank" : 0, "XP" : 1000 }, { "Rank" : 0, "XP" : 3500 }, { "Rank" : 0, "XP" : 17000 }, { "Rank" : 40, "XP" : 105000 } ]
+	],
+    "UpgradePrices" : 
+    [
+        [ 700, 900, 2400, 14000 ],
+        [ 800, 1250, 3000, 6500 ]
+    ],
+
+    "UpgradeAvatars" :
+    [
+    	[ 
+        "spike_factory_avatar_bigger_stacks_small", 
+        "spike_factory_avatar_white_hot_small", 
+        "spike_factory_avatar_spike_balls_small", 
+        "spike_factory_avatar_mines_small" 
+        ],
+    	[ 
+        "spike_factory_avatar_faster_production_small", 
+        "spike_factory_avatar_even_faster_production_small", 
+        "spike_factory_avatar_moab_shredr_small", 
+        "spike_factory_avatar_spike_storm_small" 
+        ]
+    ],
+
+    "UpgradeIcons" :
+    [
+    	[ 
+        "spike_factory_bigger_stacks_icon", 
+        "spike_factory_white_hot_icon", 
+        "spike_factory_spiked_balls_icon", 
+        "spike_factory_spiked_mines_icon" 
+        ],
+    	[ 
+        "spike_factory_faster_production_icon", 
+        "spike_factory_even_faster_production_icon", 
+        "spike_factory_moab_shredr_icon", 
+        "spike_factory_spike_storm_icon" 
+        ]
+    ],
+        
+    "AircraftList"			: [ ],
+    
+    "CanTargetCamo"			: true,
+    "RotatesToTarget"		: false,
+    
+    "CanBePlacedInWater"	: true,
+    "CanBePlacedOnLand"		: true,
+    "CanBePlacedOnPath"		: false,
+    
+    "UseRadiusPlacement"	: true,
+    "PlacementRadius"		: 0.0,
+    "PlacementW"			: 0.0,
+    "PlacementH"			: 0.0,
+    
+    "SpriteUpgradeDefinition" : "SpikeFactory.json"
+}

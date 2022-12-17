@@ -1,0 +1,44 @@
+{
+	"Setup"	: {
+		"Health" : 150,
+		"Money" : 650.0,
+		"StartRound" : 0,
+		"RoundFiles" : [
+   			"Default/Default.rounds"
+		],
+		"Inventory" : [
+		]
+	},
+	
+	"Rules" : {
+		"CanEarnMoney" : true,
+		"CanSave" : true,
+		"PauseBetweenRounds" : true,
+		"TargetRound" : 75,
+		"Reward" : {
+			"XP" : 0,
+			"XPMultiplier" : 1.0,
+			"CityCash" : 100,
+			"CityCashMultiplier" : 1.0
+		},
+		"PriceModifier" : 1.0,
+        "SellPriceModifier" : 1.0,
+		"SpeedModifier" : 0.0,
+		"TowerLifespan" : -1,
+		"ConsumeMostExpensiveTowerRounds" : -1,
+		"MaxNumberOfEachTower" : -1,
+		"MaxNumberOfTotalTowers" : -1,
+		"LockedTowers" : [
+		],
+		"LockedUpgrades" : [
+		],
+		"BloonsForcedCamo" : [
+		],
+		"BlockedPremiumUpgrades" : [
+		],
+		"BlockedSpecialties" : [
+		],
+		"BlockedLabUpgrades" : [
+		]
+	}
+}

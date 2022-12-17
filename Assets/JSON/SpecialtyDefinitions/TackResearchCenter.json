@@ -1,0 +1,74 @@
+{
+	"Name" : "LOC_SPEC_Tack",
+	"Icon" : "tack_research_centre_building",
+	"Building" : "tack_research_centre",
+	"Prices" : [ 500, 500, 850, 1100 ],
+	"Effects" :
+	{
+		"I" :
+		{
+			"Text" : "LOC_SPEC_Tack_I",
+			"TowerModifiers" :
+			[{
+				"TargetingFilter" : { "Include" : { "TowerType": [ "TackTower" ] } },
+				"Modifier" : { "Cost": [ 0.95, 0 ] }
+			}]
+		},
+		
+		"II" :		
+		{
+			"Text" : "LOC_SPEC_Tack_II",
+			"TowerModifiers" :
+			[{
+				"TargetingFilter" : { "Include" : { "TowerType": [ "TackTower" ] } },
+				"Modifier" :
+				{
+					"FireDelay" : [ 0.9090909, 0 ],
+					"Cooldown"  : [ 0.9090909, 0 ]
+				}
+			}]
+		},
+	
+		"III" :
+		{
+			"Text" : "LOC_SPEC_Tack_III",
+            "TowerModifiers" :
+            [{
+                "WeaponSlotIndex": 0,
+                "Period" : 2,
+                "TargetingFilter" : { "Include" : { "TowerType": [ "TackTower" ] } },
+                "Modifier" :
+                {
+                    "PoppingPower" : [ 1, 1 ]
+                }
+            }]
+		},
+        
+        "IV" :
+        {
+            "Text": "LOC_SPEC_Tack_IV",
+            "ReplacesPreviousTier" : true,
+            "TowerModifiers" :
+            [{
+                "WeaponSlotIndex": 0,
+                "Period" : 1,
+             
+                "TargetingFilter" : { "Include" : { "TowerType": [ "TackTower" ] } },
+                "Modifier" :
+                {
+                    "PoppingPower" : [ 1, 1 ]
+                }
+            }]
+        },
+		
+		"X" :
+		{
+			"Text" : "LOC_SPEC_Tack_X",
+			"TowerModifiers" :
+			[{
+				"TargetingFilter" : { "Include" : { "TowerType": [ "BoomerangThrower" ] } },
+				"Modifier" : { "Cost" : [ 1.05, 0 ] }
+			}]
+		}
+	}
+}

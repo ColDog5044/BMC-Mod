@@ -1,0 +1,76 @@
+{
+    "TypeName"				: "BloonberryBush",
+    "Icon"					: "bloonberry_avatar_small",
+    "BaseCost"				: 0,
+    "RankToUnlock"			: 0,
+    "DefaultWeapons"	    : [ "BloonberryBush.weapon" ],
+    "TargetingMode"			: "Any",
+    "TargetsManually"		: false,
+    "TargetIsWeaponOrigin"	: false,
+    
+    "Upgrades" :
+    [
+    	[ ],
+    	[ ]
+    ],   
+    "UpgradePrices" : 
+    [
+        [ ],
+        [ ]
+    ],
+	"UpgradeGateway" :
+	[
+		[ { "Rank" : 0, "XP" : 50 } ],
+		[ ]
+	],
+    "UpgradeAvatars" :
+    [
+    	[ 
+        "banana_farm_avatar_more_bananas_small", 
+        "banana_farm_avatar_plantation_small", 
+        "banana_farm_avatar_republic_small", 
+        "banana_farm_avatar_brf_small" 
+        ],
+    	[ 
+        "banana_farm_avatar_long_life_small", 
+        "banana_farm_avatar_valuable_bananas_small", 
+        "banana_farm_avatar_bank_small", 
+        "banana_farm_avatar_investments_small" 
+        ]
+    ], 
+       
+    "UpgradeIcons" :
+    [
+    	[ 
+        "banana_farm_more_bananas_icon", 
+        "banana_farm_plantation_icon", 
+        "banana_farm_republic_icon", 
+        "banana_farm_brf_icon" 
+        ],
+    	[ 
+        "banana_farm_long_life_icon", 
+        "banana_farm_valuable_icon", 
+        "banana_farm_bank_icon", 
+        "banana_farm_investments_icon" 
+        ]
+    ],
+    
+    "AircraftList"			: [ ],
+    
+    "DefaultSprite"         : "BloonberryBush.json",
+    "CanTargetCamo"			: true,
+    "RotatesToTarget"		: false,
+    
+    "CanBePlacedInWater"	: false,
+    "CanBePlacedOnLand"		: false,
+    "CanBePlacedOnPath"		: true,
+    
+    "UseRadiusPlacement"	: true,
+    "PlacementRadius"		: 8.0,
+    "PlacementW"			: 0,
+    "PlacementH"			: 0,
+    "PlacementFiringSequence" : [ 0 ],
+    "FiresWeaponsInSequence" : true,
+    "FiringSequence" : [ [ 0 ] ],
+    "IsAgent" : true
+}

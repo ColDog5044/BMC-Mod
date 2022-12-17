@@ -1,0 +1,42 @@
+{	
+    "Type":             	"AngrySquirrelAngry",    
+    "TargetRange":      	0,
+	"CooldownTime":     	7.5,
+    "FireDelayTime":    	0.0,
+	"ManuallyFired": 		true,
+	"RequiresTargetToFire":	false,
+    
+    "Tasks" :
+    [
+		{
+			"Type": "TowerModifier",
+			"Range": 0,
+			"PriorityLevel": 2,
+			"RequiresEmptyPriorityLevel": true,
+            "TerminateOnUserUpgrade": false,
+            "ApplyToUserTower": true,
+			"Duration": 7.5,
+			"Modifier":
+            {
+                "Display": "AngrySquirrelGreen.json",
+                "Cooldown": [ 0.2, 0 ],
+                "FireDelay": [ 0.2, 0 ],
+                "CanTargetCamo" : [ true, true ],
+                "CanPopAllBloons": [ true, true ],
+                "TargetRange" : [ 1.6, 0 ],
+                "NumPersists": [ 1, 1 ]
+            },
+            
+            "Tasks" :
+            [
+                {
+                    "Type": "Effect",
+                    "SpriteFile": "SupplyDropAbility.json",
+                    "Scale": 1,
+                    "DrawLayer": "FullScreen",
+					"Audio": "ANGRY_SQUIRREL"
+                }
+            ]
+		}
+	]
+}

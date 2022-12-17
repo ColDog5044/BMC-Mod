@@ -1,0 +1,21 @@
+{
+	"Setup" : {
+		"Money" : 50000,
+		"StartRound" : 30
+	},
+	
+	"Rules" : {
+		"CanEarnMoney" : false,
+		"CanSave" : false,
+		"TargetRound" : -1,
+     	"LockedTowers" : [
+			"BananaFarm"
+		],
+		"BlockedPremiumUpgrades" : [
+			"DoubleCash.premiumupgrade"
+		],
+		"BlockedLabUpgrades" : [
+			"StartingCash"
+		]
+	}
+}

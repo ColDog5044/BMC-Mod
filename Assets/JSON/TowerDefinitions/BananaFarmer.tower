@@ -1,0 +1,62 @@
+{
+    "AircraftList" : [ ],
+    "BaseCost" : 2000,
+    "CanBePlacedInWater" : true,
+    "CanBePlacedOnLand" : true,
+    "CanBePlacedOnPath" : false,
+    "CanTargetCamo" : false,
+    "DefaultSprite" : "monkey_farmer.json",
+    "DefaultWeapons" : [
+        "BananaFarmer.weapon",
+		"BananaFarmer.weapon"
+    ],
+	"ActiveWeaponSlots" : [
+		true,
+		false
+	],
+	"DrawWeaponsOnTop" : false,
+    "Icon" : "farmar_avatar",
+    "FE_Avatar"             : "special_agent_farmer_avatar",
+    "PlacementH" : 0.0,
+    "PlacementRadius" : 0.0,
+    "PlacementW" : 0.0,
+    "RankToUnlock" : 1,
+    "RotatesToTarget" : false,
+    "Specialities" : [
+    ],
+    "TargetIsWeaponOrigin" : false,
+    "TargetingMode" : "None",
+    "TargetsManually" : false,
+    "TypeName" : "BananaFarmer",
+    "Upgrades" : [
+        [
+        ],
+        [
+        ]
+    ],
+	"UpgradeGateway" :
+	[
+		[ { "Rank" : 0, "XP" : 50 } ],
+		[  ]
+	],
+    "UpgradePrices" : 
+    [
+        [  ],
+        [  ]
+    ],
+    "UpgradeIcons" : [
+        [
+        ],
+        [
+        ]
+    ],
+    "UpgradeAvatars" : [
+        [
+        ],
+        [
+        ]
+    ],
+    "UseRadiusPlacement" : true,
+    "IsAgent" : true,
+	"AnimationWeaponSlotIndex" : 1
+}

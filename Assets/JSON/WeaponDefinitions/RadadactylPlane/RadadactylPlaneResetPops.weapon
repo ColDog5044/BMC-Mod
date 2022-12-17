@@ -1,0 +1,15 @@
+{	
+    "Type":             "RadadactylPlaneResetPops",
+    "TargetRange":      81,
+	"CooldownTime":     0,
+    "FireDelayTime":    0.0,
+	"FiresOnRoundEnd" : true,
+	"RequiresTargetToFire" : false,
+   
+    "Tasks" :
+    [
+		{
+			"Type" : "ResetPopCount"
+		}
+	]
+}

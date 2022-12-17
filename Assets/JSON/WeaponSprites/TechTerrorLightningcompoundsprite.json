@@ -1,0 +1,36 @@
+{
+   "actors" : [
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 0.0, 0.0 ],
+         "Scale" : [ 2.0, 2.0 ],
+         "Shown" : true,
+         "sprite" : "tech_terror_energy_overlay",
+         "type" : 1,
+         "uid" : 1
+      }
+   ],
+   "customvariables" : null,
+   "events" : null,
+   "labels" : null,
+   "stageOptions" : {
+      "SpriteInfo" : [
+         {
+            "SpriteInfo" : "tech_terror_energy_overlay",
+            "Texture" : "InGame"
+         }
+      ],
+      "StageLength" : 0.1,
+      "Version" : 1
+   },
+   "timelines" : [
+      {
+         "spriteuid" : 1,
+         "stage" : null
+      }
+   ]
+}

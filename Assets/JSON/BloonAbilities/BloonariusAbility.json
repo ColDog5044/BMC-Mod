@@ -1,0 +1,27 @@
+{
+"NumSections": 4,
+"BloonSpawns": [
+["Lead","Lead","Lead"],
+["Lead","Lead","Lead"],
+["Lead","Lead","Lead"],
+["Lead","Lead","Rainbow"],
+["Rainbow","Rainbow","Rainbow"],
+["Rainbow","Rainbow","Ceramic"],
+["Rainbow","Ceramic","Ceramic"],
+["Ceramic","Ceramic","Ceramic"],
+["Ceramic","Ceramic","MOAB"],
+["Ceramic","MOAB","MOAB"],
+["MOAB","MOAB","MOAB"],
+["MOAB","MOAB","MOAB"],
+["MOAB","MOAB","BFB"],
+["MOAB","BFB","BFB"],
+["MOAB","BFB","BFB"],
+["BFB","BFB","BFB"],
+["BFB","BFB","BFB"],
+["BFB","BFB","BFB"],
+["BFB","BFB","ZOMG"],
+["BFB","BFB","ZOMG"],
+["BFB","ZOMG","ZOMG"],
+["ZOMG","ZOMG","ZOMG"]
+]
+}

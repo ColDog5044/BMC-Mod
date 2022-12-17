@@ -1,0 +1,31 @@
+{
+	"error":0,
+	"count":2,
+	"hash":"not required",
+	"items":[
+        {
+			 "title":"LOC_LOCAL_FEED_MOREGAMES",
+			 "content":"LOC_LOCAL_FEED_HUMBLE_MoreGames_DESC",
+			 "link":"https://play.google.com/store/apps/developer?id=ninja+kiwi",
+			 "image":"newslocal_01",
+			 "id":-1,
+			 "version":999999
+        },
+		{
+			 "title":"LOC_LOCAL_FEED_UPDATES",
+			 "content":"LOC_LOCAL_FEED_HUMBLE_Update_10000_DESC",
+			 "link":"",
+			 "image":"newslocal_h",
+			 "id":-2,
+			 "version":10000
+		},
+		{
+			 "title":"LOC_LOCAL_FEED_UPDATES",
+			 "content":"LOC_LOCAL_FEED_HUMBLE_Update_20000_DESC",
+			 "link":"",
+			 "image":"newslocal_h",
+			 "id":-2,
+			 "version":20000
+		}
+    ]
+}

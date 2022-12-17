@@ -1,0 +1,90 @@
+{
+	"Name" : "LOC_LAB_DoublePierce",
+	"Description" : "LOC_LAB_DESC_DoublePierce",
+	"Icon" : "popping_power",
+	"LevelGateway" : [ 2, 5, 9, 16, 24, 34, 50, 78 ],
+	
+	"Upgrades" :
+	[
+		{
+			"Description" : "LOC_LAB_DESC_DoublePierce_1",
+			"TowerModifier" :
+			{
+				"Modifier" :
+				{
+					"DoublePierceChance" : [ 0.02, 0 ]
+				}
+			}
+		},
+		{
+			"Description" : "LOC_LAB_DESC_DoublePierce_2",
+			"TowerModifier" :
+			{
+				"Modifier" :
+				{
+					"DoublePierceChance" : [ 0.04, 0 ]
+				}
+			}
+		},
+		{
+			"Description" : "LOC_LAB_DESC_DoublePierce_3",
+			"TowerModifier" :
+			{
+				"Modifier" :
+				{
+					"DoublePierceChance" : [ 0.06, 0 ]
+				}
+			}
+		},
+		{
+			"Description" : "LOC_LAB_DESC_DoublePierce_4",
+			"TowerModifier" :
+			{
+				"Modifier" :
+				{
+					"DoublePierceChance" : [ 0.08, 0 ]
+				}
+			}
+		},
+		{
+			"Description" : "LOC_LAB_DESC_DoublePierce_5",
+			"TowerModifier" :
+			{
+				"Modifier" :
+				{
+					"DoublePierceChance" : [ 0.10, 0 ]
+				}
+			}
+		},
+		{
+			"Description" : "LOC_LAB_DESC_DoublePierce_6",
+			"TowerModifier" :
+			{
+				"Modifier" :
+				{
+					"DoublePierceChance" : [ 0.12, 0 ]
+				}
+			}
+		},
+		{
+			"Description" : "LOC_LAB_DESC_DoublePierce_7",
+			"TowerModifier" :
+			{
+				"Modifier" :
+				{
+					"DoublePierceChance" : [ 0.15, 0 ]
+				}
+			}
+		},
+		{
+			"Description" : "LOC_LAB_DESC_DoublePierce_8",
+			"TowerModifier" :
+			{
+				"Modifier" :
+				{
+					"DoublePierceChance" : [ 0.20, 0 ]
+				}
+			}
+		}
+	]
+}

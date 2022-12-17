@@ -1,0 +1,4822 @@
+{
+    "ActiveAbility": {
+        "Effect": [
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "AbilityCooldown": [
+                            0.98, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "AbilityCooldown": [
+                            0.97, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "AbilityBoostChance": 0.15, 
+                    "AbilityBoostTier": 1
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "ExtraProjectilePierceDuration": 10.0
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCooldownModifier": 0.95
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "AbilityCooldown": [
+                            0.98, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "AbilityCooldown": [
+                            0.97, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "AbilityBoostChance": 0.15, 
+                    "AbilityBoostTier": 3
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "ExtraProjectilePierceDuration": 15.0
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCooldownModifier": 0.92
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "AbilityCooldown": [
+                            0.98, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "AbilityCooldown": [
+                            0.97, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "AbilityBoostChance": 0.15, 
+                    "AbilityBoostTier": 7
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "ExtraProjectilePierceDuration": 20.0
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCooldownModifier": 0.9
+                }
+            }
+        ], 
+        "TargetingFilter": {}, 
+        "displayOrder": 23, 
+        "icon": "ActivatedAbility_avatar"
+    }, 
+    "BananaFarm": {
+        "Effect": [
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "BananaFarm": 0.98
+                    }, 
+                    "UpgradeCost": {
+                        "BananaFarm": 0.98
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "CollectableMoney": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "MinUpgradeLevel": [
+                            2, 
+                            0
+                        ], 
+                        "TotalAmmo": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "InterestMultiplier": [
+                            1, 
+                            0.02
+                        ], 
+                        "MinUpgradeLevel": [
+                            0, 
+                            3
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "RoundEndCashBoost": 0.02
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "BananaFarm": 0.98
+                    }, 
+                    "UpgradeCost": {
+                        "BananaFarm": 0.98
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "CollectableMoney": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "MinUpgradeLevel": [
+                            2, 
+                            0
+                        ], 
+                        "TotalAmmo": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "InterestMultiplier": [
+                            1, 
+                            0.02
+                        ], 
+                        "MinUpgradeLevel": [
+                            0, 
+                            3
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "RoundEndCashBoost": 0.02
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "BananaFarm": 0.98
+                    }, 
+                    "UpgradeCost": {
+                        "BananaFarm": 0.98
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "CollectableMoney": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "MinUpgradeLevel": [
+                            2, 
+                            0
+                        ], 
+                        "TotalAmmo": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "InterestMultiplier": [
+                            1, 
+                            0.02
+                        ], 
+                        "MinUpgradeLevel": [
+                            0, 
+                            3
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "RoundEndCashBoost": 0.02
+                }
+            }
+        ], 
+        "TargetingFilter": {
+            "Include": {
+                "TowerType": [
+                    "BananaFarm"
+                ]
+            }
+        }, 
+        "displayOrder": 16, 
+        "icon": "BananaFarm_avatar"
+    }, 
+    "BigBloonSabotage": {
+        "Effect": [
+            {
+                "RulesMod": {
+                    "MOABHealthScale": 0.02
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "MOABMovementScale": 0.05
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "MOABHealthScale": 0.03
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "MOABMovementScale": 0.05
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "MOABHealthScale": 0.1
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "MOABHealthScale": 0.02
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "MOABMovementScale": 0.03
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "MOABHealthScale": 0.03
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "MOABMovementScale": 0.03
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "MOABHealthScale": 0.05
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "MOABHealthScale": 0.02
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "MOABMovementScale": 0.02
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "MOABHealthScale": 0.03
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "MOABMovementScale": 0.02
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "MOABHealthScale": 0.05
+                }
+            }
+        ], 
+        "TargetingFilter": {
+            "Exclude": {
+                "TowerType": [
+                    "DartMonkey", 
+                    "BoomerangThrower", 
+                    "BombTower", 
+                    "TackTower", 
+                    "SniperMonkey", 
+                    "NinjaMonkey", 
+                    "IceTower", 
+                    "MonkeyApprentice", 
+                    "SuperMonkey", 
+                    "MortarTower", 
+                    "DartlingGun", 
+                    "SpikeFactory", 
+                    "MonkeyAce", 
+                    "GlueGunner", 
+                    "MonkeyBuccaneer", 
+                    "MonkeyVillage", 
+                    "BananaFarm", 
+                    "MonkeyEngineer", 
+                    "Bloonchipper", 
+                    "HeliPilot", 
+                    "MonkeySub"
+                ]
+            }
+        }, 
+        "displayOrder": 21, 
+        "icon": "BloonSabotage_avatar"
+    }, 
+    "Bloonchipper": {
+        "Effect": [
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "Bloonchipper": 0.97
+                    }, 
+                    "UpgradeCost": {
+                        "Bloonchipper": 0.97
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "BaseWeaponCooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "TargetRange": [
+                            1.05, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "Bloonchipper": [
+                            {
+                                "Upgrade": [
+                                    0, 
+                                    3
+                                ], 
+                                "value": [
+                                    1, 
+                                    -500.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "AnimationLoops": [
+                            1, 
+                            1.25
+                        ], 
+                        "NumLoops": [
+                            1, 
+                            5.0
+                        ], 
+                        "StatusDuration": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "Bloonchipper": 0.97
+                    }, 
+                    "UpgradeCost": {
+                        "Bloonchipper": 0.97
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "BaseWeaponCooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "TargetRange": [
+                            1.05, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "Bloonchipper": [
+                            {
+                                "Upgrade": [
+                                    0, 
+                                    3
+                                ], 
+                                "value": [
+                                    1, 
+                                    -500.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "AnimationLoops": [
+                            1, 
+                            1.25
+                        ], 
+                        "NumLoops": [
+                            1, 
+                            5.0
+                        ], 
+                        "StatusDuration": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "Bloonchipper": 0.97
+                    }, 
+                    "UpgradeCost": {
+                        "Bloonchipper": 0.97
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "BaseWeaponCooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "TargetRange": [
+                            1.05, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "Bloonchipper": [
+                            {
+                                "Upgrade": [
+                                    0, 
+                                    3
+                                ], 
+                                "value": [
+                                    1, 
+                                    -500.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "AnimationLoops": [
+                            1, 
+                            1.25
+                        ], 
+                        "NumLoops": [
+                            1, 
+                            5.0
+                        ], 
+                        "StatusDuration": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }
+        ], 
+        "TargetingFilter": {
+            "Include": {
+                "TowerType": [
+                    "Bloonchipper"
+                ]
+            }
+        }, 
+        "displayOrder": 18, 
+        "icon": "Bloonchipper_avatar"
+    }, 
+    "BombTower": {
+        "Effect": [
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "BombTower": [
+                            {
+                                "Upgrade": [
+                                    0, 
+                                    1
+                                ], 
+                                "value": [
+                                    1, 
+                                    -100.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "ProjectileSpeed": [
+                            1.1, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "PlacementRect": [
+                            [
+                                0.95, 
+                                0
+                            ], 
+                            [
+                                0.95, 
+                                0
+                            ]
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "MinUpgradeLevel": [
+                            2, 
+                            0
+                        ], 
+                        "PoppingPower": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "CanPopAllBloons": [
+                            true, 
+                            true
+                        ]
+                    }, 
+                    "Period": 3
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "BombTower": [
+                            {
+                                "Upgrade": [
+                                    0, 
+                                    1
+                                ], 
+                                "value": [
+                                    1, 
+                                    -50.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "ProjectileSpeed": [
+                            1.1, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "PlacementRect": [
+                            [
+                                0.95, 
+                                0
+                            ], 
+                            [
+                                0.95, 
+                                0
+                            ]
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "MinUpgradeLevel": [
+                            2, 
+                            0
+                        ], 
+                        "PoppingPower": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "CanPopAllBloons": [
+                            true, 
+                            true
+                        ]
+                    }, 
+                    "Period": 2
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "BombTower": [
+                            {
+                                "Upgrade": [
+                                    0, 
+                                    1
+                                ], 
+                                "value": [
+                                    1, 
+                                    -50.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "ProjectileSpeed": [
+                            1.1, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "PlacementRect": [
+                            [
+                                0.95, 
+                                0
+                            ], 
+                            [
+                                0.95, 
+                                0
+                            ]
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "MinUpgradeLevel": [
+                            2, 
+                            0
+                        ], 
+                        "PoppingPower": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "CanPopAllBloons": [
+                            true, 
+                            true
+                        ]
+                    }, 
+                    "Period": 1
+                }
+            }
+        ], 
+        "TargetingFilter": {
+            "Include": {
+                "TowerType": [
+                    "BombTower"
+                ]
+            }
+        }, 
+        "displayOrder": 2, 
+        "icon": "BombTower_avatar"
+    }, 
+    "BoomerangThrower": {
+        "Effect": [
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "BoomerangThrower": 0.97
+                    }, 
+                    "UpgradeCost": {
+                        "BoomerangThrower": 0.97
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "BaseWeaponCooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "ProjectileSpeed": [
+                            1.1, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "ProjectileRadius": [
+                            1.1, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "MOABDamageScale": [
+                            1.1, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "BoomerangThrower": 0.97
+                    }, 
+                    "UpgradeCost": {
+                        "BoomerangThrower": 0.97
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "BaseWeaponCooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "ProjectileSpeed": [
+                            1.1, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "ProjectileRadius": [
+                            1.1, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "MOABDamageScale": [
+                            1.1, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "BoomerangThrower": 0.97
+                    }, 
+                    "UpgradeCost": {
+                        "BoomerangThrower": 0.97
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "BaseWeaponCooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "ProjectileSpeed": [
+                            1.1, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "ProjectileRadius": [
+                            1.1, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "MOABDamageScale": [
+                            1.1, 
+                            0
+                        ]
+                    }
+                }
+            }
+        ], 
+        "TargetingFilter": {
+            "Include": {
+                "TowerType": [
+                    "BoomerangThrower"
+                ]
+            }
+        }, 
+        "displayOrder": 1, 
+        "icon": "BoomerangThrower_avatar"
+    }, 
+    "DartMonkey": {
+        "Effect": [
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "DartMonkey": 0.97
+                    }, 
+                    "UpgradeCost": {
+                        "DartMonkey": 0.97
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "BaseWeaponCooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "InventoryBonus": {
+                    "TowerCount": 1, 
+                    "TowerType": "DartMonkey"
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "PoppingPower": [
+                            1, 
+                            0.1
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "TargetRange": [
+                            1.05, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "DartMonkey": 0.97
+                    }, 
+                    "UpgradeCost": {
+                        "DartMonkey": 0.97
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "BaseWeaponCooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "InventoryBonus": {
+                    "TowerCount": 1, 
+                    "TowerType": "DartMonkey"
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "PoppingPower": [
+                            1, 
+                            0.1
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "TargetRange": [
+                            1.05, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "DartMonkey": 0.97
+                    }, 
+                    "UpgradeCost": {
+                        "DartMonkey": 0.97
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "BaseWeaponCooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "InventoryBonus": {
+                    "TowerCount": 1, 
+                    "TowerType": "DartMonkey"
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "PoppingPower": [
+                            1, 
+                            0.1
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "TargetRange": [
+                            1.05, 
+                            0
+                        ]
+                    }
+                }
+            }
+        ], 
+        "TargetingFilter": {
+            "Include": {
+                "TowerType": [
+                    "DartMonkey"
+                ]
+            }
+        }, 
+        "displayOrder": 0, 
+        "icon": "DartMonkey_avatar"
+    }, 
+    "DartlingGun": {
+        "Effect": [
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "AngleVariation": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "PoppingPower": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "DartlingGun": 0.97
+                    }, 
+                    "UpgradeCost": {
+                        "DartlingGun": 0.97
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "Cooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "DartlingGun": [
+                            {
+                                "Upgrade": [
+                                    0, 
+                                    2
+                                ], 
+                                "value": [
+                                    1, 
+                                    -200.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "AngleVariation": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "PoppingPower": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "DartlingGun": 0.97
+                    }, 
+                    "UpgradeCost": {
+                        "DartlingGun": 0.97
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "Cooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "DartlingGun": [
+                            {
+                                "Upgrade": [
+                                    0, 
+                                    2
+                                ], 
+                                "value": [
+                                    1, 
+                                    -100.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "AngleVariation": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "PoppingPower": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "DartlingGun": 0.97
+                    }, 
+                    "UpgradeCost": {
+                        "DartlingGun": 0.97
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "Cooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "DartlingGun": [
+                            {
+                                "Upgrade": [
+                                    0, 
+                                    2
+                                ], 
+                                "value": [
+                                    1, 
+                                    -100.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        ], 
+        "TargetingFilter": {
+            "Include": {
+                "TowerType": [
+                    "DartlingGun"
+                ]
+            }
+        }, 
+        "displayOrder": 10, 
+        "icon": "DartlingGun_avatar"
+    }, 
+    "Engineer": {
+        "Effect": [
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "MonkeyEngineer": 0.98
+                    }, 
+                    "UpgradeCost": {
+                        "MonkeyEngineer": 0.98
+                    }
+                }
+            }, 
+            {
+                "TargetingFilter": {
+                    "Include": {
+                        "TowerType": [
+                            "MonkeyEngineerSentry", 
+                            "MonkeyEngineerSentryTier4"
+                        ]
+                    }
+                }, 
+                "TowerModifier": {
+                    "Modifier": {
+                        "TargetRange": [
+                            1.05, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TargetingFilter": {
+                    "Include": {
+                        "TowerType": [
+                            "MonkeyEngineerSentry", 
+                            "MonkeyEngineerSentryTier4"
+                        ]
+                    }
+                }, 
+                "TowerModifier": {
+                    "Modifier": {
+                        "CanTargetCamo": [
+                            true, 
+                            true
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "Cooldown": [
+                            1, 
+                            -0.5
+                        ], 
+                        "MinUpgradeLevel": [
+                            3, 
+                            0
+                        ], 
+                        "WeaponSlot": 2
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "MonkeyEngineer": [
+                            {
+                                "Upgrade": [
+                                    4, 
+                                    0
+                                ], 
+                                "value": [
+                                    0.9, 
+                                    0
+                                ]
+                            }, 
+                            {
+                                "Upgrade": [
+                                    0, 
+                                    4
+                                ], 
+                                "value": [
+                                    0.9, 
+                                    0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "MonkeyEngineer": 0.98
+                    }, 
+                    "UpgradeCost": {
+                        "MonkeyEngineer": 0.98
+                    }
+                }
+            }, 
+            {
+                "TargetingFilter": {
+                    "Include": {
+                        "TowerType": [
+                            "MonkeyEngineerSentry", 
+                            "MonkeyEngineerSentryTier4"
+                        ]
+                    }
+                }, 
+                "TowerModifier": {
+                    "Modifier": {
+                        "TargetRange": [
+                            1.05, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TargetingFilter": {
+                    "Include": {
+                        "TowerType": [
+                            "MonkeyEngineerSentry", 
+                            "MonkeyEngineerSentryTier4"
+                        ]
+                    }
+                }, 
+                "TowerModifier": {
+                    "Modifier": {
+                        "PoppingPower": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "Cooldown": [
+                            1, 
+                            -0.25
+                        ], 
+                        "MinUpgradeLevel": [
+                            3, 
+                            0
+                        ], 
+                        "WeaponSlot": 2
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "MonkeyEngineer": [
+                            {
+                                "Upgrade": [
+                                    4, 
+                                    0
+                                ], 
+                                "value": [
+                                    0.9, 
+                                    0
+                                ]
+                            }, 
+                            {
+                                "Upgrade": [
+                                    0, 
+                                    4
+                                ], 
+                                "value": [
+                                    0.9, 
+                                    0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "MonkeyEngineer": 0.98
+                    }, 
+                    "UpgradeCost": {
+                        "MonkeyEngineer": 0.98
+                    }
+                }
+            }, 
+            {
+                "TargetingFilter": {
+                    "Include": {
+                        "TowerType": [
+                            "MonkeyEngineerSentry", 
+                            "MonkeyEngineerSentryTier4"
+                        ]
+                    }
+                }, 
+                "TowerModifier": {
+                    "Modifier": {
+                        "TargetRange": [
+                            1.05, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TargetingFilter": {
+                    "Include": {
+                        "TowerType": [
+                            "MonkeyEngineerSentry", 
+                            "MonkeyEngineerSentryTier4"
+                        ]
+                    }
+                }, 
+                "TowerModifier": {
+                    "Modifier": {
+                        "CanPopAllBloons": [
+                            true, 
+                            true
+                        ]
+                    }, 
+                    "Period": 3
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "Cooldown": [
+                            1, 
+                            -0.25
+                        ], 
+                        "MinUpgradeLevel": [
+                            3, 
+                            0
+                        ], 
+                        "WeaponSlot": 2
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "MonkeyEngineer": [
+                            {
+                                "Upgrade": [
+                                    4, 
+                                    0
+                                ], 
+                                "value": [
+                                    0.9, 
+                                    0
+                                ]
+                            }, 
+                            {
+                                "Upgrade": [
+                                    0, 
+                                    4
+                                ], 
+                                "value": [
+                                    0.9, 
+                                    0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        ], 
+        "TargetingFilter": {
+            "Include": {
+                "TowerType": [
+                    "MonkeyEngineer", 
+                    "MonkeyEngineerSentry", 
+                    "MonkeyEngineerSentryTier4"
+                ]
+            }
+        }, 
+        "displayOrder": 17, 
+        "icon": "MonkeyEngineer_avatar"
+    }, 
+    "GlueGunner": {
+        "Effect": [
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "GlueGunner": 0.97
+                    }, 
+                    "UpgradeCost": {
+                        "GlueGunner": 0.97
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "GlueGunner": [
+                            {
+                                "Upgrade": [
+                                    1, 
+                                    0
+                                ], 
+                                "value": [
+                                    1, 
+                                    -30.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "GlueGunner": [
+                            {
+                                "Upgrade": [
+                                    2, 
+                                    0
+                                ], 
+                                "value": [
+                                    1, 
+                                    -50.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "MaxTargets": [
+                            1, 
+                            1.0
+                        ], 
+                        "MinUpgradeLevel": [
+                            0, 
+                            2
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "StatusSpeedScale": [
+                            0.97, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "GlueGunner": 0.97
+                    }, 
+                    "UpgradeCost": {
+                        "GlueGunner": 0.97
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "GlueGunner": [
+                            {
+                                "Upgrade": [
+                                    1, 
+                                    0
+                                ], 
+                                "value": [
+                                    1, 
+                                    -30.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "GlueGunner": [
+                            {
+                                "Upgrade": [
+                                    2, 
+                                    0
+                                ], 
+                                "value": [
+                                    1, 
+                                    -50.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "MaxTargets": [
+                            1, 
+                            1.0
+                        ], 
+                        "MinUpgradeLevel": [
+                            0, 
+                            2
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "StatusSpeedScale": [
+                            0.97, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "GlueGunner": 0.97
+                    }, 
+                    "UpgradeCost": {
+                        "GlueGunner": 0.97
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "GlueGunner": [
+                            {
+                                "Upgrade": [
+                                    1, 
+                                    0
+                                ], 
+                                "value": [
+                                    1, 
+                                    -30.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "GlueGunner": [
+                            {
+                                "Upgrade": [
+                                    2, 
+                                    0
+                                ], 
+                                "value": [
+                                    1, 
+                                    -50.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "MaxTargets": [
+                            1, 
+                            1.0
+                        ], 
+                        "MinUpgradeLevel": [
+                            0, 
+                            2
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "StatusSpeedScale": [
+                            0.97, 
+                            0
+                        ]
+                    }
+                }
+            }
+        ], 
+        "TargetingFilter": {
+            "Include": {
+                "TowerType": [
+                    "GlueGunner"
+                ]
+            }
+        }, 
+        "displayOrder": 13, 
+        "icon": "GlueGunner_avatar"
+    }, 
+    "HeliPilot": {
+        "Effect": [
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "HeliPilot": 0.9
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "ProjectileSpeed": [
+                            1.1, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "Cooldown": [
+                            0.75, 
+                            0
+                        ], 
+                        "WeaponSlot": 1
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "FireDelay": [
+                            0.75, 
+                            0
+                        ], 
+                        "MinUpgradeLevel": [
+                            0, 
+                            3
+                        ], 
+                        "WeaponSlot": 6
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "CollectableHealth": [
+                            1.25, 
+                            0
+                        ], 
+                        "CollectableMoney": [
+                            1.25, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "HeliPilot": 0.9
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "ProjectileSpeed": [
+                            1.1, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "Cooldown": [
+                            0.75, 
+                            0
+                        ], 
+                        "WeaponSlot": 1
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "FireDelay": [
+                            0.75, 
+                            0
+                        ], 
+                        "MinUpgradeLevel": [
+                            0, 
+                            3
+                        ], 
+                        "WeaponSlot": 6
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "CollectableHealth": [
+                            1.25, 
+                            0
+                        ], 
+                        "CollectableMoney": [
+                            1.25, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "HeliPilot": 0.9
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "ProjectileSpeed": [
+                            1.1, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "Cooldown": [
+                            0.75, 
+                            0
+                        ], 
+                        "WeaponSlot": 1
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "FireDelay": [
+                            0.75, 
+                            0
+                        ], 
+                        "MinUpgradeLevel": [
+                            0, 
+                            3
+                        ], 
+                        "WeaponSlot": 6
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "CollectableHealth": [
+                            1.25, 
+                            0
+                        ], 
+                        "CollectableMoney": [
+                            1.25, 
+                            0
+                        ]
+                    }
+                }
+            }
+        ], 
+        "TargetingFilter": {
+            "Include": {
+                "TowerType": [
+                    "HeliPilot", 
+                    "HeliPilotAircraft"
+                ]
+            }
+        }, 
+        "displayOrder": 20, 
+        "icon": "HeliPilot_avatar"
+    }, 
+    "IceTower": {
+        "Effect": [
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "IceTower": 0.92
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "PoppingPower": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "MinUpgradeLevel": [
+                            1, 
+                            0
+                        ], 
+                        "StatusSpeedScale": [
+                            0.95, 
+                            0
+                        ], 
+                        "WeaponSlot": 0
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "MinUpgradeLevel": [
+                            3, 
+                            0
+                        ], 
+                        "TargetRange": [
+                            1.03, 
+                            0
+                        ], 
+                        "WeaponSlot": 1
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "PoppingPower": [
+                            1, 
+                            3.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "IceTower": 0.913043
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "PoppingPower": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "MinUpgradeLevel": [
+                            1, 
+                            0
+                        ], 
+                        "StatusSpeedScale": [
+                            0.95, 
+                            0
+                        ], 
+                        "WeaponSlot": 0
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "MinUpgradeLevel": [
+                            3, 
+                            0
+                        ], 
+                        "TargetRange": [
+                            1.03, 
+                            0
+                        ], 
+                        "WeaponSlot": 1
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "CeramicDamageScale": [
+                            1, 
+                            1.0
+                        ], 
+                        "WeaponSlot": 0
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "IceTower": 0.904762
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "PoppingPower": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "MinUpgradeLevel": [
+                            1, 
+                            0
+                        ], 
+                        "StatusSpeedScale": [
+                            0.95, 
+                            0
+                        ], 
+                        "WeaponSlot": 0
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "MinUpgradeLevel": [
+                            3, 
+                            0
+                        ], 
+                        "TargetRange": [
+                            1.03, 
+                            0
+                        ], 
+                        "WeaponSlot": 1
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "CanPopAllBloons": [
+                            true, 
+                            true
+                        ], 
+                        "MinUpgradeLevel": [
+                            2, 
+                            0
+                        ]
+                    }
+                }
+            }
+        ], 
+        "TargetingFilter": {
+            "Include": {
+                "TowerType": [
+                    "IceTower"
+                ]
+            }
+        }, 
+        "displayOrder": 6, 
+        "icon": "IceTower_avatar"
+    }, 
+    "MonkeyAce": {
+        "Effect": [
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "MonkeyAce": 0.9
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "PoppingPower": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "BaseWeaponCooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "Cooldown": [
+                            1, 
+                            -0.5
+                        ], 
+                        "MinUpgradeLevel": [
+                            0, 
+                            1
+                        ], 
+                        "WeaponSlot": 4
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "MonkeyAce": [
+                            {
+                                "Upgrade": [
+                                    4, 
+                                    0
+                                ], 
+                                "value": [
+                                    1, 
+                                    -2000.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "MonkeyAce": 0.888889
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "PoppingPower": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "BaseWeaponCooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "Cooldown": [
+                            1, 
+                            -0.5
+                        ], 
+                        "MinUpgradeLevel": [
+                            0, 
+                            1
+                        ], 
+                        "WeaponSlot": 4
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "MonkeyAce": [
+                            {
+                                "Upgrade": [
+                                    4, 
+                                    0
+                                ], 
+                                "value": [
+                                    1, 
+                                    -1000.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "MonkeyAce": 0.875
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "PoppingPower": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "BaseWeaponCooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "TimerFireTime": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "MonkeyAce": [
+                            {
+                                "Upgrade": [
+                                    4, 
+                                    0
+                                ], 
+                                "value": [
+                                    1, 
+                                    -500.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        ], 
+        "TargetingFilter": {
+            "Include": {
+                "TowerType": [
+                    "MonkeyAce", 
+                    "AcePlane"
+                ]
+            }
+        }, 
+        "displayOrder": 12, 
+        "icon": "MonkeyAce_avatar"
+    }, 
+    "MonkeyApprentice": {
+        "Effect": [
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "BaseWeaponCooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "Cooldown": [
+                            0.95, 
+                            0
+                        ], 
+                        "MinUpgradeLevel": [
+                            0, 
+                            1
+                        ], 
+                        "WeaponSlot": 3
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "MinUpgradeLevel": [
+                            3, 
+                            0
+                        ], 
+                        "PoppingPower": [
+                            1, 
+                            2.0
+                        ], 
+                        "WeaponSlot": 2
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "EnabledSubtasks": [
+                            [
+                                1, 
+                                [
+                                    0, 
+                                    1
+                                ], 
+                                true
+                            ]
+                        ], 
+                        "MinUpgradeLevel": [
+                            2, 
+                            0
+                        ], 
+                        "RemoveStatusChance": [
+                            1, 
+                            0.5
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "TowerDuration": [
+                            1, 
+                            3.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "BaseWeaponCooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "Cooldown": [
+                            0.95, 
+                            0
+                        ], 
+                        "MinUpgradeLevel": [
+                            0, 
+                            1
+                        ], 
+                        "WeaponSlot": 3
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "MinUpgradeLevel": [
+                            3, 
+                            0
+                        ], 
+                        "PoppingPower": [
+                            1, 
+                            2.0
+                        ], 
+                        "WeaponSlot": 2
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "EnabledSubtasks": [
+                            [
+                                1, 
+                                [
+                                    0, 
+                                    1
+                                ], 
+                                true
+                            ]
+                        ], 
+                        "MinUpgradeLevel": [
+                            2, 
+                            0
+                        ], 
+                        "RemoveStatusChance": [
+                            1, 
+                            0.1
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "TowerDuration": [
+                            1, 
+                            3.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "BaseWeaponCooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "Cooldown": [
+                            0.95, 
+                            0
+                        ], 
+                        "MinUpgradeLevel": [
+                            0, 
+                            1
+                        ], 
+                        "WeaponSlot": 3
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "MinUpgradeLevel": [
+                            3, 
+                            0
+                        ], 
+                        "PoppingPower": [
+                            1, 
+                            2.0
+                        ], 
+                        "WeaponSlot": 2
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "EnabledSubtasks": [
+                            [
+                                1, 
+                                [
+                                    0, 
+                                    1
+                                ], 
+                                true
+                            ]
+                        ], 
+                        "MinUpgradeLevel": [
+                            2, 
+                            0
+                        ], 
+                        "RemoveStatusChance": [
+                            1, 
+                            0.1
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "TowerDuration": [
+                            1, 
+                            3.0
+                        ]
+                    }
+                }
+            }
+        ], 
+        "TargetingFilter": {
+            "Include": {
+                "TowerType": [
+                    "MonkeyApprentice"
+                ]
+            }
+        }, 
+        "displayOrder": 7, 
+        "icon": "MonkeyApprentice_avatar"
+    }, 
+    "MonkeyBuccaneer": {
+        "Effect": [
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "MonkeyBuccaneer": 0.98
+                    }, 
+                    "UpgradeCost": {
+                        "MonkeyBuccaneer": 0.98
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "FireCount": [
+                            1, 
+                            1.0
+                        ], 
+                        "MinUpgradeLevel": [
+                            0, 
+                            0
+                        ], 
+                        "WeaponSlot": 1
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "BaseWeaponCooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "MonkeyBuccaneer": [
+                            {
+                                "Upgrade": [
+                                    0, 
+                                    4
+                                ], 
+                                "value": [
+                                    1, 
+                                    -500.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "TargetRange": [
+                            1.05, 
+                            0
+                        ], 
+                        "WeaponSlots": [
+                            0, 
+                            1, 
+                            2
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "MonkeyBuccaneer": 0.98
+                    }, 
+                    "UpgradeCost": {
+                        "MonkeyBuccaneer": 0.98
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "FireCount": [
+                            1, 
+                            1.0
+                        ], 
+                        "MinUpgradeLevel": [
+                            0, 
+                            0
+                        ], 
+                        "WeaponSlot": 1
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "BaseWeaponCooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "MonkeyBuccaneer": [
+                            {
+                                "Upgrade": [
+                                    0, 
+                                    4
+                                ], 
+                                "value": [
+                                    1, 
+                                    -500.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "TargetRange": [
+                            1.05, 
+                            0
+                        ], 
+                        "WeaponSlots": [
+                            0, 
+                            1, 
+                            2
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "MonkeyBuccaneer": 0.98
+                    }, 
+                    "UpgradeCost": {
+                        "MonkeyBuccaneer": 0.98
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "FireCount": [
+                            1, 
+                            1.0
+                        ], 
+                        "MinUpgradeLevel": [
+                            0, 
+                            0
+                        ], 
+                        "WeaponSlot": 1
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "BaseWeaponCooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "MonkeyBuccaneer": [
+                            {
+                                "Upgrade": [
+                                    0, 
+                                    4
+                                ], 
+                                "value": [
+                                    1, 
+                                    -500.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "TargetRange": [
+                            1.05, 
+                            0
+                        ], 
+                        "WeaponSlots": [
+                            0, 
+                            1, 
+                            2
+                        ]
+                    }
+                }
+            }
+        ], 
+        "TargetingFilter": {
+            "Include": {
+                "TowerType": [
+                    "MonkeyBuccaneer", 
+                    "AircraftCarrier"
+                ]
+            }
+        }, 
+        "displayOrder": 14, 
+        "icon": "MonkeyBuccaneer_avatar"
+    }, 
+    "MonkeySub": {
+        "Effect": [
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "ProjectileSpeed": [
+                            1.15, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "TargetRange": [
+                            1.03, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "FireCount": [
+                            1, 
+                            0.3333333333
+                        ], 
+                        "MinUpgradeLevel": [
+                            0, 
+                            2
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifiers": [
+                    {
+                        "Modifier": {
+                            "Cooldown": [
+                                0.85, 
+                                0
+                            ], 
+                            "WeaponSlots": [
+                                4
+                            ]
+                        }
+                    }, 
+                    {
+                        "Modifier": {
+                            "TargetRange": [
+                                1.1, 
+                                0
+                            ], 
+                            "WeaponSlots": [
+                                4, 
+                                5, 
+                                6, 
+                                7
+                            ]
+                        }
+                    }
+                ]
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "AbilityCooldown": [
+                            1, 
+                            -7.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "ProjectileSpeed": [
+                            1.15, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "TargetRange": [
+                            1.03, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "FireCount": [
+                            1, 
+                            0.1666666667
+                        ], 
+                        "MinUpgradeLevel": [
+                            0, 
+                            2
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifiers": [
+                    {
+                        "Modifier": {
+                            "Cooldown": [
+                                0.85, 
+                                0
+                            ], 
+                            "WeaponSlots": [
+                                4
+                            ]
+                        }
+                    }, 
+                    {
+                        "Modifier": {
+                            "TargetRange": [
+                                1.1, 
+                                0
+                            ], 
+                            "WeaponSlots": [
+                                4, 
+                                5, 
+                                6, 
+                                7
+                            ]
+                        }
+                    }
+                ]
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "AbilityCooldown": [
+                            1, 
+                            -7.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "ProjectileSpeed": [
+                            1.15, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "TargetRange": [
+                            1.03, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "FireCount": [
+                            1, 
+                            0.5
+                        ], 
+                        "MinUpgradeLevel": [
+                            0, 
+                            2
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifiers": [
+                    {
+                        "Modifier": {
+                            "Cooldown": [
+                                0.85, 
+                                0
+                            ], 
+                            "WeaponSlots": [
+                                4
+                            ]
+                        }
+                    }, 
+                    {
+                        "Modifier": {
+                            "TargetRange": [
+                                1.1, 
+                                0
+                            ], 
+                            "WeaponSlots": [
+                                4, 
+                                5, 
+                                6, 
+                                7
+                            ]
+                        }
+                    }
+                ]
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "AbilityCooldown": [
+                            1, 
+                            -7.0
+                        ]
+                    }
+                }
+            }
+        ], 
+        "TargetingFilter": {
+            "Include": {
+                "TowerType": [
+                    "MonkeySub"
+                ]
+            }
+        }, 
+        "displayOrder": 19, 
+        "icon": "MonkeySub_avatar"
+    }, 
+    "MonkeyTycoon": {
+        "Effect": [
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "BananaFarm": 0.98, 
+                        "Bloonchipper": 0.98, 
+                        "BombTower": 0.98, 
+                        "BoomerangThrower": 0.98, 
+                        "DartMonkey": 0.98, 
+                        "DartlingGun": 0.98, 
+                        "GlueGunner": 0.98, 
+                        "HeliPilot": 0.98, 
+                        "IceTower": 0.98, 
+                        "MonkeyAce": 0.98, 
+                        "MonkeyApprentice": 0.98, 
+                        "MonkeyBuccaneer": 0.98, 
+                        "MonkeyEngineer": 0.98, 
+                        "MonkeySub": 0.98, 
+                        "MonkeyVillage": 0.98, 
+                        "MortarTower": 0.98, 
+                        "NinjaMonkey": 0.98, 
+                        "SniperMonkey": 0.98, 
+                        "SpikeFactory": 0.98, 
+                        "SuperMonkey": 0.98, 
+                        "TackTower": 0.98
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "UpgradeCost": {
+                        "BananaFarm": 0.99, 
+                        "Bloonchipper": 0.99, 
+                        "BombTower": 0.99, 
+                        "BoomerangThrower": 0.99, 
+                        "DartMonkey": 0.99, 
+                        "DartlingGun": 0.99, 
+                        "GlueGunner": 0.99, 
+                        "HeliPilot": 0.99, 
+                        "IceTower": 0.99, 
+                        "MonkeyAce": 0.99, 
+                        "MonkeyApprentice": 0.99, 
+                        "MonkeyBuccaneer": 0.99, 
+                        "MonkeyEngineer": 0.99, 
+                        "MonkeySub": 0.99, 
+                        "MonkeyVillage": 0.99, 
+                        "MortarTower": 0.99, 
+                        "NinjaMonkey": 0.99, 
+                        "SniperMonkey": 0.99, 
+                        "SpikeFactory": 0.99, 
+                        "SuperMonkey": 0.99, 
+                        "TackTower": 0.99
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SellPriceModifier": 0.85
+                }
+            }, 
+            {
+                "TargetingFilter": {
+                    "Include": {
+                        "TowerType": [
+                            "MonkeyVillage"
+                        ]
+                    }
+                }, 
+                "TowerModifier": {
+                    "Modifier": {
+                        "CostScale": [
+                            0.99, 
+                            0
+                        ], 
+                        "WeaponSlot": 0
+                    }
+                }
+            }, 
+            {
+                "TargetingFilter": {
+                    "Include": {
+                        "TowerType": [
+                            "BananaFarm"
+                        ]
+                    }
+                }, 
+                "TowerModifier": {
+                    "Modifier": {
+                        "CollectableMoney": [
+                            1.05, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "BananaFarm": 0.98, 
+                        "Bloonchipper": 0.98, 
+                        "BombTower": 0.98, 
+                        "BoomerangThrower": 0.98, 
+                        "DartMonkey": 0.98, 
+                        "DartlingGun": 0.98, 
+                        "GlueGunner": 0.98, 
+                        "HeliPilot": 0.98, 
+                        "IceTower": 0.98, 
+                        "MonkeyAce": 0.98, 
+                        "MonkeyApprentice": 0.98, 
+                        "MonkeyBuccaneer": 0.98, 
+                        "MonkeyEngineer": 0.98, 
+                        "MonkeySub": 0.98, 
+                        "MonkeyVillage": 0.98, 
+                        "MortarTower": 0.98, 
+                        "NinjaMonkey": 0.98, 
+                        "SniperMonkey": 0.98, 
+                        "SpikeFactory": 0.98, 
+                        "SuperMonkey": 0.98, 
+                        "TackTower": 0.98
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "UpgradeCost": {
+                        "BananaFarm": 0.99, 
+                        "Bloonchipper": 0.99, 
+                        "BombTower": 0.99, 
+                        "BoomerangThrower": 0.99, 
+                        "DartMonkey": 0.99, 
+                        "DartlingGun": 0.99, 
+                        "GlueGunner": 0.99, 
+                        "HeliPilot": 0.99, 
+                        "IceTower": 0.99, 
+                        "MonkeyAce": 0.99, 
+                        "MonkeyApprentice": 0.99, 
+                        "MonkeyBuccaneer": 0.99, 
+                        "MonkeyEngineer": 0.99, 
+                        "MonkeySub": 0.99, 
+                        "MonkeyVillage": 0.99, 
+                        "MortarTower": 0.99, 
+                        "NinjaMonkey": 0.99, 
+                        "SniperMonkey": 0.99, 
+                        "SpikeFactory": 0.99, 
+                        "SuperMonkey": 0.99, 
+                        "TackTower": 0.99
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SellPriceModifier": 0.88
+                }
+            }, 
+            {
+                "TargetingFilter": {
+                    "Include": {
+                        "TowerType": [
+                            "MonkeyVillage"
+                        ]
+                    }
+                }, 
+                "TowerModifier": {
+                    "Modifier": {
+                        "CostScale": [
+                            0.99, 
+                            0
+                        ], 
+                        "WeaponSlot": 0
+                    }
+                }
+            }, 
+            {
+                "TargetingFilter": {
+                    "Include": {
+                        "TowerType": [
+                            "BananaFarm"
+                        ]
+                    }
+                }, 
+                "TowerModifier": {
+                    "Modifier": {
+                        "CollectableMoney": [
+                            1.03, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "BananaFarm": 0.98, 
+                        "Bloonchipper": 0.98, 
+                        "BombTower": 0.98, 
+                        "BoomerangThrower": 0.98, 
+                        "DartMonkey": 0.98, 
+                        "DartlingGun": 0.98, 
+                        "GlueGunner": 0.98, 
+                        "HeliPilot": 0.98, 
+                        "IceTower": 0.98, 
+                        "MonkeyAce": 0.98, 
+                        "MonkeyApprentice": 0.98, 
+                        "MonkeyBuccaneer": 0.98, 
+                        "MonkeyEngineer": 0.98, 
+                        "MonkeySub": 0.98, 
+                        "MonkeyVillage": 0.98, 
+                        "MortarTower": 0.98, 
+                        "NinjaMonkey": 0.98, 
+                        "SniperMonkey": 0.98, 
+                        "SpikeFactory": 0.98, 
+                        "SuperMonkey": 0.98, 
+                        "TackTower": 0.98
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "UpgradeCost": {
+                        "BananaFarm": 0.99, 
+                        "Bloonchipper": 0.99, 
+                        "BombTower": 0.99, 
+                        "BoomerangThrower": 0.99, 
+                        "DartMonkey": 0.99, 
+                        "DartlingGun": 0.99, 
+                        "GlueGunner": 0.99, 
+                        "HeliPilot": 0.99, 
+                        "IceTower": 0.99, 
+                        "MonkeyAce": 0.99, 
+                        "MonkeyApprentice": 0.99, 
+                        "MonkeyBuccaneer": 0.99, 
+                        "MonkeyEngineer": 0.99, 
+                        "MonkeySub": 0.99, 
+                        "MonkeyVillage": 0.99, 
+                        "MortarTower": 0.99, 
+                        "NinjaMonkey": 0.99, 
+                        "SniperMonkey": 0.99, 
+                        "SpikeFactory": 0.99, 
+                        "SuperMonkey": 0.99, 
+                        "TackTower": 0.99
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SellPriceModifier": 0.9
+                }
+            }, 
+            {
+                "TargetingFilter": {
+                    "Include": {
+                        "TowerType": [
+                            "MonkeyVillage"
+                        ]
+                    }
+                }, 
+                "TowerModifier": {
+                    "Modifier": {
+                        "CostScale": [
+                            0.99, 
+                            0
+                        ], 
+                        "WeaponSlot": 0
+                    }
+                }
+            }, 
+            {
+                "TargetingFilter": {
+                    "Include": {
+                        "TowerType": [
+                            "BananaFarm"
+                        ]
+                    }
+                }, 
+                "TowerModifier": {
+                    "Modifier": {
+                        "CollectableMoney": [
+                            1.02, 
+                            0
+                        ]
+                    }
+                }
+            }
+        ], 
+        "TargetingFilter": {}, 
+        "displayOrder": 22, 
+        "icon": "MonkeyTycoon_avatar"
+    }, 
+    "MonkeyVillage": {
+        "Effect": [
+            {
+                "TargetingFilter": {
+                    "Include": {
+                        "TowerType": [
+                            "MonkeyVillage"
+                        ]
+                    }
+                }, 
+                "TowerModifier": {
+                    "Modifier": {
+                        "CostScale": [
+                            0.99, 
+                            0
+                        ], 
+                        "WeaponSlot": 0
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "TargetRange": [
+                            1.04, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "CooldownScale": [
+                            0.99, 
+                            0
+                        ], 
+                        "MinUpgradeLevel": [
+                            2, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "CashPerPopScale": [
+                            1, 
+                            0.1
+                        ], 
+                        "MinUpgradeLevel": [
+                            3, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "StatusDuration": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TargetingFilter": {
+                    "Include": {
+                        "TowerType": [
+                            "MonkeyVillage"
+                        ]
+                    }
+                }, 
+                "TowerModifier": {
+                    "Modifier": {
+                        "CostScale": [
+                            0.99, 
+                            0
+                        ], 
+                        "WeaponSlot": 0
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "TargetRange": [
+                            1.04, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "CooldownScale": [
+                            0.99, 
+                            0
+                        ], 
+                        "MinUpgradeLevel": [
+                            2, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "CashPerPopScale": [
+                            1, 
+                            0.1
+                        ], 
+                        "MinUpgradeLevel": [
+                            3, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "StatusDuration": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TargetingFilter": {
+                    "Include": {
+                        "TowerType": [
+                            "MonkeyVillage"
+                        ]
+                    }
+                }, 
+                "TowerModifier": {
+                    "Modifier": {
+                        "CostScale": [
+                            0.99, 
+                            0
+                        ], 
+                        "WeaponSlot": 0
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "TargetRange": [
+                            1.04, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "CooldownScale": [
+                            0.99, 
+                            0
+                        ], 
+                        "MinUpgradeLevel": [
+                            2, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "CashPerPopScale": [
+                            1, 
+                            0.1
+                        ], 
+                        "MinUpgradeLevel": [
+                            3, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "StatusDuration": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }
+        ], 
+        "TargetingFilter": {
+            "Include": {
+                "TowerType": [
+                    "MonkeyVillage"
+                ]
+            }
+        }, 
+        "displayOrder": 15, 
+        "icon": "MonkeyVillage_avatar"
+    }, 
+    "MortarTower": {
+        "Effect": [
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "MortarTower": 0.98
+                    }, 
+                    "UpgradeCost": {
+                        "MortarTower": 0.98
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "BaseWeaponCooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "EnabledSubtasks": [
+                            [
+                                0, 
+                                [
+                                    0, 
+                                    0
+                                ], 
+                                true
+                            ]
+                        ], 
+                        "MaxTargets": [
+                            1, 
+                            3.0
+                        ], 
+                        "MinUpgradeLevel": [
+                            0, 
+                            3
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "StatusDuration": [
+                            1, 
+                            1.0
+                        ], 
+                        "WeaponSlot": 0
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "Damage": [
+                            1, 
+                            1.0
+                        ], 
+                        "MinUpgradeLevel": [
+                            4, 
+                            0
+                        ], 
+                        "WeaponSlot": 0
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "MortarTower": 0.98
+                    }, 
+                    "UpgradeCost": {
+                        "MortarTower": 0.98
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "BaseWeaponCooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "EnabledSubtasks": [
+                            [
+                                0, 
+                                [
+                                    0, 
+                                    0
+                                ], 
+                                true
+                            ]
+                        ], 
+                        "MaxTargets": [
+                            1, 
+                            1.0
+                        ], 
+                        "MinUpgradeLevel": [
+                            0, 
+                            3
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "StatusDuration": [
+                            1, 
+                            2.0
+                        ], 
+                        "WeaponSlot": 0
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "Damage": [
+                            1, 
+                            1.0
+                        ], 
+                        "MinUpgradeLevel": [
+                            4, 
+                            0
+                        ], 
+                        "WeaponSlot": 0
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "MortarTower": 0.98
+                    }, 
+                    "UpgradeCost": {
+                        "MortarTower": 0.98
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "BaseWeaponCooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "EnabledSubtasks": [
+                            [
+                                0, 
+                                [
+                                    0, 
+                                    0
+                                ], 
+                                true
+                            ]
+                        ], 
+                        "MaxTargets": [
+                            1, 
+                            1.0
+                        ], 
+                        "MinUpgradeLevel": [
+                            0, 
+                            3
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "StatusDuration": [
+                            1, 
+                            2.0
+                        ], 
+                        "WeaponSlot": 0
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "Damage": [
+                            1, 
+                            1.0
+                        ], 
+                        "MinUpgradeLevel": [
+                            4, 
+                            0
+                        ], 
+                        "WeaponSlot": 0
+                    }
+                }
+            }
+        ], 
+        "TargetingFilter": {
+            "Include": {
+                "TowerType": [
+                    "MortarTower"
+                ]
+            }
+        }, 
+        "displayOrder": 9, 
+        "icon": "MortarTower_avatar"
+    }, 
+    "NinjaMonkey": {
+        "Effect": [
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "TargetRange": [
+                            1.02, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "ProjectileCutOff": [
+                            1.25, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "PoppingPower": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "NinjaMonkey": [
+                            {
+                                "Upgrade": [
+                                    0, 
+                                    3
+                                ], 
+                                "value": [
+                                    0.85, 
+                                    0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "FireCount": [
+                            1, 
+                            1.0
+                        ], 
+                        "MinUpgradeLevel": [
+                            4, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "TargetRange": [
+                            1.02, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "ProjectileCutOff": [
+                            1.25, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "PoppingPower": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "NinjaMonkey": [
+                            {
+                                "Upgrade": [
+                                    0, 
+                                    3
+                                ], 
+                                "value": [
+                                    0.95, 
+                                    0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "FireCount": [
+                            1, 
+                            0.5
+                        ], 
+                        "MinUpgradeLevel": [
+                            4, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "TargetRange": [
+                            1.02, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "ProjectileCutOff": [
+                            1.25, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "PoppingPower": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "NinjaMonkey": [
+                            {
+                                "Upgrade": [
+                                    0, 
+                                    3
+                                ], 
+                                "value": [
+                                    0.95, 
+                                    0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "FireCount": [
+                            1, 
+                            0.5
+                        ], 
+                        "MinUpgradeLevel": [
+                            4, 
+                            0
+                        ]
+                    }
+                }
+            }
+        ], 
+        "TargetingFilter": {
+            "Include": {
+                "TowerType": [
+                    "NinjaMonkey"
+                ]
+            }
+        }, 
+        "displayOrder": 5, 
+        "icon": "NinjaMonkey_avatar"
+    }, 
+    "SniperMonkey": {
+        "Effect": [
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "SniperMonkey": 0.97
+                    }, 
+                    "UpgradeCost": {
+                        "SniperMonkey": 0.97
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "BaseWeaponCooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "Damage": [
+                            1, 
+                            0.5
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "Damage": [
+                            1, 
+                            0.5
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "SniperMonkey": [
+                            {
+                                "Upgrade": [
+                                    1, 
+                                    0
+                                ], 
+                                "value": [
+                                    1, 
+                                    -80.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "SniperMonkey": 0.97
+                    }, 
+                    "UpgradeCost": {
+                        "SniperMonkey": 0.97
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "BaseWeaponCooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "Damage": [
+                            1, 
+                            0.5
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "Damage": [
+                            1, 
+                            0.5
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "SniperMonkey": [
+                            {
+                                "Upgrade": [
+                                    1, 
+                                    0
+                                ], 
+                                "value": [
+                                    1, 
+                                    -40.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "SniperMonkey": 0.97
+                    }, 
+                    "UpgradeCost": {
+                        "SniperMonkey": 0.97
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "BaseWeaponCooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "Damage": [
+                            1, 
+                            0.5
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "Damage": [
+                            1, 
+                            0.5
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "SniperMonkey": [
+                            {
+                                "Upgrade": [
+                                    1, 
+                                    0
+                                ], 
+                                "value": [
+                                    1, 
+                                    -20.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        ], 
+        "TargetingFilter": {
+            "Include": {
+                "TowerType": [
+                    "SniperMonkey"
+                ]
+            }
+        }, 
+        "displayOrder": 4, 
+        "icon": "SniperMonkey_avatar"
+    }, 
+    "SpikeFactory": {
+        "Effect": [
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "PoppingPower": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "SpikeFactory": 0.97
+                    }, 
+                    "UpgradeCost": {
+                        "SpikeFactory": 0.97
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "MOABDamageScale": [
+                            1.2, 
+                            0
+                        ], 
+                        "MinUpgradeLevel": [
+                            0, 
+                            3
+                        ], 
+                        "WeaponSlot": 1
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "CeramicDamageScale": [
+                            1, 
+                            3.0
+                        ], 
+                        "MinUpgradeLevel": [
+                            3, 
+                            0
+                        ], 
+                        "WeaponSlot": 0
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "AbilityCooldown": [
+                            1, 
+                            -5.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "PoppingPower": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "SpikeFactory": 0.97
+                    }, 
+                    "UpgradeCost": {
+                        "SpikeFactory": 0.97
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "MOABDamageScale": [
+                            1.2, 
+                            0
+                        ], 
+                        "MinUpgradeLevel": [
+                            0, 
+                            3
+                        ], 
+                        "WeaponSlot": 1
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "CeramicDamageScale": [
+                            1, 
+                            1.0
+                        ], 
+                        "MinUpgradeLevel": [
+                            3, 
+                            0
+                        ], 
+                        "WeaponSlot": 0
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "AbilityCooldown": [
+                            1, 
+                            -2.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "PoppingPower": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "SpikeFactory": 0.97
+                    }, 
+                    "UpgradeCost": {
+                        "SpikeFactory": 0.97
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "MOABDamageScale": [
+                            1.2, 
+                            0
+                        ], 
+                        "MinUpgradeLevel": [
+                            0, 
+                            3
+                        ], 
+                        "WeaponSlot": 1
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "CeramicDamageScale": [
+                            1, 
+                            1.0
+                        ], 
+                        "MinUpgradeLevel": [
+                            3, 
+                            0
+                        ], 
+                        "WeaponSlot": 0
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "AbilityCooldown": [
+                            1, 
+                            -5.0
+                        ]
+                    }
+                }
+            }
+        ], 
+        "TargetingFilter": {
+            "Include": {
+                "TowerType": [
+                    "SpikeFactory"
+                ]
+            }
+        }, 
+        "displayOrder": 11, 
+        "icon": "SpikeFactory_avatar"
+    }, 
+    "SuperMonkey": {
+        "Effect": [
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "TargetRange": [
+                            1.05, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "SuperMonkey": [
+                            {
+                                "Upgrade": [
+                                    1, 
+                                    0
+                                ], 
+                                "value": [
+                                    1, 
+                                    -300.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "SuperMonkey": [
+                            {
+                                "Upgrade": [
+                                    3, 
+                                    0
+                                ], 
+                                "value": [
+                                    1, 
+                                    -500.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "AbilityCooldown": [
+                            1, 
+                            -1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "SacrificeScale": [
+                            1.1, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "TargetRange": [
+                            1.05, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "SuperMonkey": [
+                            {
+                                "Upgrade": [
+                                    1, 
+                                    0
+                                ], 
+                                "value": [
+                                    1, 
+                                    -100.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "SuperMonkey": [
+                            {
+                                "Upgrade": [
+                                    3, 
+                                    0
+                                ], 
+                                "value": [
+                                    1, 
+                                    -250.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "AbilityCooldown": [
+                            1, 
+                            -1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "SacrificeScale": [
+                            1.1, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "TargetRange": [
+                            1.05, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "SuperMonkey": [
+                            {
+                                "Upgrade": [
+                                    1, 
+                                    0
+                                ], 
+                                "value": [
+                                    1, 
+                                    -100.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "SuperMonkey": [
+                            {
+                                "Upgrade": [
+                                    3, 
+                                    0
+                                ], 
+                                "value": [
+                                    1, 
+                                    -250.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "AbilityCooldown": [
+                            1, 
+                            -1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "SacrificeScale": [
+                            1.1, 
+                            0
+                        ]
+                    }
+                }
+            }
+        ], 
+        "TargetingFilter": {
+            "Include": {
+                "TowerType": [
+                    "SuperMonkey"
+                ]
+            }
+        }, 
+        "displayOrder": 8, 
+        "icon": "SuperMonkey_avatar"
+    }, 
+    "TackTower": {
+        "Effect": [
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "BaseWeaponCooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "TackTower": [
+                            {
+                                "Upgrade": [
+                                    0, 
+                                    3
+                                ], 
+                                "value": [
+                                    1, 
+                                    -100.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "PoppingPower": [
+                            1, 
+                            0.5
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "PoppingPower": [
+                            1, 
+                            0.5
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "TackTower": 0.85
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "BaseWeaponCooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "TackTower": [
+                            {
+                                "Upgrade": [
+                                    0, 
+                                    3
+                                ], 
+                                "value": [
+                                    1, 
+                                    -50.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "PoppingPower": [
+                            1, 
+                            0.5
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "PoppingPower": [
+                            1, 
+                            0.5
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "TackTower": 0.82353
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "BaseWeaponCooldown": [
+                            0.95, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "SpecificUpgradeCost": {
+                        "TackTower": [
+                            {
+                                "Upgrade": [
+                                    0, 
+                                    3
+                                ], 
+                                "value": [
+                                    1, 
+                                    -50.0
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "PoppingPower": [
+                            1, 
+                            0.5
+                        ]
+                    }
+                }
+            }, 
+            {
+                "TowerModifier": {
+                    "Modifier": {
+                        "PoppingPower": [
+                            1, 
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            {
+                "RulesMod": {
+                    "TowerCost": {
+                        "TackTower": 0.785714
+                    }
+                }
+            }
+        ], 
+        "TargetingFilter": {
+            "Include": {
+                "TowerType": [
+                    "TackTower"
+                ]
+            }
+        }, 
+        "displayOrder": 3, 
+        "icon": "TackTower_avatar"
+    }, 
+    "WildCard": {
+        "Effect": [
+            {}, 
+            {}, 
+            {}, 
+            {}, 
+            {}, 
+            {}, 
+            {}, 
+            {}, 
+            {}, 
+            {}, 
+            {}, 
+            {}, 
+            {}, 
+            {}, 
+            {}
+        ], 
+        "TargetingFilter": {
+            "Exclude": {
+                "TowerType": [
+                    "DartMonkey", 
+                    "BoomerangThrower", 
+                    "BombTower", 
+                    "TackTower", 
+                    "SniperMonkey", 
+                    "NinjaMonkey", 
+                    "IceTower", 
+                    "MonkeyApprentice", 
+                    "SuperMonkey", 
+                    "MortarTower", 
+                    "DartlingGun", 
+                    "SpikeFactory", 
+                    "MonkeyAce", 
+                    "GlueGunner", 
+                    "MonkeyBuccaneer", 
+                    "MonkeyVillage", 
+                    "BananaFarm", 
+                    "MonkeyEngineer", 
+                    "Bloonchipper", 
+                    "HeliPilot", 
+                    "MonkeySub"
+                ]
+            }
+        }, 
+        "displayOrder": -1, 
+        "icon": "Wildcard_avatar"
+    }
+}

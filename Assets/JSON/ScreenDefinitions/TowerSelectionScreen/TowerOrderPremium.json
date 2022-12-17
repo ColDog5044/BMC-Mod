@@ -1,0 +1,14 @@
+{
+    "Items": [
+        {
+            "Icon": "red_hot_spikes_icon",
+            "FactoryName": "RedHotSpikes",
+            "ObjectType": 1
+        },
+        {
+            "Icon": "tower_boost_icon",
+            "FactoryName": "SupplyCrate/TowerBoost.weapon",
+            "ObjectType": 2
+        }
+    ]
+}

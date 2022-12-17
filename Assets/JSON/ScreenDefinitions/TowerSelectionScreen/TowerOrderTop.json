@@ -1,0 +1,14 @@
+{
+	"Items" : [
+	   { "Icon" : "dart_monkey_icon", "FactoryName" : "DartMonkey", "ObjectType" : 0 },
+	   { "Icon" : "sniper_icon", "FactoryName" : "SniperMonkey", "ObjectType" : 0 },
+	   { "Icon" : "ninja_icon", "FactoryName" : "NinjaMonkey", "ObjectType" : 0 },
+	   { "Icon" : "ice_icon", "FactoryName" : "IceTower", "ObjectType" : 0 },
+	   { "Icon" : "buccaneer_icon", "FactoryName" : "MonkeyBuccaneer", "ObjectType" : 0 },
+	   { "Icon" : "supermonkey_icon", "FactoryName" : "SuperMonkey", "ObjectType" : 0 },
+	   { "Icon" : "village_icon", "FactoryName" : "MonkeyVillage", "ObjectType" : 0 },
+	   { "Icon" : "mortar_icon", "FactoryName" : "MortarTower", "ObjectType" : 0 },
+	   { "Icon" : "spike_factory_icon", "FactoryName" : "SpikeFactory", "ObjectType" : 0 },
+       { "Icon" : "engineer_icon", "FactoryName" : "MonkeyEngineer", "ObjectType" : 0 }
+	]
+}

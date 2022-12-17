@@ -1,0 +1,81 @@
+{
+   "Alignment" : null,
+   "Point" : null,
+   "actors" : [
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 3.0, 40.0 ],
+         "Scale" : [ 1.299999952316284, 1.0 ],
+         "Shown" : true,
+         "sprite" : "copter_shadow",
+         "type" : 1,
+         "uid" : 12
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -0.1226413249969482, -0.02366465330123901 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "_rotors.json",
+         "type" : 2,
+         "uid" : 13
+      }
+   ],
+   "customvariables" : null,
+   "labels" : null,
+   "stageOptions" : {
+      "SpriteInfo" : [
+         {
+            "SpriteInfo" : "copter_shadow",
+            "Texture" : "contested_territory"
+         },
+         {
+            "SpriteInfo" : "_rotors.json",
+            "Texture" : "contested_territory"
+         }
+      ],
+      "StageLength" : 0.1000000014901161,
+      "Version" : 1
+   },
+   "timelines" : [
+      {
+         "spriteuid" : 12,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 3.0, 40.0 ],
+               "Scale" : [ 1.299999952316284, 1.0 ],
+               "Shown" : true,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ 3.268869400024414, 39.77350616455078 ],
+               "Scale" : [ 1.0, 1.0 ],
+               "Shown" : true,
+               "Time" : 0.0
+            }
+         ]
+      },
+      {
+         "spriteuid" : 13,
+         "stage" : null
+      }
+   ]
+}

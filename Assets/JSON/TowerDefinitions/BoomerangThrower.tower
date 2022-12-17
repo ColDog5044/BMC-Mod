@@ -1,0 +1,78 @@
+{
+    "AircraftList" : [],
+    "BaseCost" : 350,
+    "CanBePlacedInWater" : true,
+    "CanBePlacedOnLand" : true,
+    "CanBePlacedOnPath" : false,
+    "CanTargetCamo" : true,
+    "DefaultWeapons" : [ "BoomerangThrower.weapon" ],
+    "Icon" : "boomerang_avatar_small",
+    "UI_Icon" : "boomerang_icon",
+    "RankToUnlock" : 4,
+    "RotatesToTarget" : true,    
+    "TargetIsWeaponOrigin" : false,
+    "TargetingMode" : "First",
+    "TargetsManually" : false,
+    "TypeName" : "BoomerangThrower",
+    
+    "Upgrades" : [
+        [
+            "Multi-Target",
+            "Glaive Thrower",
+            "Glaive Riccochet",
+            "Glaive Lord"
+        ],
+        [
+            "Sonic Boom",
+            "Red Hot Rangs",
+            "Bionic Boomer",
+            "Turbo Charge"
+        ]
+    ],
+	"UpgradeGateway" :
+	[
+		[ { "Rank" : 0, "XP" : 100 }, { "Rank" : 0, "XP" : 905 }, { "Rank" : 0, "XP" : 3260 }, { "Rank" : 24, "XP" : 15248 } ],
+		[ { "Rank" : 0, "XP" : 360 }, { "Rank" : 0, "XP" : 1475 }, { "Rank" : 0, "XP" : 5445 }, { "Rank" : 24, "XP" : 24578 } ]
+	],
+    "UpgradePrices" : 
+    [
+        [ 250, 280, 1500, 9000 ],
+        [ 100, 150, 1600, 3000 ]
+    ],
+    "UpgradeAvatars" : [
+        [
+            "boomerang_avatar_multi_target_small",
+            "boomerang_avatar_glaive_thrower_small",
+            "boomerang_avatar_glaive_riccochet_small",
+            "boomerang_avatar_glaive_lord_small"
+        ],
+        [
+            "boomerang_avatar_sonic_boom_small",
+            "boomerang_avatar_red_hot_rangs_small",
+            "boomerang_avatar_bionic_boomer_small",
+            "boomerang_avatar_turbo_charge_small"
+        ]
+    ],
+    
+    "UpgradeIcons" : [
+        [
+            "boomerang_multi_target_icon",
+            "boomerang_glaive_thrower_icon",
+            "boomerang_glaive_riccochet_icon",
+            "boomerang_glaive_lord_icon"
+        ],
+        [
+            "boomerang_sonic_boom_icon",
+            "boomerang_red_hot_icon",
+            "boomerang_bionic_boomer_icon",
+            "boomerang_turbo_charge_icon"
+        ]
+    ],
+    
+    "UseRadiusPlacement"    : true,
+    "PlacementRadius"       : 0.0,
+    "PlacementH"            : 0.0,
+    "PlacementW"            : 0.0,
+    "SpriteUpgradeDefinition" : "BoomerangTower.json",
+    "AnimationWeaponSlotIndex" : 0
+}

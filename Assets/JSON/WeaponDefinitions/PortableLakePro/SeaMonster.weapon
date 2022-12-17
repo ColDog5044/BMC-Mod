@@ -1,0 +1,50 @@
+{	
+    "Type":             "SeaMonster",    
+	"DefaultSprite": 	"PortableLakeProTentacle.json",
+    "TargetRange":      180,
+	"CooldownTime":     1.714,
+    "FireDelayTime":    0,
+	"TargetsIndependently": true,
+   
+    "Tasks" :
+    [
+		{
+			"Type": "Projectile",
+			
+			"CollisionType": "Once",
+			"Range": 30,
+
+			"NumPersists": 20,
+			"TerminateOnZeroPersists": true,
+			
+			"HasLimitedDuration": true,
+			"LimitedDuration": 1,
+			
+			"Movement":
+			{
+				"Type": "Forward",
+				"Speed": 800,
+				"CutOffDistance": 180
+			},
+						
+			"Tasks" :
+			[
+				{
+					"Type": "StatusEffect",
+					"Status": "MultiLayerDamage"
+				},
+				{
+					"Type": "Damage",
+					"DamageType": "Plasma",
+					"Amount": 5
+				},
+				{
+					"Type": "StatusEffect",
+					"Status": "Stun",
+					"NumPersists" : -1,
+					"Duration" : 1
+				}
+			]
+		}
+	]
+}

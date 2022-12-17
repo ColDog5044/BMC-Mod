@@ -1,0 +1,116 @@
+{
+   "Alignment" : null,
+   "Point" : null,
+   "actors" : [
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : -5.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -170.0, -2.0 ],
+         "Scale" : [ 4.0, 4.1 ],
+         "Shown" : true,
+         "sprite" : "curtains",
+         "type" : 1,
+         "uid" : 3
+      },
+      {
+         "Alignment" : [ 0, 3 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -308.0, -192.0 ],
+         "Scale" : [ 1.0, 26.0 ],
+         "Shown" : true,
+         "sprite" : "wall",
+         "type" : 1,
+         "uid" : 1
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 5.0,
+         "Colour" : 4294967295,
+         "Flip" : 1,
+         "Position" : [ 170.0, -2.0 ],
+         "Scale" : [ 4.0, 4.1 ],
+         "Shown" : true,
+         "sprite" : "curtains",
+         "type" : 1,
+         "uid" : 4
+      },
+      {
+         "Alignment" : [ 0, 3 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 1,
+         "Position" : [ 308.0, -192.0 ],
+         "Scale" : [ 1.0, 26.0 ],
+         "Shown" : true,
+         "sprite" : "wall",
+         "type" : 1,
+         "uid" : 2
+      }
+   ],
+   "customvariables" : null,
+   "events" : null,
+   "labels" : null,
+   "stageOptions" : {
+      "SpriteInfo" : [
+         {
+            "SpriteInfo" : "curtains",
+            "Texture" : "achievements"
+         },
+         {
+            "SpriteInfo" : "wall",
+            "Texture" : "achievements"
+         }
+      ],
+      "StageLength" : 20.0,
+      "Version" : 1
+   },
+   "timelines" : [
+      {
+         "spriteuid" : 3,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -5.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -170.0, -2.0 ],
+               "Scale" : [ 4.0, 4.1 ],
+               "Shown" : true,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : -5.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -170.0, -2.0 ],
+               "Scale" : [ 4.1, 4.0 ],
+               "Shown" : true,
+               "Time" : 0.0
+            }
+         ]
+      },
+      {
+         "spriteuid" : 1,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 4,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 2,
+         "stage" : null
+      }
+   ]
+}

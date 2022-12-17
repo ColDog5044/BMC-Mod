@@ -1,0 +1,77 @@
+{
+    "TypeName"				: "AngrySquirrelPro",
+    "Icon"					: "squirrel_pro_avatar_small",
+    "BaseCost"				: 0,
+    "RankToUnlock"			: 0,
+    "DefaultWeapons"	    : [ "AngrySquirrelPro.weapon", "AngrySquirrelAngryPro.weapon" ],
+    "SlotsToFireOnBloonEscape" : [ 1 ],
+    "SlotsToFireEveryNShots" : [ 1 ],
+    "NumberOfShotsToFire"   : 50,
+    "TargetingMode"			: "First",
+    "TargetsManually"		: false,
+    "TargetIsWeaponOrigin"	: false,
+    
+    "Upgrades" :
+    [
+    	[ ],
+    	[ ]
+    ],   
+    "UpgradePrices" : 
+    [
+        [ ],
+        [ ]
+    ],
+	"UpgradeGateway" :
+	[
+		[ ],
+		[ ]
+	],
+    "UpgradeAvatars" :
+    [
+    	[ 
+        "banana_farm_avatar_more_bananas_small", 
+        "banana_farm_avatar_plantation_small", 
+        "banana_farm_avatar_republic_small", 
+        "banana_farm_avatar_brf_small" 
+        ],
+    	[ 
+        "banana_farm_avatar_long_life_small", 
+        "banana_farm_avatar_valuable_bananas_small", 
+        "banana_farm_avatar_bank_small", 
+        "banana_farm_avatar_investments_small" 
+        ]
+    ], 
+       
+    "UpgradeIcons" :
+    [
+    	[ 
+        "banana_farm_more_bananas_icon", 
+        "banana_farm_plantation_icon", 
+        "banana_farm_republic_icon", 
+        "banana_farm_brf_icon" 
+        ],
+    	[ 
+        "banana_farm_long_life_icon", 
+        "banana_farm_valuable_icon", 
+        "banana_farm_bank_icon", 
+        "banana_farm_investments_icon" 
+        ]
+    ],
+    
+    "AircraftList"			: [ ],
+    
+    "DefaultSprite"         : "AngrySquirrelNormal.json",
+    "CanTargetCamo"			: false,
+    "RotatesToTarget"		: true,
+    
+    "CanBePlacedInWater"	: false,
+    "CanBePlacedOnLand"		: true,
+    "CanBePlacedOnPath"		: false,
+    
+    "UseRadiusPlacement"	: true,
+    "PlacementRadius"		: 8.0,
+    "PlacementW"			: 42.0,
+    "PlacementH"			: 42.0,
+    "SpriteUpgradeDefinition" : "AngrySquirrelPro.json",
+    "IsAgent" : true
+}

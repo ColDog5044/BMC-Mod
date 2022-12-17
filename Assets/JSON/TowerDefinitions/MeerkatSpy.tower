@@ -1,0 +1,57 @@
+{
+    "AircraftList" : [ ],
+    "BaseCost" : 0,
+    "CanBePlacedInWater" : false,
+    "CanBePlacedOnLand" : true,
+    "CanBePlacedOnPath" : false,
+    "CanTargetCamo" : true,
+    "DefaultWeapons" : [
+        "MeerkatSpy.weapon"
+    ],
+	"DrawWeaponsOnTop" : true,
+    "Icon" : "meerkat_avatar_small",
+    "PlacementH" : 0.0,
+    "PlacementRadius" : 10.0,
+    "PlacementW" : 0.0,
+    "RankToUnlock" : 1,
+    "RotatesToTarget" : false,
+    "Specialities" : [
+    ],
+    "TargetIsWeaponOrigin" : false,
+    "TargetingMode" : "Any",
+    "TargetsManually" : false,
+    "TypeName" : "MeerkatSpy",
+    "Upgrades" : [
+        [
+        ],
+        [
+        ]
+    ],
+	"UpgradeGateway" :
+	[
+		[ { "Rank" : 0, "XP" : 50 } ],
+		[  ]
+	],
+    "UpgradePrices" : 
+    [
+        [  ],
+        [  ]
+    ],
+    "UpgradeIcons" : [
+        [
+        ],
+        [
+        ]
+    ],
+    "UpgradeAvatars" : [
+        [
+        ],
+        [
+        ]
+    ],
+    "UseRadiusPlacement" : true,
+    "SpriteUpgradeDefinition" : "MeerkatSpy.json",
+    "PlacementFiringSequence" : [ 0 ],
+    "SkipFirstFrameWhenFiring" : true,
+    "IsAgent" : true
+}

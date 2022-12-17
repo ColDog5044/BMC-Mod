@@ -1,0 +1,756 @@
+{
+    "Data": [
+        {
+            "_ID": "Grass1Def", 
+            "difficulty": 1.1, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "GrassTerrain", 
+            "old": 1.2, 
+            "old2": 1.1
+        }, 
+        {
+            "_ID": "Grass2Def", 
+            "difficulty": 1.05, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "GrassTerrain", 
+            "old": 1.15, 
+            "old2": 1.05
+        }, 
+        {
+            "_ID": "Grass3Def", 
+            "difficulty": 1.18, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "GrassTerrain", 
+            "old": 1.28, 
+            "old2": 1.18
+        }, 
+        {
+            "_ID": "Grass4Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "GrassTerrain", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Grass5Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "GrassTerrain", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Grass6Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "GrassTerrain", 
+            "old": 1.05, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Grass7Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "GrassTerrain", 
+            "old": 1.05, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Grass8Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "GrassTerrain", 
+            "old": 1.05, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Grass9Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "GrassTerrain", 
+            "old": 1.05, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Forest1Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "ForestTerrain", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Forest2Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "ForestTerrain", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Forest3Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "ForestTerrain", 
+            "old": 1.05, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Forest4Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "ForestTerrain", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Forest5Def", 
+            "difficulty": 1.25, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "ForestTerrain", 
+            "old": 1.35, 
+            "old2": 1.25
+        }, 
+        {
+            "_ID": "Forest6Def", 
+            "difficulty": 1.25, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "ForestTerrain", 
+            "old": 1.35, 
+            "old2": 1.25
+        }, 
+        {
+            "_ID": "Forest7Def", 
+            "difficulty": 1.25, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "ForestTerrain", 
+            "old": 1.35, 
+            "old2": 1.25
+        }, 
+        {
+            "_ID": "HeavyForest1Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "HeavyForestTerrain", 
+            "old": 1.1, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "HeavyForest2Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "HeavyForestTerrain", 
+            "old": 1.1, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "HeavyForest3Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "HeavyForestTerrain", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "HeavyForest4Def", 
+            "difficulty": 1.1, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "HeavyForestTerrain", 
+            "old": 1.2, 
+            "old2": 1.1
+        }, 
+        {
+            "_ID": "HeavyForest5Def", 
+            "difficulty": 1.3, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "HeavyForestTerrain", 
+            "old": 1.25, 
+            "old2": 1.15
+        }, 
+        {
+            "_ID": "HeavyForest6Def", 
+            "difficulty": 1.3, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "HeavyForestTerrain", 
+            "old": 1.25, 
+            "old2": 1.15
+        }, 
+        {
+            "_ID": "HeavyForest7Def", 
+            "difficulty": 1.3, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "HeavyForestTerrain", 
+            "old": 1.25, 
+            "old2": 1.15
+        }, 
+        {
+            "_ID": "Hills1Def", 
+            "difficulty": 1.2, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "HillsTerrain", 
+            "old": 1.3, 
+            "old2": 1.2
+        }, 
+        {
+            "_ID": "Hills2Def", 
+            "difficulty": 1.15, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "HillsTerrain", 
+            "old": 1.25, 
+            "old2": 1.15
+        }, 
+        {
+            "_ID": "Hills3Def", 
+            "difficulty": 1.1, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "HillsTerrain", 
+            "old": 1.2, 
+            "old2": 1.1
+        }, 
+        {
+            "_ID": "Hills4Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "HillsTerrain", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Hills5Def", 
+            "difficulty": 1.2, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "HillsTerrain", 
+            "old": 1.3, 
+            "old2": 1.2
+        }, 
+        {
+            "_ID": "Mountain1Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "MountainTerrain", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Mountain2Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "MountainTerrain", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Mountain3Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "MountainTerrain", 
+            "old": 1.1, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Mountain4Def", 
+            "difficulty": 1.1, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "MountainTerrain", 
+            "old": 1.2, 
+            "old2": 1.1
+        }, 
+        {
+            "_ID": "Mountain5Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "MountainTerrain", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Mountain6Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "MountainTerrain", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Mountain7Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "MountainTerrain", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Volcano1Def", 
+            "difficulty": 1.25, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "VolcanoTerrain", 
+            "old": 1.35, 
+            "old2": 1.25
+        }, 
+        {
+            "_ID": "Volcano2Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "VolcanoTerrain", 
+            "old": 1.1, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Volcano3Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "VolcanoTerrain", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Volcano4Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "VolcanoTerrain", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Snow1Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "SnowTerrain", 
+            "old": 1.05, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Snow2Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "SnowTerrain", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Snow3Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "SnowTerrain", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Snow4Def", 
+            "difficulty": 1.3, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "SnowTerrain", 
+            "old": 1.4, 
+            "old2": 1.3
+        }, 
+        {
+            "_ID": "Snow5Def", 
+            "difficulty": 1.15, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "SnowTerrain", 
+            "old": 1.25, 
+            "old2": 1.15
+        }, 
+        {
+            "_ID": "Lake1Def", 
+            "difficulty": 1.1, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "LakeTerrain", 
+            "old": 1.2, 
+            "old2": 1.1
+        }, 
+        {
+            "_ID": "Lake2Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "LakeTerrain", 
+            "old": 1.1, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Lake3Def", 
+            "difficulty": 1.3, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "LakeTerrain", 
+            "old": 1.4, 
+            "old2": 1.3
+        }, 
+        {
+            "_ID": "Lake4Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "LakeTerrain", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Lake5Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "LakeTerrain", 
+            "old": 1.1, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Desert1Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "DesertTerrain", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Desert2Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "DesertTerrain", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Desert3Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "DesertTerrain", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Desert4Def", 
+            "difficulty": 1.15, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "DesertTerrain", 
+            "old": 1.25, 
+            "old2": 1.15
+        }, 
+        {
+            "_ID": "Desert5Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "DesertTerrain", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Desert6Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "DesertTerrain", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Desert7Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "DesertTerrain", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "River1Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "RiverTerrain", 
+            "old": 1.1, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "River2Def", 
+            "difficulty": 1.1, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "RiverTerrain", 
+            "old": 1.2, 
+            "old2": 1.1
+        }, 
+        {
+            "_ID": "River3Def", 
+            "difficulty": 1.05, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "RiverTerrain", 
+            "old": 1.15, 
+            "old2": 1.05
+        }, 
+        {
+            "_ID": "River4Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "RiverTerrain", 
+            "old": 1.1, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "River5Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "RiverTerrain", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Jungle1Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "JungleTerrain", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Jungle2Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "JungleTerrain", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Jungle3Def", 
+            "difficulty": 1.15, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "JungleTerrain", 
+            "old": 1.25, 
+            "old2": 1.15
+        }, 
+        {
+            "_ID": "Jungle4Def", 
+            "difficulty": 1.2, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "JungleTerrain", 
+            "old": 1.3, 
+            "old2": 1.2
+        }, 
+        {
+            "_ID": "Jungle5Def", 
+            "difficulty": 1.35, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "JungleTerrain", 
+            "old": 1.1, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "WattleTreesDef", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "WattleTrees", 
+            "mob_terrainType": "", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "TranquilGladeDef", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "TranquilGlade", 
+            "mob_terrainType": "", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "GlacierDef", 
+            "difficulty": 1.05, 
+            "mob_terrainSpecial": "Glacier", 
+            "mob_terrainType": "", 
+            "old": 1.15, 
+            "old2": 1.05
+        }, 
+        {
+            "_ID": "ShipwreckDef", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "Shipwreck", 
+            "mob_terrainType": "", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "PhaseCrystal1Def", 
+            "difficulty": 1.2, 
+            "mob_terrainSpecial": "PhaseCrystal", 
+            "mob_terrainType": "", 
+            "old": 1.3, 
+            "old2": 1.2
+        }, 
+        {
+            "_ID": "Ruins1Def", 
+            "difficulty": 1.2, 
+            "mob_terrainSpecial": "ConsecratedGround", 
+            "mob_terrainType": "", 
+            "old": 1.3, 
+            "old2": 1.2
+        }, 
+        {
+            "_ID": "CaveDef", 
+            "difficulty": 1.2, 
+            "mob_terrainSpecial": "Caves", 
+            "mob_terrainType": "", 
+            "old": 1.3, 
+            "old2": 1.2
+        }, 
+        {
+            "_ID": "StickySapDef", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "StickySapPlant", 
+            "mob_terrainType": "", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "MoabGraveyardDef", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "MOABGraveyard", 
+            "mob_terrainType": "", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "HeliCrash_Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "HeliCrash", 
+            "mob_terrainType": "", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Blueprints_Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "BloonchipperBlueprint", 
+            "mob_terrainType": "", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "SubmarineAlliance_Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "SubmarineAlliance", 
+            "mob_terrainType": "", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "EngineerRescue_Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "EngineerRescue", 
+            "mob_terrainType": "", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "ForgottenGarden_Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "ForgottenGarden", 
+            "mob_terrainType": "", 
+            "old": 1.0, 
+            "old2": 1.0
+        }, 
+        {
+            "_ID": "Badlands1", 
+            "difficulty": 1.05, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "", 
+            "old": -1, 
+            "old2": -1
+        }, 
+        {
+            "_ID": "Badlands2", 
+            "difficulty": 1.1, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "", 
+            "old": -1, 
+            "old2": -1
+        }, 
+        {
+            "_ID": "Badlands3", 
+            "difficulty": 1.1, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "", 
+            "old": -1, 
+            "old2": -1
+        }, 
+        {
+            "_ID": "Badlands4", 
+            "difficulty": 1.15, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "", 
+            "old": -1, 
+            "old2": -1
+        }, 
+        {
+            "_ID": "Grasslands1", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "", 
+            "old": -1, 
+            "old2": -1
+        }, 
+        {
+            "_ID": "Grasslands2", 
+            "difficulty": 1.05, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "", 
+            "old": -1, 
+            "old2": -1
+        }, 
+        {
+            "_ID": "Grasslands3", 
+            "difficulty": 1.2, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "", 
+            "old": -1, 
+            "old2": -1
+        }, 
+        {
+            "_ID": "Grasslands4", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "", 
+            "old": -1, 
+            "old2": -1
+        }, 
+        {
+            "_ID": "highDesert1", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "", 
+            "old": -1, 
+            "old2": -1
+        }, 
+        {
+            "_ID": "highDesert2", 
+            "difficulty": 1.05, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "", 
+            "old": -1, 
+            "old2": -1
+        }, 
+        {
+            "_ID": "highDesert3", 
+            "difficulty": 1.05, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "", 
+            "old": -1, 
+            "old2": -1
+        }, 
+        {
+            "_ID": "highDesert4", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "", 
+            "old": -1, 
+            "old2": -1
+        }, 
+        {
+            "_ID": "River6", 
+            "difficulty": 1.1, 
+            "mob_terrainSpecial": "", 
+            "mob_terrainType": "", 
+            "old": -1, 
+            "old2": -1
+        }, 
+        {
+            "_ID": "EventMission_Def", 
+            "difficulty": 1.0, 
+            "mob_terrainSpecial": "EventMission", 
+            "mob_terrainType": "", 
+            "old": 1.0, 
+            "old2": 1.0
+        }
+    ]
+}

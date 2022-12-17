@@ -1,0 +1,35 @@
+{
+    "AircraftList" : [ ],
+    "BaseCost" : 0,
+    "CanBePlacedInWater" : true,
+    "CanBePlacedOnLand" : true,
+    "CanBePlacedOnPath" : false,
+    "CanTargetCamo" : true,
+    "DefaultSprite" : "MonkeyEngineerCage.json",
+    "DefaultWeapons" : [
+        "ReleaseEngineer.weapon"
+    ],
+	"DrawWeaponsOnTop" : false,
+    "Icon" : "special_caged_engineer_avatar_small",
+    "PlacementH" : 0.0,
+    "PlacementRadius" : 20.0,
+    "PlacementW" : 0.0,
+    "RankToUnlock" : 1,
+    "RotatesToTarget" : false,
+    "KillOnBloonContact" : true,
+    "BloonKillRadius" : 30.0,
+    "TargetIsWeaponOrigin" : false,
+    "TargetingMode" : "None",
+    "TargetsManually" : false,
+    "TypeName" : "MonkeyEngineerCage",
+	"UpgradeGateway" :
+	[
+		[  ],
+		[  ]
+	],
+
+    "UseRadiusPlacement" : true,
+    "SkipFirstFrameWhenFiring" : false,
+    "IsAgent" : true,
+    "UseDefaultRangeCircle" : true
+}

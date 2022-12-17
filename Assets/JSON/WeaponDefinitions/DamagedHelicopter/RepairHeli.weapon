@@ -1,0 +1,24 @@
+{	
+    "Type":             	"RepairHeli",
+    "TargetRange":      	1000,
+    "CooldownTime":     	0.0,
+    "FireDelayTime":    	0.0,
+   	"ManuallyFired": 		true,
+    "AllowSpecialBetweenRounds": true,
+	"RequiresTargetToFire":	false,
+    "DrawWhenOutOfAmmo" : false,
+	"TotalAmmo" : 1,
+	"RemainingAmmo" : 1,
+    "CostToFire": 1000,
+    "Tasks" :
+    [
+		{
+			"Type": "CreateTower",
+			"TowerType" : "HeliPilot",
+            "TowerColour" : [ 255, 255, 255, 255 ],
+            "HasParentTower" : false,
+            "UseParentTowerUpgradeLevel": true,
+            "DestroyParent" : true
+		}
+	]
+}

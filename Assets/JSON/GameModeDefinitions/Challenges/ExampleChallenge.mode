@@ -1,0 +1,21 @@
+{
+	"Setup" : {
+		"Inventory" : [
+			{ 
+				"Type" : "BeeKeeper",
+				"Amount" : 1
+			}
+		]
+	},
+	
+	"Rules" : {
+		"LockedUpgrades" : [
+			{ 
+				"Type" : "DartMonkey",
+				
+				"__comment" : "This specifies that the dart monkey can only be upgraded to 0/0",
+				"Upgrades" : [ 1, 1 ]
+			}
+		]
+	}
+}

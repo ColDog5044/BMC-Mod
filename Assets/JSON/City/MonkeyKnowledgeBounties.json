@@ -1,0 +1,54 @@
+{
+    "Data": [
+        {
+            "_ID": "mkp", 
+            "requiredLevel": 12, 
+            "rewards": "{\"MKNormalPacks\":4}"
+        }, 
+        {
+            "_ID": "wkp", 
+            "requiredLevel": 12, 
+            "rewards": "{\"MKWildcardPacks\":2}"
+        }, 
+        {
+            "_ID": "amkp", 
+            "requiredLevel": 12, 
+            "rewards": "{\"MKSpecialPacks\":1}"
+        }, 
+        {
+            "_ID": "rhs", 
+            "requiredLevel": 12, 
+            "rewards": "{\"Spikes\":10}"
+        }, 
+        {
+            "_ID": "boosts", 
+            "requiredLevel": 12, 
+            "rewards": "{\"Boosts\":5}"
+        }, 
+        {
+            "_ID": "crates", 
+            "requiredLevel": 12, 
+            "rewards": "{\"Crates\":5}"
+        }, 
+        {
+            "_ID": "boss_abilities", 
+            "requiredLevel": 12, 
+            "rewards": "{\"BossBanes\":1,\"BossChills\":1,\"BossBlasts\":1,\"BossWeakens\":1}"
+        }, 
+        {
+            "_ID": "cash", 
+            "requiredLevel": 15, 
+            "rewards": "{\"Cash\":20000}"
+        }, 
+        {
+            "_ID": "bloonstones", 
+            "requiredLevel": 15, 
+            "rewards": "{\"Bloonstones\":30}"
+        }, 
+        {
+            "_ID": "secret", 
+            "requiredLevel": 15, 
+            "rewards": "{}"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{	
+    "Type":             "RazorRotors",    
+    "TargetRange":      90,
+	"CooldownTime":     0.3,
+    "FireDelayTime":    0.0,
+   
+    "Tasks" :
+    [
+		{
+			"Type" : "AreaOfEffect",
+			"Range" : 90,
+			"MaxTargets" : 5,
+			
+			"Tasks" :
+			[
+				{
+					"Type" : "Damage",
+					"DamageType" : "Plasma",
+					"Amount" : 1
+				}
+			]
+		}
+	]
+}

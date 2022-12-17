@@ -1,0 +1,37 @@
+{
+    "AircraftList" : [
+    ],
+    "BaseCost" : 5,
+    "CanBePlacedInWater" : false,
+    "CanBePlacedOnLand" : false,
+    "CanBePlacedOnPath" : true,
+    "CanTargetCamo" : true,
+    "DefaultWeapons" : [
+        "RedHotSpikes.weapon"
+    ],
+    "FireWeaponAndDestroy" : true,
+    "Icon" : "",
+    "PlacementH" : 0.0,
+    "PlacementRadius" : 8.0,
+    "PlacementW" : 0.0,
+    "RankToUnlock" : 1,
+    "RotatesToTarget" : false,
+    "DefaultSprite" : "RedHotTacks.json",
+    "TargetIsWeaponOrigin" : false,
+    "TargetingMode" : "First",
+    "TargetsManually" : false,
+    "TypeName" : "RedHotSpikes",
+    "Upgrades" : [
+        [
+        ],
+        [
+        ]
+    ],
+    "UpgradePrices" : 
+    [
+        [ 0, 0, 0, 0 ],
+        [ 0, 0, 0, 0 ]
+    ],
+    "UseRadiusPlacement" : true,
+    "CanBePlacedMultipleTimes" : false
+}

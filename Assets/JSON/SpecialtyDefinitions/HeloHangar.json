@@ -1,0 +1,69 @@
+{
+	"Name" : "LOC_SPEC_Heli",
+	"Icon" : "helo_hangar_building",
+	"Building" : "helo_hangar",
+	"Prices" : [ 1000, 1000, 1500, 1500 ],
+	"Effects" :
+	{
+		"I" :
+		{
+			"Text" : "LOC_SPEC_Heli_I",
+			"TowerModifiers" :
+			[{
+				"TargetingFilter" : { "Include" : { "TowerType": [ "HeliPilot" ] } },
+				"Modifier" : { "Cost": [ 0.95, 0 ] }
+			}]
+		},
+		
+		"II" :
+		{
+			"Text" : "LOC_SPEC_Heli_II",
+			"TowerModifiers" :
+			[{
+				"TargetingFilter" : { "Include" : { "TowerType": [ "HeliPilotAircraft" ] } },
+				"Modifier" :
+				{
+					"FireDelay" : [ 0.9090909, 0 ],
+					"Cooldown"  : [ 0.9090909, 0 ]
+				}
+			}]
+		},
+	
+		"III" :
+		{
+			"Text" : "LOC_SPEC_Heli_III",
+			"TowerModifiers" :
+			[{
+				 "TargetingFilter" : { "Include" : { "TowerType": [ "HeliPilot" ] } },
+				 "Modifier" :
+				 {
+					 "PlacementRect": [ [0.8, 0], [0.8, 0] ],
+                     "Display" : "helicopter_helipad_small.json"
+				 }
+			}]
+		},
+		
+        "IV" :
+        {
+            "Text" : "LOC_SPEC_Heli_IV",
+            "TowerModifiers" :
+            [{
+                "TargetingFilter" : { "Include" : { "TowerType": [ "HeliPilotAircraft" ] } },
+                "Modifier" :
+                {
+                    "AircraftSpeed" : [ 2.0, 0 ]
+                }
+            }]
+        },
+        
+		"X" :
+		{
+			"Text" : "LOC_SPEC_Heli_X",
+			"TowerModifiers" :
+			[{
+				"TargetingFilter" : { "Include" : { "TowerType": [ "MonkeyApprentice" ] } },
+				"Modifier" : { "Cost" : [ 1.05, 0 ] }
+			}]
+		}
+	}
+}

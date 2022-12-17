@@ -1,0 +1,47 @@
+{
+    "AircraftList" : [ ],
+    "BaseCost" : 0,
+    "CanBePlacedInWater" : false,
+    "CanBePlacedOnLand" : true,
+    "CanBePlacedOnPath" : false,
+    "CanTargetCamo" : true,
+    "DefaultSprite" : "",
+    "DefaultWeapons" : [
+        "SupplyCrate.weapon",
+		"EggScrambler.weapon",
+        "GoldenEggScrambler.weapon"
+    ],
+	"ActiveWeaponSlots": [
+		true,
+		false,
+        false
+	],
+	"SlotsToFireOnBloonEscape": [
+		1,
+        2
+	],
+	"DrawWeaponsOnTop" : false,
+    "Icon" : "",
+    "PlacementH" : 0.0,
+    "PlacementRadius" : 5.0,
+    "PlacementW" : 0.0,
+    "RankToUnlock" : 1,
+    "RotatesToTarget" : false,
+    "TargetIsWeaponOrigin" : false,
+    "TargetingMode" : "None",
+    "TargetsManually" : false,
+    "TypeName" : "SupplyCrate",
+    "Upgrades" : [
+        [
+        ],
+        [
+        ]
+    ],
+    "UpgradePrices" : 
+    [
+        [ 0, 0, 0, 0 ],
+        [ 0, 0, 0, 0 ]
+    ],
+    "UseRadiusPlacement" : true,
+    "SkipFirstFrameWhenFiring" : false
+}

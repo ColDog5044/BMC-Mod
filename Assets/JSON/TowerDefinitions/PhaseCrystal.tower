@@ -1,0 +1,33 @@
+{
+    "AircraftList" : [ ],
+    "BaseCost" : 0,
+    "CanBePlacedInWater" : true,
+    "CanBePlacedOnLand" : true,
+    "CanBePlacedOnPath" : false,
+    "CanTargetCamo" : true,
+    "DefaultSprite" : "",
+    "UseDefaultRangeCircle" : true,
+  	"DefaultRangeSize": 150,
+    "DefaultWeapons" : [
+        "PhaseCrystal.weapon"
+    ],
+	"DrawWeaponsOnTop" : false,
+    "Icon" : "special_phase_crystal_avatar_small",
+    "PlacementH" : 0.0,
+    "PlacementRadius" : 60.0,
+    "PlacementW" : 0.0,
+    "RankToUnlock" : 1,
+    "RotatesToTarget" : false,
+    "TargetIsWeaponOrigin" : false,
+    "TargetingMode" : "None",
+    "TargetsManually" : false,
+    "TypeName" : "PhaseCrystal",
+	"UpgradeGateway" :
+	[
+		[  ],
+		[  ]
+	],
+    "UseRadiusPlacement" : true,
+    "SkipFirstFrameWhenFiring" : false,
+    "IsAgent" : true
+}

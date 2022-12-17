@@ -1,0 +1,94 @@
+{
+    "TypeName" : "MonkeyApprentice",
+    "AircraftList" : [
+    ],
+    "BaseCost" : 550,
+    "CanBePlacedInWater" : true,
+    "CanBePlacedOnLand" : true,
+    "CanBePlacedOnPath" : false,
+    "CanTargetCamo" : true,
+    "DefaultWeapons" : [
+        "MonkeyApprentice.weapon",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "SeekingBolt.weapon"
+    ],
+    "ActiveWeaponSlots": [
+		true,
+        true,
+        true,
+        true,
+        true,
+        true,
+		false
+	],
+    "Icon" : "apprentice_avatar_small",
+    "UI_Icon"  : "apprentice_icon",
+    "PlacementH" : 0.0,
+    "PlacementRadius" : 0.0,
+    "PlacementW" : 0.0,
+    "RankToUnlock" : 14,
+    "RotatesToTarget" : true,
+    "TargetIsWeaponOrigin" : false,
+    "TargetingMode" : "First",
+    "TargetsManually" : false,
+    "Upgrades" : [
+        [
+            "Intense Magic",
+            "Lightning Bolt",
+            "Summon Whirlwind",
+            "Tempest Tornado"
+        ],
+        [
+            "Fireball",
+            "Monkey Sense",
+            "Dragon's Breath",
+            "Summon Phoenix"
+        ]
+    ],
+	"UpgradeGateway" :
+	[
+		[ { "Rank" : 0, "XP" : 140 }, { "Rank" : 0, "XP" : 1280 }, { "Rank" : 0, "XP" : 4870 }, { "Rank" : 34, "XP" : 25590 } ],
+		[ { "Rank" : 0, "XP" : 495 }, { "Rank" : 0, "XP" : 2140 }, { "Rank" : 0, "XP" : 8600 }, { "Rank" : 34, "XP" : 44280 } ]
+	],
+    "UpgradePrices" : 
+    [
+        [ 300, 1200, 2000, 8000 ],
+        [ 300, 300, 4200, 5000 ]
+    ],
+    "UpgradeAvatars" : [
+        [
+            "apprentice_avatar_intense_magic_small",
+            "apprentice_avatar_lightning_small",
+            "apprentice_avatar_whirlwind_small",
+            "apprentice_avatar_tornado_small"
+        ],
+        [
+            "apprentice_avatar_fireball_small",
+            "apprentice_avatar_sense_small",
+            "apprentice_avatar_dragon_breath_small",
+            "apprentice_avatar_phoenix_small"
+        ]
+    ],
+    
+    "UpgradeIcons" : [
+        [
+            "apprentice_intense_magic_icon",
+            "apprentice_lightning_icon",
+            "apprentice_whirlwind_icon",
+            "apprentice_tornado_icon"
+        ],
+        [
+            "apprentice_fireball_icon",
+            "apprentice_monkey_sense_icon",
+            "apprentice_dragon_breath_icon",
+            "apprentice_phoenix_icon"
+        ]
+    ],  
+      
+    "UseRadiusPlacement" : true,
+    "SpriteUpgradeDefinition" : "MonkeyApprentice.json"
+}

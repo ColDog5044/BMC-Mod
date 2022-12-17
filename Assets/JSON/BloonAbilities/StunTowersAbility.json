@@ -1,0 +1,5 @@
+{
+    "NumSections": 4,
+    "Cooldown": [20,15,10,5],
+    "StunTime": 5
+}

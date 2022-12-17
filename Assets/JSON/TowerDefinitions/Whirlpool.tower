@@ -1,0 +1,39 @@
+{
+    "AircraftList" : [ ],
+    "BaseCost" : 0,
+    "CanBePlacedInWater" : false,
+    "CanBePlacedOnLand" : true,
+    "CanBePlacedOnPath" : false,
+    "CanTargetCamo" : true,
+    "DefaultSprite" : "Whirlpool.json",
+    "UseDefaultRangeCircle" : true,
+  	"DefaultRangeSize": 50,
+	"DrawLayer" : "UnderTowers",
+    "DefaultWeapons" : [
+        "Whirlpool.weapon",
+        "WhirlpoolEnable.weapon"
+    ],
+	"ActiveWeaponSlots": [
+		false,
+		true
+	],
+	"DrawWeaponsOnTop" : false,
+    "Icon" : "special_shipwreck_pool_avatar_small",
+    "PlacementH" : 0.0,
+    "PlacementRadius" : 20.0,
+    "PlacementW" : 0.0,
+    "RankToUnlock" : 1,
+    "RotatesToTarget" : false,
+    "TargetIsWeaponOrigin" : false,
+    "TargetingMode" : "None",
+    "TargetsManually" : false,
+    "TypeName" : "Whirlpool",
+	"UpgradeGateway" :
+	[
+		[  ],
+		[  ]
+	],
+    "UseRadiusPlacement" : true,
+    "SkipFirstFrameWhenFiring" : false,
+    "IsAgent" : true
+}

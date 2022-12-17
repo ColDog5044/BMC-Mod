@@ -1,0 +1,36 @@
+{
+    "AircraftList" : [
+    ],
+    "BaseCost" : 0,
+    "CanBePlacedInWater" : false,
+    "CanBePlacedOnLand" : true,
+    "CanBePlacedOnPath" : false,
+    "CanTargetCamo" : false,
+    "DefaultWeapons" : [ "SupplyCratePlane.weapon" ],
+    "Icon" : "dart_monkey_avatar_small",
+    "PlacementH" : 0.0,
+    "PlacementRadius" : 8.0,
+    "PlacementW" : 0.0,
+    "RankToUnlock" : 1,
+    "RotatesToTarget" : false,
+    "DefaultSprite" : "SupplyCratePlane.json",
+    "TargetIsWeaponOrigin" : false,
+    "TargetingMode" : "Any",
+    "TargetsManually" : false,
+    "TypeName" : "SupplyCratePlane",
+    "Upgrades" :
+    [
+    	[  ],
+    	[  ]
+    ],
+    "UpgradePrices" : 
+    [
+        [  ],
+        [  ]
+    ],
+    "UseRadiusPlacement" : false,
+    "IsAircraft" : true,
+    "AircraftRadius" : 1,
+    "AircraftSpeed" : 150,
+	"TerminateAtEndOfPath": true
+}

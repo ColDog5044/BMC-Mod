@@ -1,0 +1,24 @@
+{	
+    "Type":             "RadadactylPlane",
+    "TargetRange":      35,
+	"CooldownTime":     0,
+    "FireDelayTime":    0.0,
+   
+    "Tasks" :
+    [
+		{
+			"Type" : "AreaOfEffect",
+			"Range" : 35,
+			"MaxTargets" : 10,
+			
+			"Tasks" :
+			[
+				{
+					"Type" : "Damage",
+					"DamageType" : "Piercing",
+					"Amount" : 1
+				}
+			]
+		}
+	]
+}

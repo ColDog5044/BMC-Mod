@@ -1,0 +1,90 @@
+{
+    "AircraftList" : [
+    ],
+    "BaseCost" : 270,
+    "CanBePlacedInWater" : true,
+    "CanBePlacedOnLand" : true,
+    "CanBePlacedOnPath" : false,
+    "CanTargetCamo" : true,
+    "DefaultWeapons" : [
+        "GlueGunner.weapon",
+        "",
+        "GlueOnTrack.weapon"
+    ],
+    
+    "ActiveWeaponSlots" :
+    [
+        true,
+        true,
+        false
+    ],
+    
+    "Icon" : "glue_gunner_avatar_small",
+    "UI_Icon" : "glue_gunner_icon",
+    "PlacementH" : 0.0,
+    "PlacementRadius" : 0.0,
+    "PlacementW" : 0.0,
+    "RankToUnlock" : 9,
+    "RotatesToTarget" : true,
+    "TargetIsWeaponOrigin" : false,
+    "TargetingMode" : "First",
+    "TargetsManually" : false,
+    "TypeName" : "GlueGunner",
+    "Upgrades" : [
+        [
+            "Glue Soak",
+            "Corrosive Glue",
+            "Bloon Dissolver",
+            "Bloon Liquefier"
+        ],
+        [
+            "Stickier Glue",
+            "Glue Splatter",
+            "Glue Hose",
+            "Glue Striker"
+        ]
+    ],
+	"UpgradeGateway" :
+	[
+		[ { "Rank" : 0, "XP" : 75 }, { "Rank" : 0, "XP" : 705 }, { "Rank" : 0, "XP" : 3095 }, { "Rank" : 28, "XP" : 20003 } ],
+		[ { "Rank" : 0, "XP" : 275 }, { "Rank" : 0, "XP" : 1165 }, { "Rank" : 0, "XP" : 6175 }, { "Rank" : 28, "XP" : 33668 } ]
+	],
+    "UpgradePrices" : 
+    [
+        [ 200, 300, 3300, 12500 ],
+        [ 120, 2200, 3250, 5500 ]
+    ],
+    "UpgradeAvatars" : [
+        [
+            "glue_gunner_avatar_glue_soak_small",
+            "glue_gunner_avatar_corrosive_small",
+            "glue_gunner_avatar_dissolver_small",
+            "glue_gunner_avatar_liquefier_small"
+        ],
+        [
+            "glue_gunner_avatar_stickier_glue_small",
+            "glue_gunner_avatar_splatter_small",
+            "glue_gunner_avatar_hose_small",
+            "glue_gunner_avatar_striker_small"
+        ]
+    ],
+    
+    "UpgradeIcons" : [
+        [
+            "glue_soak_icon",
+            "glue_corrosive_icon",
+            "glue_dissolver_icon",
+            "glue_liquefier_icon"
+        ],
+        [
+            "glue_stickier_glue_icon",
+            "glue_splatter_icon",
+            "glue_hose_icon",
+            "glue_striker_icon"
+        ]
+    ],
+        
+    "UseRadiusPlacement" : true,
+    
+    "SpriteUpgradeDefinition" : "GlueGunner.json"
+}

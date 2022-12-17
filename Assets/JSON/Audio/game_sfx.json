@@ -1,0 +1,84 @@
+{
+    "SFX": [
+            ["EXPLOSION", 0.1, [
+                                "explosion_small.wav"
+                                ]],
+            ["FROZEN_HIT", 0.1, [
+                                 "frozen_bloon_hit_mastered.wav"
+                                 ]],
+            ["CERAMIC_HIT", 0.1, [
+                                  "ceramic_bloon_hit.wav"
+                                  ]],
+            ["METAL_HIT", 0.1, [
+                                "metal_bloon_hit.wav"
+                                ]],
+            ["MOAB_HIT", 0.1, [
+                               "moab_damage_quieter.wav"
+                               ]],
+            ["MOAB_DESTROY", 0.5, [
+                                   "moab_destroyed_short.wav"
+                                   ]],
+            ["TOWER_SELL", 0.2, [
+                                 "sell_tower.wav"
+                                 ]],
+            ["TOWER_BOOST", 0.2, [
+                                  "tower_power.wav"
+                                  ]],
+            ["FINAL_ROUND", 0.2, [
+                                  "FinalRound.wav"
+                                  ]],
+            ["TOWER_UPGRADE", 0.1, [
+                                    "upgrade.wav"
+                                    ]],
+            ["EGG_SCRAMBLER", 0.1, [
+                                    "Bell3.wav"
+                                    ]],
+            ["BOSS_DEATH", 0.1, [
+                                 "BossDeath.wav"
+                                 ]],
+            ["POWER_BANE", 0.1, [
+                                 "PowerBane.wav"
+                                 ]],
+            ["POWER_BLAST", 0.1, [
+                                  "PowerBlast.wav"
+                                  ]],
+            ["POWER_FREEZE", 0.1, [
+                                   "PowerFreeze.wav"
+                                   ]],
+            ["POWER_WEAKEN", 0.1, [
+                                   "PowerWeaken.wav"
+                                   ]],
+            ["SWAMP_DEATH", 0.1, [
+                                  "SwampDeath.wav"
+                                  ]],
+            ["SWAMP_SPAWN", 0.1, [
+                                  "SwampSpawn.wav"
+                                  ]],
+            ["VORTEX_SPAWN", 0.1, [
+                                   "VortexSpawn.wav"
+                                   ]],
+            ["DREADBLOON_SPAWN", 0.1, [
+                                       "DreadBloonSpawn.wav"
+                                       ]],
+            ["DREADBLOON_RECHARGE", 0.1, [
+                                          "DreadBloonReshield.wav"
+                                          ]],
+            ["DREADBLOON_RECHARGE_SHORT", 0.1, [
+                                                "DreadBloonReshieldShort.wav"
+                                                ]],
+            ["DREADBLOON_ROCK_SHATTER", 0.1, [
+                                                "DreadBloonRockShatter.wav"
+                                                ]],
+            ["BLASTAPOPOULOS_ATTACK", 0.1, [
+                                            "BlastapopulousAttack.wav"
+                                            ]],
+            ["BLASTAPOPOULOS_IMPACT", 0.1, [
+                                            "BlastapopulousImpact.wav"
+                                            ]],
+            ["BLASTAPOPOULOS_INTRO", 0.1, [
+                                            "BlastapopulousIntro.wav"
+                                            ]]
+            
+            
+            ]
+}

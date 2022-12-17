@@ -1,0 +1,41 @@
+{
+   "actors" : [
+      {
+        "Alignment" : [ 0 , 0 ],
+        "Flip" : 0,
+        "Position" : [ 0.0 , 0.0 ],
+        "Angle" : 0.0,
+        "sprite" : "bg_wood",
+        "type" : 1,
+        "uid" : 1,
+        "Scale" : [ 1.0 , 1.0 ],
+        "Shown" : true,
+        "Alpha" : 1.0
+      },
+      {
+        "Alignment" : [ 0 , 4 ],
+        "Flip" : 0,
+        "Position" : [ 0.0 , 166.0 ],
+        "Angle" : 0.0,
+        "sprite" : "bottom_title_bar",
+        "type" : 1,
+        "uid" : 2,
+        "Scale" : [ 1.0 , 1.0 ],
+        "Shown" : true,
+        "Alpha" : 1.0
+      },
+      {
+        "Alignment" : [ 0 , 3 ],
+        "Flip" : 0,
+        "Position" : [ 0.0 , -166.0 ],
+        "Angle" : 0.0,
+        "sprite" : "top_title_bar",
+        "type" : 1,
+        "uid" : 3,
+        "Scale" : [ 1.0 , 1.0 ],
+        "Shown" : true,
+        "Alpha" : 1.0
+      }
+   ],
+   "stageOptions" : null
+}

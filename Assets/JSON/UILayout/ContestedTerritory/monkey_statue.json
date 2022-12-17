@@ -1,0 +1,154 @@
+{
+   "Alignment" : null,
+   "Point" : null,
+   "actors" : [
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ 0.0, 0.0 ],
+         "Scale" : [ 1.0, 1.0 ],
+         "Shown" : true,
+         "sprite" : "monkey_statue",
+         "type" : 1,
+         "uid" : 1
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -12.0, 8.0 ],
+         "Scale" : [ 0.0, 0.0 ],
+         "Shown" : true,
+         "sprite" : "sparkle",
+         "type" : 1,
+         "uid" : 2
+      },
+      {
+         "Alignment" : [ 0, 0 ],
+         "Alpha" : 1.0,
+         "Angle" : 0.0,
+         "Colour" : 4294967295,
+         "Flip" : 0,
+         "Position" : [ -10.0, -23.0 ],
+         "Scale" : [ 0.0, 0.0 ],
+         "Shown" : true,
+         "sprite" : "sparkle",
+         "type" : 1,
+         "uid" : 3
+      }
+   ],
+   "customvariables" : null,
+   "labels" : null,
+   "stageOptions" : {
+      "SpriteInfo" : [
+         {
+            "SpriteInfo" : "monkey_statue",
+            "Texture" : "contested_territory"
+         },
+         {
+            "SpriteInfo" : "sparkle",
+            "Texture" : "contested_territory"
+         }
+      ],
+      "StageLength" : 2.50,
+      "Version" : 1
+   },
+   "timelines" : [
+      {
+         "spriteuid" : 1,
+         "stage" : null
+      },
+      {
+         "spriteuid" : 2,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -12.0, 8.0 ],
+               "Scale" : [ 0.0, 0.0 ],
+               "Shown" : true,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 357.50,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -12.0, 8.0 ],
+               "Scale" : [ 0.0, 0.0 ],
+               "Shown" : true,
+               "Time" : 0.50
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 180.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -12.0, 8.0 ],
+               "Scale" : [ 1.50, 1.50 ],
+               "Shown" : true,
+               "Time" : 0.250
+            }
+         ]
+      },
+      {
+         "spriteuid" : 3,
+         "stage" : [
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -10.0, -23.0 ],
+               "Scale" : [ 0.0, 0.0 ],
+               "Shown" : true,
+               "Time" : 0.0
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 0.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -10.0, -23.0 ],
+               "Scale" : [ 0.0, 0.0 ],
+               "Shown" : true,
+               "Time" : 0.09982638806104660
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 321.7534790039063,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -10.0, -23.0 ],
+               "Scale" : [ 0.4027776718139648, 0.4027776718139648 ],
+               "Shown" : true,
+               "Time" : 0.6467013955116272
+            },
+            {
+               "Alignment" : [ 0, 0 ],
+               "Alpha" : 1.0,
+               "Angle" : 180.0,
+               "Colour" : 4294967295,
+               "Flip" : 0,
+               "Position" : [ -10.0, -23.0 ],
+               "Scale" : [ 2.0, 2.0 ],
+               "Shown" : true,
+               "Time" : 0.3480902910232544
+            }
+         ]
+      }
+   ]
+}

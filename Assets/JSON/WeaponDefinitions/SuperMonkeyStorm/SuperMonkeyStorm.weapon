@@ -1,0 +1,43 @@
+{	
+    "Type":             "SuperMonkeyStorm",    
+    "TargetRange":      20,
+	"CooldownTime":     0,
+    "FireDelayTime":    0.0,
+    
+    "Tasks" :
+    [
+		{
+			"Type": "TimerFire",
+			"TimeDelay": 0.63,
+			
+			"Tasks":
+			[
+				{
+					"Type": "AreaOfEffect",
+					"Range": 1000,
+					"MaxTargets": -1,
+					
+					"Tasks" :
+					[ 
+						{
+							"Type": "Damage",
+							"DamageType": "Plasma",
+							"Amount": 500
+						},
+						{
+							"Type": "StatusEffect",
+							"Status": "MultiLayerDamage",
+							"Kill" : true
+						}
+					]
+				}
+			]
+		},
+		{
+			"Type": "Effect",
+			"SpriteFile": "supermonkey_storm.json",
+			"Position": [ 240, 160 ],
+			"DrawLayer": "FullScreen"
+		}
+	]
+}

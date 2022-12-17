@@ -1,0 +1,52 @@
+{	
+    "Type":             	"WhirlpoolEnable",    
+    "TargetRange":      	110,
+	"CooldownTime":     	30.0,
+    "FireDelayTime":    	0.0,
+	"ManuallyFired": 		true,
+	"RequiresTargetToFire":	false,
+    	
+    "Tasks" :
+    [
+        {
+            "Type" : "EnableWeaponSlot",
+            "SlotIndex" : 0
+        },
+        {
+            "Type": "TimerFire",
+            "TimeDelay" : 10,
+            "Tasks" : 
+            [
+            	{
+                	"Type" : "EnableWeaponSlot",
+                    "SlotIndex" : 0,
+                    "Enable" : false
+                }
+            ]
+        },
+		{
+			"Type": "TowerModifier",
+			"Range": 0,
+			"PriorityLevel": 1,
+			"ApplyToUserTower": true,
+            "ModifyNewlySpawnedTowers": false,
+			"TerminateOnUserUpgrade": false,
+
+			"Duration": 10,
+			"NumPersists": 1,
+
+			"TargetingFilter":
+			{
+				"Include" :
+				{
+					"TowerType": [ "Whirlpool" ]
+				}
+			},
+
+			"Modifier":
+			{
+				"Display": "WhirlpoolOn.json"
+			}
+		}
+	]
+}

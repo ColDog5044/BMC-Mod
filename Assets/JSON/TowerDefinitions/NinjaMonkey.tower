@@ -1,0 +1,95 @@
+{
+    "AircraftList" : [
+    ],
+    "BaseCost" : 500,
+    "CanBePlacedInWater" : true,
+    "CanBePlacedOnLand" : true,
+    "CanBePlacedOnPath" : false,
+    "CanTargetCamo" : true,
+    "DefaultWeapons" : [
+        "NinjaMonkey.weapon",
+        "",
+        "",
+        "",
+        "ShadowDouble.weapon"
+    ],
+    
+    "ActiveWeaponSlots" :
+    [
+        true,
+        true,
+        true,
+        true,
+        false
+    ],
+    
+    "Icon" : "ninja_avatar_small",
+    "UI_Icon" : "ninja_icon",
+    "PlacementH" : 0.0,
+    "PlacementRadius" : 0.0,
+    "PlacementW" : 0.0,
+    "RankToUnlock" : 6,
+    "RotatesToTarget" : true,
+    "TargetIsWeaponOrigin" : false,
+    "TargetingMode" : "First",
+    "TargetsManually" : false,
+    "TypeName" : "NinjaMonkey",
+    "Upgrades" : [
+        [
+            "Ninja Discipline",
+            "Sharp Shurikens",
+            "Double Shot",
+            "Bloonjitsu"
+        ],
+        [
+            "Seeking Shuriken",
+            "Distraction",
+            "Flash Bomb",
+            "Sabotage Supply Lines"
+        ]
+    ],
+	"UpgradeGateway" :
+	[
+		[ { "Rank" : 0, "XP" : 125 }, { "Rank" : 0, "XP" : 1325 }, { "Rank" : 0, "XP" : 5200 }, { "Rank" : 25, "XP" : 24750 } ],
+		[ { "Rank" : 0, "XP" : 475 }, { "Rank" : 0, "XP" : 2300 }, { "Rank" : 0, "XP" : 8700 }, { "Rank" : 25, "XP" : 40725 } ]
+	],
+    "UpgradePrices" : 
+    [
+        [ 300, 350, 850, 2750 ],
+        [ 250, 350, 2750, 2800 ]
+    ],
+    "UpgradeAvatars" : [
+        [
+            "ninja_avatar_discipline_small",
+            "ninja_avatar_sharp_shuriken_small",
+            "ninja_avatar_double_shot_small",
+            "ninja_avatar_bloonjitsu_small"
+        ],
+        [
+            "ninja_avatar_seeking_shuriken_small",
+            "ninja_avatar_distraction_small",
+            "ninja_avatar_flash_bomb_small",
+            "ninja_avatar_sabotage_small"
+        ]
+    ],
+    
+    "UpgradeIcons" : [
+        [
+            "ninja_discipline_icon",
+            "ninja_sharp_shurikens_icon",
+            "ninja_double_shot_icon",
+            "ninja_bloonjitsu_icon"
+        ],
+        [
+            "ninja_seeking_shuriken_icon",
+            "ninja_distraction_icon",
+            "ninja_flash_bomb_icon",
+            "ninja_sabotage_icon"
+        ]
+    ],
+        
+    "UseRadiusPlacement" : true,
+    "FiresWeaponsInSequence" : false,
+    "FiringSequence" : [ [ 0, 0, 0, 1 ] ],
+    "SpriteUpgradeDefinition" : "NinjaMonkey.json"
+}
