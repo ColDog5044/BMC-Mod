@@ -10,7 +10,7 @@
 
 # Terms of Use
 
- - **DO NOT** make any changes to my mod files and publicly distribute it, you may only modify the files for personal use.
+ - **DO NOT** make any changes to the mod files and publicly distribute it as your own, you may only modify the files for personal use.
 
 ## How to Install
 
